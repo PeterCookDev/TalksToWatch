@@ -5,11 +5,12 @@
 - [DEBUGGING: THE SCIENCE OF DEDUCTION](https://vimeo.com/111108891)
 - [AUTOMATION ABSTRACTIONS - PAGE OBJECTS AND BEYOND](https://vimeo.com/111214646)
 - [You really should organise that codebase. No, really!](https://vimeo.com/111830751)
-- [Greg Young - "How to get productive in a project in 24h"](https://www.youtube.com/watch?v=KaLROwp-VDY)
 - [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](http://vimeo.com/68390510)
 - [GTAC 2014: I Don't Test Often ... But When I Do, I Test in Production](https://www.youtube.com/watch?v=xkP70Zhhix4&list=PLSIUOFhnxEiDFckNDSjKWqOCtd8ksJrh4&index=8)
 - [Liam Westley - Async C# 5.0 - Patterns For Real World Use](http://vimeo.com/97337304)
 - [Jon Skeet: Abusing C#](http://vimeo.com/68320506)
+- [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)
+- [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)
 
 ## Design Principles
 
@@ -28,7 +29,7 @@
 - [The Power Of Abstraction - Barbara Liskov](http://www.infoq.com/presentations/liskov-power-of-abstraction)
 - [Accelerate your development by accelerating your feedback loop - Johannes Brodwall](http://vimeo.com/105888938)
 - [Immutability Changes Everything - Pat Helland](http://vimeo.com/52831373)
-
+- [Unleash Your Domain - Greg Young](https://vimeo.com/19428577)
 
 ## Agile & Development Practices
 
@@ -64,10 +65,7 @@
 
 - [SPLUNK, A SMORGASBORD FOR DEVELOPING BIG DATA SOLUTIONS](https://vimeo.com/111111119)
 - [MACHINE LEARNING SMACKDOWN](https://vimeo.com/111040772)
-
-## Leadership, Collaboration and Learning
-
-- [ABOUT PASSION AND COLLABORATION](https://vimeo.com/111204421)
+- [Introduction to Neural Networks, Vector Reduction and Natural Language Processing](https://www.youtube.com/watch?v=_ml5XQn-_SQ)
 
 ## Security
 
