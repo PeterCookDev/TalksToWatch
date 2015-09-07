@@ -11,6 +11,7 @@
 - [Jon Skeet: Abusing C#](http://vimeo.com/68320506)
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)
+- [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)
 
 ## Design Principles
 
@@ -30,6 +31,8 @@
 - [Accelerate your development by accelerating your feedback loop - Johannes Brodwall](http://vimeo.com/105888938)
 - [Immutability Changes Everything - Pat Helland](http://vimeo.com/52831373)
 - [Unleash Your Domain - Greg Young](https://vimeo.com/19428577)
+- [Decoupling from ASP.NET - Hexagonal Architectures in .NET by Ian Cooper](https://vimeo.com/113621145)
+- [Not just layers! What can pipelines and events do for you? by Ian Cooper](https://vimeo.com/113584390)
 
 ## Agile & Development Practices
 
@@ -59,13 +62,15 @@
 - [Anders Ljusberg: CQRS Hypermedia with WebAPI](http://vimeo.com/68320468)
 - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
 - [Stefan Tilkov: Nano, Micro, Mini, oh my: Modularization for sustainable systems](https://www.youtube.com/watch?v=HYiLzji7MuY)
-
+- [Challenges in Implementing MicroServices by Fred George](https://www.youtube.com/watch?v=yPf5MfOZPY0)
+- [Microservices, cutting through the Gordian Knot - Ian Cooper](https://vimeo.com/132194544)
 
 ## Data Science
 
 - [SPLUNK, A SMORGASBORD FOR DEVELOPING BIG DATA SOLUTIONS](https://vimeo.com/111111119)
 - [MACHINE LEARNING SMACKDOWN](https://vimeo.com/111040772)
 - [Introduction to Neural Networks, Vector Reduction and Natural Language Processing](https://www.youtube.com/watch?v=_ml5XQn-_SQ)
+- [Realtime Data Analytics at Datadog](https://www.youtube.com/watch?v=49YOOw0WDl8)
 
 ## Security
 
