@@ -2,9 +2,7 @@
 
 ## General Development
 
-- [DEBUGGING: THE SCIENCE OF DEDUCTION](https://vimeo.com/111108891)
 - [AUTOMATION ABSTRACTIONS - PAGE OBJECTS AND BEYOND](https://vimeo.com/111214646)
-- [You really should organise that codebase. No, really!](https://vimeo.com/111830751)
 - [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](http://vimeo.com/68390510)
 - [GTAC 2014: I Don't Test Often ... But When I Do, I Test in Production](https://www.youtube.com/watch?v=xkP70Zhhix4&list=PLSIUOFhnxEiDFckNDSjKWqOCtd8ksJrh4&index=8)
 - [Liam Westley - Async C# 5.0 - Patterns For Real World Use](http://vimeo.com/97337304)
@@ -47,7 +45,6 @@
 - [DevOpsDays Boston 2014 - Jennifer Davis - From Hero to Zero](https://vimeo.com/104252736)
 - [Richard Campbell - People, Process, Tools – The Essence of DevOps](http://vimeo.com/97337256)
 - [Release Engineering as a Force Multiplier](http://www.youtube.com/watch?v=7j0NDGJVROI)
-
 
 ## Python
 
