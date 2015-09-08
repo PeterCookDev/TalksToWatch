@@ -10,6 +10,7 @@
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)
 - [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)
+- [John Hughes: Race Conditions, Distribution, Interactions--Testing the Hard Stuff and Staying Sane](https://vimeo.com/68383317)
 
 ## Design Principles
 
@@ -31,13 +32,15 @@
 - [Unleash Your Domain - Greg Young](https://vimeo.com/19428577)
 - [Decoupling from ASP.NET - Hexagonal Architectures in .NET by Ian Cooper](https://vimeo.com/113621145)
 - [Not just layers! What can pipelines and events do for you? by Ian Cooper](https://vimeo.com/113584390)
+- [The Power and Practicalities of Immutability - Venkat Subramaniam](https://vimeo.com/131635253)
+- [Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759)
 
 ## Agile & Development Practices
 
 - [SCALED AGILE @ SPOTIFY](https://vimeo.com/111131934)
 - [John Hughes: Race Conditions, Distribution, Interactions--Testing the Hard Stuff and Staying Sane](http://vimeo.com/68383317)
 - [Seb Rose - So long, and thanks for all the tests](http://vimeo.com/105861375)
-
+- [How to do test reviews - Roy Osherove](https://vimeo.com/19431001)
 
 ## Devops
 
@@ -61,6 +64,7 @@
 - [Stefan Tilkov: Nano, Micro, Mini, oh my: Modularization for sustainable systems](https://www.youtube.com/watch?v=HYiLzji7MuY)
 - [Challenges in Implementing MicroServices by Fred George](https://www.youtube.com/watch?v=yPf5MfOZPY0)
 - [Microservices, cutting through the Gordian Knot - Ian Cooper](https://vimeo.com/132194544)
+- [The rest of ReST - Dylan Beattie](https://vimeo.com/131641615)
 
 ## Data Science
 
@@ -77,3 +81,9 @@
 
 - [Tim Berglund - GitHub Power Tools](http://vimeo.com/97473703)
 - [Paul Betts: Effective GitHubbing: The GitHub Flow](http://vimeo.com/68378254)
+
+## Leadership and Management
+
+- [Roy Osherove - The Software Team Leader Manifesto](https://vimeo.com/43612918)
+- [Roy Osherove - Notes to a Team Leader](https://vimeo.com/95208784)
+- [How to build and be a part of a highly efficient team - Kjell Ljøstad](https://vimeo.com/131748093)
