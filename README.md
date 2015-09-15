@@ -41,6 +41,8 @@
 - [John Hughes: Race Conditions, Distribution, Interactions--Testing the Hard Stuff and Staying Sane](http://vimeo.com/68383317)
 - [Seb Rose - So long, and thanks for all the tests](http://vimeo.com/105861375)
 - [How to do test reviews - Roy Osherove](https://vimeo.com/19431001)
+- ["The Executioner's Tale" Christina Wodtke-Interaction14](https://vimeo.com/86392023)
+
 
 ## Devops
 
@@ -81,9 +83,11 @@
 
 - [Tim Berglund - GitHub Power Tools](http://vimeo.com/97473703)
 - [Paul Betts: Effective GitHubbing: The GitHub Flow](http://vimeo.com/68378254)
+- [The Motivation for a Monolithic Codebase Why Google Stores Billions of Lines of Code in  a single repository](https://www.youtube.com/watch?v=W71BTkUbdqE)
 
 ## Leadership and Management
 
 - [Roy Osherove - The Software Team Leader Manifesto](https://vimeo.com/43612918)
 - [Roy Osherove - Notes to a Team Leader](https://vimeo.com/95208784)
 - [How to build and be a part of a highly efficient team - Kjell Ljøstad](https://vimeo.com/131748093)
+- [Why Yammer believes the traditional engineering organizational structure is dead wrong](https://www.youtube.com/watch?v=RsWZNaaic1k)
