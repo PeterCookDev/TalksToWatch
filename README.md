@@ -10,12 +10,12 @@
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)
 - [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)
-- [John Hughes: Race Conditions, Distribution, Interactions--Testing the Hard Stuff and Staying Sane](https://vimeo.com/68383317)
 
 ## Design Principles
 
 - [Refactoring to Functional](https://vimeo.com/111506976)
 - [Jessica Kerr - Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU)
+- [Greg Young - Functional Data](https://vimeo.com/131636650)
 - [8 SIMPLE TDD RULES](https://vimeo.com/111091466)
 - [REACTIVE PROGRAMMING - WHY THE HYPE?](https://vimeo.com/111000200)
 - [Adam Tornhill - Code that fits your brain](http://vimeo.com/97471514)
@@ -38,7 +38,6 @@
 ## Agile & Development Practices
 
 - [SCALED AGILE @ SPOTIFY](https://vimeo.com/111131934)
-- [John Hughes: Race Conditions, Distribution, Interactions--Testing the Hard Stuff and Staying Sane](http://vimeo.com/68383317)
 - [Seb Rose - So long, and thanks for all the tests](http://vimeo.com/105861375)
 - [How to do test reviews - Roy Osherove](https://vimeo.com/19431001)
 - ["The Executioner's Tale" Christina Wodtke-Interaction14](https://vimeo.com/86392023)
@@ -91,3 +90,12 @@
 - [Roy Osherove - Notes to a Team Leader](https://vimeo.com/95208784)
 - [How to build and be a part of a highly efficient team - Kjell Ljøstad](https://vimeo.com/131748093)
 - [Why Yammer believes the traditional engineering organizational structure is dead wrong](https://www.youtube.com/watch?v=RsWZNaaic1k)
+- [Flourish](https://vimeo.com/channels/thersa/26720639)
+- [Simon Sinek: If You Don't Understand People, You Don't Understand Business](https://vimeo.com/26774102)
+- [Simon Sinek: Why Leaders Eat Last](https://vimeo.com/79899786)
+- [Teresa Amabile: Track Your Small Wins to Motivate Big Accomplishments](https://vimeo.com/49179452)
+- [Joshua Foer: Step Outside Your Comfort Zone and Study Yourself Failing](https://vimeo.com/27067169)
+- [Alexis Ohanian: Sucking is the First Step to Being Good at Something](https://vimeo.com/90244076)
+- [Seth Godin: Keep Making a Ruckus](https://vimeo.com/111658420)
+- [Wil Reynolds: The Hidden Danger of Confusing Outputs for Outcome](https://vimeo.com/130879614)
+- [Seth Godin: Tribes](https://vimeo.com/2090774)
