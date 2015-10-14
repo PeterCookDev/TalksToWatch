@@ -41,6 +41,7 @@
 - [Seb Rose - So long, and thanks for all the tests](http://vimeo.com/105861375)
 - [How to do test reviews - Roy Osherove](https://vimeo.com/19431001)
 - ["The Executioner's Tale" Christina Wodtke-Interaction14](https://vimeo.com/86392023)
+- [Fred George - Programmer Anarchy](https://vimeo.com/43690647)
 
 
 ## Devops
@@ -94,6 +95,5 @@
 - [Teresa Amabile: Track Your Small Wins to Motivate Big Accomplishments](https://vimeo.com/49179452)
 - [Joshua Foer: Step Outside Your Comfort Zone and Study Yourself Failing](https://vimeo.com/27067169)
 - [Alexis Ohanian: Sucking is the First Step to Being Good at Something](https://vimeo.com/90244076)
-- [Seth Godin: Keep Making a Ruckus](https://vimeo.com/111658420)
 - [Seth Godin: Tribes](https://vimeo.com/2090774)
 - [Wil Reynolds: The Hidden Danger of Confusing Outputs for Outcome](https://vimeo.com/130879614)
