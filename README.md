@@ -10,6 +10,8 @@
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)
 - [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)
+- [PrivateEye - Greg Young](https://vimeo.com/131637366)
+- [The Art of Software Gardening - Patroklos Papapetrou](https://vimeo.com/131189624)
 
 ## Design Principles
 
@@ -34,6 +36,7 @@
 - [Not just layers! What can pipelines and events do for you? by Ian Cooper](https://vimeo.com/113584390)
 - [The Power and Practicalities of Immutability - Venkat Subramaniam](https://vimeo.com/131635253)
 - [Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759)
+- [Jakub Milkiewicz - BDD Lessons learned](https://vimeo.com/120568065)
 
 ## Agile & Development Practices
 
@@ -42,7 +45,17 @@
 - [How to do test reviews - Roy Osherove](https://vimeo.com/19431001)
 - ["The Executioner's Tale" Christina Wodtke-Interaction14](https://vimeo.com/86392023)
 - [Fred George - Programmer Anarchy](https://vimeo.com/43690647)
-
+- [Don't demo facts. Demo stories! - Tudor Girba](https://vimeo.com/131632605)
+- [Bob Marshall on Seven Ways to Improve Your Software Development Flow](https://vimeo.com/113216169)
+- [Jenny Martin & Pete Buckney - Continuous Collaboration & Example Driven Dev](https://vimeo.com/111407675)
+- [A3 Thinking and Kaizen - Claudio Perrone](https://vimeo.com/43185886)
+- [What’s the worst that can happen?” – Enabling authentic trust at work – Marc Burgauer](https://vimeo.com/117576663)
+- [Scott Bellware - Agile Kaizen](https://vimeo.com/97501372)
+- [Holding Effective Kaizen Events](https://vimeo.com/104680961)
+- [Steven Milne - Level up with Constraints](https://vimeo.com/76126272)
+- [Ian Brockbank - How do you “push responsibility down” and “empower the team”](https://vimeo.com/76096772)
+- [Anders Ivarsson - Scaling Agile with Tribes, Squads, Chapters & Guilds](https://vimeo.com/75917536)
+- [Oliver Gierke - Whoops! Where did my architecture go?](https://vimeo.com/112516354)
 
 ## Devops
 
@@ -50,6 +63,10 @@
 - [DevOpsDays Boston 2014 - Jennifer Davis - From Hero to Zero](https://vimeo.com/104252736)
 - [Richard Campbell - People, Process, Tools – The Essence of DevOps](http://vimeo.com/97337256)
 - [Release Engineering as a Force Multiplier](http://www.youtube.com/watch?v=7j0NDGJVROI)
+- [Knowledge is power! The guide to measure what matters. - Mark van Straten](https://vimeo.com/131644108)
+- [Why monitoring sucks, and how to improve it - Pavlo Baron](https://vimeo.com/131643292)
+- [Running Docker and Containers in Development and Production - Ben Hall](https://vimeo.com/131639823)
+- [Alex Yates - Continuous Delivery for Databases (the elephant in the room)](https://vimeo.com/129090957)
 
 ## Python
 
@@ -60,6 +77,7 @@
 - [MicroServices: Lessons from 3 Companies](https://vimeo.com/111627195)
 - [There and back again, a Microservices tale](https://skillsmatter.com/skillscasts/6254-there-and-back-again-a-microservices-tale)
 - [Dominick Baier - Web API Authorization & Access Control – done right!](http://vimeo.com/97337305)
+- [Securing Web APIs – Patterns & Anti-Patterns - Dominick Baier](https://vimeo.com/131635255)
 - [Brock Allen - OWIN and Katana: What the Func?](http://vimeo.com/97329189)
 - [Anders Ljusberg: CQRS Hypermedia with WebAPI](http://vimeo.com/68320468)
 - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
@@ -67,6 +85,8 @@
 - [Challenges in Implementing MicroServices by Fred George](https://www.youtube.com/watch?v=yPf5MfOZPY0)
 - [Microservices, cutting through the Gordian Knot - Ian Cooper](https://vimeo.com/132194544)
 - [The rest of ReST - Dylan Beattie](https://vimeo.com/131641615)
+- [Learning Client Hypermedia from the Ground Up - Mike Amundsen](https://vimeo.com/131642790)
+- [Tom Akehurst - Surviving SOA: Delivering (somewhat) continuously on a hostile planet](https://vimeo.com/119542461)
 
 ## Data Science
 
@@ -74,6 +94,8 @@
 - [MACHINE LEARNING SMACKDOWN](https://vimeo.com/111040772)
 - [Introduction to Neural Networks, Vector Reduction and Natural Language Processing](https://www.youtube.com/watch?v=_ml5XQn-_SQ)
 - [Realtime Data Analytics at Datadog](https://www.youtube.com/watch?v=49YOOw0WDl8)
+- [Beer analysis using Kibana 4 and elasticsearch - Christoffer Vig](https://vimeo.com/132192253)
+- [Troll Hunting on the Internet - Gary Short](https://vimeo.com/131643296)
 
 ## Security
 
@@ -97,3 +119,14 @@
 - [Alexis Ohanian: Sucking is the First Step to Being Good at Something](https://vimeo.com/90244076)
 - [Seth Godin: Tribes](https://vimeo.com/2090774)
 - [Wil Reynolds: The Hidden Danger of Confusing Outputs for Outcome](https://vimeo.com/130879614)
+- [Alex Harms - Learning to Empathy](https://www.youtube.com/watch?v=U15nkcSY2GI)
+- [Making Badass Developers - Kathy Sierra (Serious Pony) keynote](https://www.youtube.com/watch?v=FKTxC9pl-WM)
+- [Non-Violent Communication for Fun, Profit, and Self Defense](https://www.youtube.com/watch?v=G5_8u3NA8M8)
+- [Welcoming People (and Other Hard Problems) by Tute Costa](https://www.youtube.com/watch?v=EahvHpQFcss)
+- [How to build and be a part of a highly efficient team - Kjell Ljøstad](https://vimeo.com/131748093)
+- [Engagement techniques. How to get people engaged and motivated? - Anna Danes](https://vimeo.com/131641617)
+- [Get Unblocked - Denise Jacobs](https://vimeo.com/131640717)
+- [Total Engagement and the Reinvention of Work using Games - J. Leighton Read, MD](https://vimeo.com/43250464)
+- [The Leadership gap – Pawel Brodzinksi](https://vimeo.com/115962902)
+- [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)
+- [Marc Johnson - Decisions : How Can We Better Make Them](https://vimeo.com/75952341)
