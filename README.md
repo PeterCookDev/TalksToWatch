@@ -128,4 +128,3 @@
 - [Total Engagement and the Reinvention of Work using Games - J. Leighton Read, MD](https://vimeo.com/43250464)
 - [The Leadership gap – Pawel Brodzinksi](https://vimeo.com/115962902)
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)
-- [Marc Johnson - Decisions : How Can We Better Make Them](https://vimeo.com/75952341)
