@@ -12,6 +12,8 @@
 - [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)
 - [PrivateEye - Greg Young](https://vimeo.com/131637366)
 - [The Art of Software Gardening - Patroklos Papapetrou](https://vimeo.com/131189624)
+- [Eric Redmond - Distributed patterns you should know - Railsberry 2013](https://vimeo.com/68757697)
+- [Katrina Owen - 467 tests, 0 failures, 0 confidence - Railsberry 2013](https://vimeo.com/68730418)
 
 ## Design Principles
 
@@ -37,6 +39,7 @@
 - [The Power and Practicalities of Immutability - Venkat Subramaniam](https://vimeo.com/131635253)
 - [Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759)
 - [Jakub Milkiewicz - BDD Lessons learned](https://vimeo.com/120568065)
+- [Geoffrey Grosenbach- Learning from the Masters - Railsberry 2013](https://vimeo.com/69307235)
 
 ## Agile & Development Practices
 
@@ -56,6 +59,12 @@
 - [Ian Brockbank - How do you “push responsibility down” and “empower the team”](https://vimeo.com/76096772)
 - [Anders Ivarsson - Scaling Agile with Tribes, Squads, Chapters & Guilds](https://vimeo.com/75917536)
 - [Oliver Gierke - Whoops! Where did my architecture go?](https://vimeo.com/112516354)
+- [Tribes - Zuzi Sochova](https://vimeo.com/122667894)
+- [Russ Miles - Pair Programming Considered Bad For Your 'Mental' Health](https://vimeo.com/98730548)
+- [Monika Konieczny - Gamified Retrospectives](https://vimeo.com/44327009)
+- [Keavy McMinn - Internal tools: make or break your team - Railsberry 2013](https://vimeo.com/68762928)
+- [Chad Fowler - Experiment - Railsberry 2013](https://vimeo.com/68686636)
+- [GeeCON TDD 2015: Jakub Milkiewicz - BDD Lessons learned](https://vimeo.com/120568065)
 
 ## Devops
 
@@ -107,7 +116,7 @@
 - [Paul Betts: Effective GitHubbing: The GitHub Flow](http://vimeo.com/68378254)
 - [The Motivation for a Monolithic Codebase Why Google Stores Billions of Lines of Code in  a single repository](https://www.youtube.com/watch?v=W71BTkUbdqE)
 
-## Leadership and Management
+## Leadership, Psychology and Management
 
 - [Roy Osherove - The Software Team Leader Manifesto](https://vimeo.com/43612918)
 - [Roy Osherove - Notes to a Team Leader](https://vimeo.com/95208784)
@@ -128,3 +137,4 @@
 - [Total Engagement and the Reinvention of Work using Games - J. Leighton Read, MD](https://vimeo.com/43250464)
 - [The Leadership gap – Pawel Brodzinksi](https://vimeo.com/115962902)
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)
+- [Alex Koppel - Sleep! - Railsberry 2013](https://vimeo.com/69311347)
