@@ -130,8 +130,6 @@
 - [Wil Reynolds: The Hidden Danger of Confusing Outputs for Outcome](https://vimeo.com/130879614)
 - [Alex Harms - Learning to Empathy](https://www.youtube.com/watch?v=U15nkcSY2GI)
 - [Making Badass Developers - Kathy Sierra (Serious Pony) keynote](https://www.youtube.com/watch?v=FKTxC9pl-WM)
-- [Non-Violent Communication for Fun, Profit, and Self Defense](https://www.youtube.com/watch?v=G5_8u3NA8M8)
-- [Welcoming People (and Other Hard Problems) by Tute Costa](https://www.youtube.com/watch?v=EahvHpQFcss)
 - [Engagement techniques. How to get people engaged and motivated? - Anna Danes](https://vimeo.com/131641617)
 - [Get Unblocked - Denise Jacobs](https://vimeo.com/131640717)
 - [Total Engagement and the Reinvention of Work using Games - J. Leighton Read, MD](https://vimeo.com/43250464)
