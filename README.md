@@ -65,6 +65,7 @@
 - [Keavy McMinn - Internal tools: make or break your team - Railsberry 2013](https://vimeo.com/68762928)
 - [Chad Fowler - Experiment - Railsberry 2013](https://vimeo.com/68686636)
 - [GeeCON TDD 2015: Jakub Milkiewicz - BDD Lessons learned](https://vimeo.com/120568065)
+- [Open Source & Feelings 2015 - Ensuring the Sustainability of Your Code Learning Community](https://www.youtube.com/watch?v=jYM8AnreZHQ)
 
 ## Devops
 
@@ -136,3 +137,4 @@
 - [The Leadership gap – Pawel Brodzinksi](https://vimeo.com/115962902)
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)
 - [Alex Koppel - Sleep! - Railsberry 2013](https://vimeo.com/69311347)
+- [eurucamp 2015 - Cultivating Empathy by Dajana and Leslie Hawthorn](https://www.youtube.com/watch?v=q17GKDnSAec)
