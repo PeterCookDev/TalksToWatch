@@ -138,3 +138,5 @@
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)
 - [Alex Koppel - Sleep! - Railsberry 2013](https://vimeo.com/69311347)
 - [eurucamp 2015 - Cultivating Empathy by Dajana and Leslie Hawthorn](https://www.youtube.com/watch?v=q17GKDnSAec)
+- [The psychology of self-motivation | Scott Geller | TEDxVirginiaTech](https://www.youtube.com/watch?v=7sxpKhIbr0E)
+- [Kelly McGonigal: How to Turn Stress Into an Advantage](https://vimeo.com/131589177)
