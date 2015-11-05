@@ -4,7 +4,6 @@
 
 - [AUTOMATION ABSTRACTIONS - PAGE OBJECTS AND BEYOND](https://vimeo.com/111214646)
 - [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](http://vimeo.com/68390510)
-- [GTAC 2014: I Don't Test Often ... But When I Do, I Test in Production](https://www.youtube.com/watch?v=xkP70Zhhix4&list=PLSIUOFhnxEiDFckNDSjKWqOCtd8ksJrh4&index=8)
 - [Liam Westley - Async C# 5.0 - Patterns For Real World Use](http://vimeo.com/97337304)
 - [Jon Skeet: Abusing C#](http://vimeo.com/68320506)
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)
@@ -13,14 +12,26 @@
 - [PrivateEye - Greg Young](https://vimeo.com/131637366)
 - [The Art of Software Gardening - Patroklos Papapetrou](https://vimeo.com/131189624)
 - [Eric Redmond - Distributed patterns you should know - Railsberry 2013](https://vimeo.com/68757697)
+
+
+## Testing, TDD and BDD
 - [Katrina Owen - 467 tests, 0 failures, 0 confidence - Railsberry 2013](https://vimeo.com/68730418)
+- [GTAC 2014: I Don't Test Often ... But When I Do, I Test in Production](https://www.youtube.com/watch?v=xkP70Zhhix4&list=PLSIUOFhnxEiDFckNDSjKWqOCtd8ksJrh4&index=8)
+- [8 SIMPLE TDD RULES](https://vimeo.com/111091466)
+- [Accelerate your development by accelerating your feedback loop - Johannes Brodwall](http://vimeo.com/105888938)
+- [Jakub Milkiewicz - BDD Lessons learned](https://vimeo.com/120568065)
+- [GeeCON TDD 2015: Sandro Mancuso - Driving well-crafted code through tests](https://vimeo.com/120567335)
+- [GeeCON TDD 2015: Jakub Narbdalik - Test Driven Traps](https://vimeo.com/120572733)
+- [GeeCON TDD 2015: Konstantin Kudryashov - Moving away from Legacy code with BDD](https://vimeo.com/120574455)
+- [GeeCON TDD 2015: Martin Skurla - You don’t run unit tests concurrently. Do you?](https://vimeo.com/120581019)
+- [How to do test reviews - Roy Osherove](https://vimeo.com/19431001)
+
 
 ## Design Principles
 
 - [Refactoring to Functional](https://vimeo.com/111506976)
 - [Jessica Kerr - Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU)
 - [Greg Young - Functional Data](https://vimeo.com/131636650)
-- [8 SIMPLE TDD RULES](https://vimeo.com/111091466)
 - [REACTIVE PROGRAMMING - WHY THE HYPE?](https://vimeo.com/111000200)
 - [Adam Tornhill - Code that fits your brain](http://vimeo.com/97471514)
 - [Mark Seemann - Zone out, check in, move on](http://vimeo.com/97419151)
@@ -31,21 +42,19 @@
 - [Rich Hickey - Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 - [OOP is Dead! Long Live OODD](http://vimeo.com/77415896)
 - [The Power Of Abstraction - Barbara Liskov](http://www.infoq.com/presentations/liskov-power-of-abstraction)
-- [Accelerate your development by accelerating your feedback loop - Johannes Brodwall](http://vimeo.com/105888938)
 - [Immutability Changes Everything - Pat Helland](http://vimeo.com/52831373)
 - [Unleash Your Domain - Greg Young](https://vimeo.com/19428577)
 - [Decoupling from ASP.NET - Hexagonal Architectures in .NET by Ian Cooper](https://vimeo.com/113621145)
 - [Not just layers! What can pipelines and events do for you? by Ian Cooper](https://vimeo.com/113584390)
 - [The Power and Practicalities of Immutability - Venkat Subramaniam](https://vimeo.com/131635253)
 - [Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759)
-- [Jakub Milkiewicz - BDD Lessons learned](https://vimeo.com/120568065)
 - [Geoffrey Grosenbach- Learning from the Masters - Railsberry 2013](https://vimeo.com/69307235)
+
 
 ## Agile & Development Practices
 
 - [SCALED AGILE @ SPOTIFY](https://vimeo.com/111131934)
 - [Seb Rose - So long, and thanks for all the tests](http://vimeo.com/105861375)
-- [How to do test reviews - Roy Osherove](https://vimeo.com/19431001)
 - ["The Executioner's Tale" Christina Wodtke-Interaction14](https://vimeo.com/86392023)
 - [Fred George - Programmer Anarchy](https://vimeo.com/43690647)
 - [Don't demo facts. Demo stories! - Tudor Girba](https://vimeo.com/131632605)
@@ -64,7 +73,6 @@
 - [Monika Konieczny - Gamified Retrospectives](https://vimeo.com/44327009)
 - [Keavy McMinn - Internal tools: make or break your team - Railsberry 2013](https://vimeo.com/68762928)
 - [Chad Fowler - Experiment - Railsberry 2013](https://vimeo.com/68686636)
-- [GeeCON TDD 2015: Jakub Milkiewicz - BDD Lessons learned](https://vimeo.com/120568065)
 - [Open Source & Feelings 2015 - Ensuring the Sustainability of Your Code Learning Community](https://www.youtube.com/watch?v=jYM8AnreZHQ)
 
 ## Devops
@@ -97,6 +105,7 @@
 - [The rest of ReST - Dylan Beattie](https://vimeo.com/131641615)
 - [Learning Client Hypermedia from the Ground Up - Mike Amundsen](https://vimeo.com/131642790)
 - [Tom Akehurst - Surviving SOA: Delivering (somewhat) continuously on a hostile planet](https://vimeo.com/119542461)
+- [GeeCON 2014: Sam Newman - The Practical Implications Of Microservices](https://vimeo.com/99531595)
 
 ## Data Science
 
@@ -126,9 +135,7 @@
 - [Flourish](https://vimeo.com/channels/thersa/26720639)
 - [Teresa Amabile: Track Your Small Wins to Motivate Big Accomplishments](https://vimeo.com/49179452)
 - [Joshua Foer: Step Outside Your Comfort Zone and Study Yourself Failing](https://vimeo.com/27067169)
-- [Alexis Ohanian: Sucking is the First Step to Being Good at Something](https://vimeo.com/90244076)
 - [Seth Godin: Tribes](https://vimeo.com/2090774)
-- [Wil Reynolds: The Hidden Danger of Confusing Outputs for Outcome](https://vimeo.com/130879614)
 - [Alex Harms - Learning to Empathy](https://www.youtube.com/watch?v=U15nkcSY2GI)
 - [Making Badass Developers - Kathy Sierra (Serious Pony) keynote](https://www.youtube.com/watch?v=FKTxC9pl-WM)
 - [Engagement techniques. How to get people engaged and motivated? - Anna Danes](https://vimeo.com/131641617)
@@ -138,5 +145,3 @@
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)
 - [Alex Koppel - Sleep! - Railsberry 2013](https://vimeo.com/69311347)
 - [eurucamp 2015 - Cultivating Empathy by Dajana and Leslie Hawthorn](https://www.youtube.com/watch?v=q17GKDnSAec)
-- [The psychology of self-motivation | Scott Geller | TEDxVirginiaTech](https://www.youtube.com/watch?v=7sxpKhIbr0E)
-- [Kelly McGonigal: How to Turn Stress Into an Advantage](https://vimeo.com/131589177)
