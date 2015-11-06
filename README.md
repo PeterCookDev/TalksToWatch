@@ -13,6 +13,7 @@
 - [The Art of Software Gardening - Patroklos Papapetrou](https://vimeo.com/131189624)  [44:13]
 - [Eric Redmond - Distributed patterns you should know - Railsberry 2013](https://vimeo.com/68757697)  [28:29]
 - [The Joys and Pains of a Long Lived Codebase by Jeremy D Miller](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller)  [1:02:30]
+- [GeeCON 2014: Michael Feathers - Beyond Error Handling](https://vimeo.com/99668845)  [46:09]
 
 
 ## Testing, TDD and BDD
@@ -33,6 +34,7 @@
 ## Design Principles
 
 - [Refactoring to Functional](https://vimeo.com/111506976)  [45:00]
+- [Learning Functional Programming without Growing a Neckbeard](https://www.youtube.com/watch?v=OOvL6QAxRK4)  [1:04:42]
 - [Jessica Kerr - Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU)  [51:13]
 - [Greg Young - Functional Data](https://vimeo.com/131636650)  [49:52]
 - [REACTIVE PROGRAMMING - WHY THE HYPE?](https://vimeo.com/111000200)  [41:41]
@@ -77,6 +79,7 @@
 - [Keavy McMinn - Internal tools: make or break your team - Railsberry 2013](https://vimeo.com/68762928)  [23:00]
 - [Chad Fowler - Experiment - Railsberry 2013](https://vimeo.com/68686636)  [52:13]
 - [Open Source & Feelings 2015 - Ensuring the Sustainability of Your Code Learning Community](https://www.youtube.com/watch?v=jYM8AnreZHQ)  [46:00]
+- [Retrospective on Steroids - Toyota Kata by Håkan Forss](https://www.youtube.com/watch?v=-InKsQQY9Vk)  [52:20]
 
 ## Devops
 
