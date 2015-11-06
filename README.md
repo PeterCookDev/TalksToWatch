@@ -139,7 +139,6 @@
 - [How to build and be a part of a highly efficient team - Kjell Ljøstad](https://vimeo.com/131748093)  [43:35]
 - [Why Yammer believes the traditional engineering organizational structure is dead wrong](https://www.youtube.com/watch?v=RsWZNaaic1k)  [21:32]
 - [Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
-- [Teresa Amabile: Track Your Small Wins to Motivate Big Accomplishments](https://vimeo.com/49179452)  [21:10]
 - [Joshua Foer: Step Outside Your Comfort Zone and Study Yourself Failing](https://vimeo.com/27067169)  [17:06]
 - [Seth Godin: Tribes](https://vimeo.com/2090774)  []
 - [Alex Harms - Learning to Empathy](https://www.youtube.com/watch?v=U15nkcSY2GI)  [30:11]
