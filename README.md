@@ -30,6 +30,12 @@
 - [GeeCON 2013: - Sandro Mancuso: Testing and Refactoring Legacy Code](https://vimeo.com/76472757)  [57:13]
 - [Unselfish Testing - Jay Fields](https://www.youtube.com/watch?v=f9eu4mMOtN4)  [42:43]
 - [Test Driven Development (by controlling dependencies) - Jorge D Ortiz Fuentes](https://www.youtube.com/watch?v=qYpURmZcCKs)  [54:10]
+- [THE TEST AUTOMATION PLAYBOOK : SUCCEEDING WITH AUTOMATION AWESOMENESS](https://vimeo.com/144831370) [32:37]
+- [SMARTER TESTING THROUGH SMARTER TESTERS](https://vimeo.com/144830621)  [34:57]
+- [RE-INVENTING TESTING – A DISCUSSION ABOUT SCIENCE, EXPLORATION AND INNOVATION](https://vimeo.com/144745751)  [55:08]
+- [REAL CONVERSATIONS IN BDD](https://vimeo.com/144723689)  [42:04]
+- [CASE STUDIES IN TERRIBLE TESTING](https://vimeo.com/144684986)  [35:46]
+
 
 ## Design Principles
 
