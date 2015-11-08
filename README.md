@@ -86,6 +86,9 @@
 - [Chad Fowler - Experiment - Railsberry 2013](https://vimeo.com/68686636)  [52:13]
 - [Open Source & Feelings 2015 - Ensuring the Sustainability of Your Code Learning Community](https://www.youtube.com/watch?v=jYM8AnreZHQ)  [46:00]
 - [Retrospective on Steroids - Toyota Kata by Håkan Forss](https://www.youtube.com/watch?v=-InKsQQY9Vk)  [52:20]
+- [CULTURE EATS STRATEGY FOR BREAKFAST - AND SCALES AGILE](https://vimeo.com/144827127)  [36:39]
+- [AGILE METRICS - BEYOND BURN UP/DOWN'S ONTO METRIC DRIVEN COACHING](https://vimeo.com/144824390)  [41:17]
+- [Getting real value out of your planning efforts with Story Mapping - Jesper Boeg](https://www.youtube.com/watch?v=c4_PvSXZssc)  [51:23]
 
 ## Devops
 
