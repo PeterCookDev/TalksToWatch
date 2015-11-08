@@ -64,7 +64,6 @@
 
 - [SCALED AGILE @ SPOTIFY](https://vimeo.com/111131934)  [43:51]
 - [Seb Rose - So long, and thanks for all the tests](http://vimeo.com/105861375)  [1:00:25]
-- ["The Executioner's Tale" Christina Wodtke-Interaction14](https://vimeo.com/86392023)  [21:36]
 - [Fred George - Programmer Anarchy](https://vimeo.com/43690647)  [1:02:48]
 - [Don't demo facts. Demo stories! - Tudor Girba](https://vimeo.com/131632605)  [57:22]
 - [Bob Marshall on Seven Ways to Improve Your Software Development Flow](https://vimeo.com/113216169)  [1:02:32]
