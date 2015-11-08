@@ -24,7 +24,6 @@
 - [GeeCON TDD 2015: Sandro Mancuso - Driving well-crafted code through tests](https://vimeo.com/120567335)  [30:50]
 - [GeeCON TDD 2015: Jakub Narbdalik - Test Driven Traps](https://vimeo.com/120572733)  [43:41]
 - [GeeCON TDD 2015: Konstantin Kudryashov - Moving away from Legacy code with BDD](https://vimeo.com/120574455)  [36:20]
-- [GeeCON TDD 2015: Martin Skurla - You don’t run unit tests concurrently. Do you?](https://vimeo.com/120581019)  [16:41]
 - [How to do test reviews - Roy Osherove](https://vimeo.com/19431001)  [49:09]
 - [GeeCON 2013: - Sandro Mancuso: Testing and Refactoring Legacy Code](https://vimeo.com/76472757)  [57:13]
 - [Unselfish Testing - Jay Fields](https://www.youtube.com/watch?v=f9eu4mMOtN4)  [42:43]
@@ -57,7 +56,6 @@
 - [Not just layers! What can pipelines and events do for you? by Ian Cooper](https://vimeo.com/113584390)  [1:00:22]
 - [The Power and Practicalities of Immutability - Venkat Subramaniam](https://vimeo.com/131635253)  [1:10:50]
 - [Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759)  [1:03:00]
-- [Geoffrey Grosenbach- Learning from the Masters - Railsberry 2013](https://vimeo.com/69307235)  [33:22]
 
 
 ## Agile & Development Practices
