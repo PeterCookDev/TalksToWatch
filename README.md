@@ -16,7 +16,7 @@
 
 
 ## Testing, TDD and BDD
-- [Katrina Owen - 467 tests, 0 failures, 0 confidence - Railsberry 2013](https://vimeo.com/68730418)  [27:40]
+
 - [GeeCON TDD 2015: Sandro Mancuso - Driving well-crafted code through tests](https://vimeo.com/120567335)  [30:50]
 - [THE TEST AUTOMATION PLAYBOOK : SUCCEEDING WITH AUTOMATION AWESOMENESS](https://vimeo.com/144831370) [32:37]
 - [Jakub Milkiewicz - BDD Lessons learned](https://vimeo.com/120568065)  [32:43]
