@@ -116,6 +116,11 @@
 - [The rest of ReST - Dylan Beattie](https://vimeo.com/131641615)  [1:04:19]
 - [Tom Akehurst - Surviving SOA: Delivering (somewhat) continuously on a hostile planet](https://vimeo.com/119542461)  [1:07:25]
 - [Stefan Tilkov: Nano, Micro, Mini, oh my: Modularization for sustainable systems](https://www.youtube.com/watch?v=HYiLzji7MuY)  [1:15:42]
+- [Challenges in Implementing MicroServices - Fred George](https://www.youtube.com/watch?v=2Fy_xidc11w)
+- [SECURING MICROSERVICES](https://vimeo.com/144796652)  [39:51]
+- [THE BEATING HEART OF CQRS](https://vimeo.com/144747595)  [55:08]
+- [PATTERNS AND PRACTICES FOR REAL-WORLD EVENT-DRIVEN MICROSERVICES](https://vimeo.com/144692770)  [38:26]
+- [YOW! Nights October 2015 Udi Dahan - Microservices, SOA, DDD](https://www.youtube.com/watch?v=MTArpO7rSQE)  [1:23:08]
 
 ## Data Science
 
@@ -125,6 +130,11 @@
 - [Troll Hunting on the Internet - Gary Short](https://vimeo.com/131643296)  [1:03:19]
 - [Introduction to Neural Networks, Vector Reduction and Natural Language Processing](https://www.youtube.com/watch?v=_ml5XQn-_SQ)  [1:07:29]
 - [Realtime Data Analytics at Datadog](https://www.youtube.com/watch?v=49YOOw0WDl8)  [1:09:06]
+- [Introduction to NoSQL by Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)  [54:51]
+- [Making Big Data Useful Data - Anna Bongenhielm](https://www.youtube.com/watch?v=wUysIXUeL-M)  [38:11]
+- [PUTTING FUN INTO DATA ANALYSIS WITH F#](https://vimeo.com/144816160)  [38:44]
+- [ANALYSING GITHUB COMMITS WITH R AND AZURE](https://vimeo.com/144780956)  [47:01]
+- [MINE SOCIAL METRICS FROM SOURCE CODE REPOSITORIES](https://vimeo.com/144670188)  [35:57]
 
 ## Security
 
