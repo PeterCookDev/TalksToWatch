@@ -15,14 +15,12 @@
 - [UNDER THE HOOD OF C# 6.0](https://vimeo.com/144630847)  [44:25]
 - [IT'S ABOUT TIME!](https://vimeo.com/144819382)  [44:47]
 - [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)  [45:20]
-- [GeeCON 2014: Michael Feathers - Beyond Error Handling](https://vimeo.com/99668845)  [46:09]
 - [WRITING HIGHLY PERFORMANT MANAGED CODE](https://vimeo.com/144809641)  [50:02]
 - [Alan Kay, 2015: Power of Simplicity](https://www.youtube.com/watch?v=NdSD07U5uBs) [51:06]
 - [Jon Skeet: Abusing C#](http://vimeo.com/68320506)  [1:00:33]
 - [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](http://vimeo.com/68390510)  [1:00:33]
 - [The Joys and Pains of a Long Lived Codebase by Jeremy D Miller](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller)  [1:02:30]
 - [Liam Westley - Async C# 5.0 - Patterns For Real World Use](http://vimeo.com/97337304)  [1:07:18]
-
 
 
 ## Testing, TDD and BDD
@@ -161,10 +159,8 @@
 
 - [Seth Godin: Tribes](https://vimeo.com/2090774)  []
 - [Joshua Foer: Step Outside Your Comfort Zone and Study Yourself Failing](https://vimeo.com/27067169)  [17:06]
-- [Why Yammer believes the traditional engineering organizational structure is dead wrong](https://www.youtube.com/watch?v=RsWZNaaic1k)  [21:32]
 - [Making Badass Developers - Kathy Sierra (Serious Pony) keynote](https://www.youtube.com/watch?v=FKTxC9pl-WM)  [23:03]
 - [Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
-- [Alex Koppel - Sleep! - Railsberry 2013](https://vimeo.com/69311347)  [26:38]
 - [Alex Harms - Learning to Empathy](https://www.youtube.com/watch?v=U15nkcSY2GI)  [30:11]
 - [The Leadership gap – Pawel Brodzinksi](https://vimeo.com/115962902)  [37:00]
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)  [41:16]
