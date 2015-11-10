@@ -6,17 +6,23 @@
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)  [29:40]
 - [E4E Developer Conf 2014 - Overkill by Katrina Owen](https://www.youtube.com/watch?v=qLpvc5r6Bb0)  [32:43]
 - [AUTOMATION ABSTRACTIONS - PAGE OBJECTS AND BEYOND](https://vimeo.com/111214646)  [38:58]
+- [TYPES PROPERTIES = SOFTWARE](https://vimeo.com/144800642)  [40:39]
+- [WHAT I’VE LEARNT WORKING AT SCALE](https://vimeo.com/144799320)  [40:49]
 - [PRAGMATIC DEVELOPMENT AT STACK OVERFLOW](https://vimeo.com/144983385)  [43:00]
 - [Baruco 2013: Here Be Dragons, by Katrina Owen](https://www.youtube.com/watch?v=HsWLrSof-ns) [43:42]
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)  [43:53]
 - [The Art of Software Gardening - Patroklos Papapetrou](https://vimeo.com/131189624)  [44:13]
+- [UNDER THE HOOD OF C# 6.0](https://vimeo.com/144630847)  [44:25]
+- [IT'S ABOUT TIME!](https://vimeo.com/144819382)  [44:47]
 - [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)  [45:20]
 - [GeeCON 2014: Michael Feathers - Beyond Error Handling](https://vimeo.com/99668845)  [46:09]
+- [WRITING HIGHLY PERFORMANT MANAGED CODE](https://vimeo.com/144809641)  [50:02]
 - [Alan Kay, 2015: Power of Simplicity](https://www.youtube.com/watch?v=NdSD07U5uBs) [51:06]
 - [Jon Skeet: Abusing C#](http://vimeo.com/68320506)  [1:00:33]
 - [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](http://vimeo.com/68390510)  [1:00:33]
 - [The Joys and Pains of a Long Lived Codebase by Jeremy D Miller](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller)  [1:02:30]
 - [Liam Westley - Async C# 5.0 - Patterns For Real World Use](http://vimeo.com/97337304)  [1:07:18]
+
 
 
 ## Testing, TDD and BDD
