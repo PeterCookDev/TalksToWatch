@@ -74,7 +74,7 @@
 
 ## Agile & Development Practices
 
-- [Keavy McMinn - Internal tools: make or break your team - Railsberry 2013](https://vimeo.com/68762928)  [23:00]
+
 - [Monika Konieczny - Gamified Retrospectives](https://vimeo.com/44327009)  [30:37]
 - [Tribes - Zuzi Sochova](https://vimeo.com/122667894)  [30:44]
 - [What’s the worst that can happen?” – Enabling authentic trust at work – Marc Burgauer](https://vimeo.com/117576663)  [31:49]
@@ -117,6 +117,7 @@
 ## Microservices, SOA, CQRS and Web API
 
 - [There and back again, a Microservices tale](https://skillsmatter.com/skillscasts/6254-there-and-back-again-a-microservices-tale)  []
+- [Chris Kelly - Object-oriented lessons for a service-oriented world - Railsberry 2013](https://vimeo.com/68760204)  [31:52]
 - [MicroServices: Lessons from 3 Companies](https://vimeo.com/111627195)  [33:05]
 - [PATTERNS AND PRACTICES FOR REAL-WORLD EVENT-DRIVEN MICROSERVICES](https://vimeo.com/144692770)  [38:26]
 - [SECURING MICROSERVICES](https://vimeo.com/144796652)  [39:51]
