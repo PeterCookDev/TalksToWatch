@@ -22,6 +22,7 @@
 - [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](http://vimeo.com/68390510)  [1:00:33]
 - [The Joys and Pains of a Long Lived Codebase by Jeremy D Miller](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller)  [1:02:30]
 - [Liam Westley - Async C# 5.0 - Patterns For Real World Use](http://vimeo.com/97337304)  [1:07:18]
+- [Venkat Subramaniam - The Art of Simplicity](https://www.youtube.com/watch?v=-ZPgO5USBoI)  [1:22:32]
 
 
 ## Testing, TDD and BDD
@@ -68,7 +69,6 @@
 - [Learning Functional Programming without Growing a Neckbeard](https://www.youtube.com/watch?v=OOvL6QAxRK4)  [1:04:42]
 - [OOP is Dead! Long Live OODD](http://vimeo.com/77415896)  [1:08:00]
 - [Jon Skeet – Noda Time, for better or worse: a case study in open source library experience](https://vimeo.com/77323770)  [1:08:06]
-- [The Power and Practicalities of Immutability - Venkat Subramaniam](https://vimeo.com/131635253)  [1:10:50]
 - [The Power Of Abstraction - Barbara Liskov](http://www.infoq.com/presentations/liskov-power-of-abstraction)  [1:18:34]
 
 
