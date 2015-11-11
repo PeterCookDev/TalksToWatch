@@ -8,6 +8,7 @@
 - [AUTOMATION ABSTRACTIONS - PAGE OBJECTS AND BEYOND](https://vimeo.com/111214646)  [38:58]
 - [TYPES PROPERTIES = SOFTWARE](https://vimeo.com/144800642)  [40:39]
 - [WHAT I’VE LEARNT WORKING AT SCALE](https://vimeo.com/144799320)  [40:49]
+- [Greg Young - The art of destroying software](https://vimeo.com/108441214)  [42:30]
 - [PRAGMATIC DEVELOPMENT AT STACK OVERFLOW](https://vimeo.com/144983385)  [43:00]
 - [Baruco 2013: Here Be Dragons, by Katrina Owen](https://www.youtube.com/watch?v=HsWLrSof-ns) [43:42]
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)  [43:53]
@@ -52,8 +53,11 @@
 - [Greg Young - Functional Data](https://vimeo.com/131636650)  [49:52]
 - [Jessica Kerr - Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU)  [51:13]
 - [Adam Tornhill - Code that fits your brain](http://vimeo.com/97471514)  [51:25]
+- [Karoline Klever - What is the actual life expectancy of your code?](https://vimeo.com/142347209) [52:24]
 - [Scott Meyers - Better Software--No Matter What: The Most Important Design Guideline](http://vimeo.com/97349221)  [54:41]
 - [Unleash Your Domain - Greg Young](https://vimeo.com/19428577)  [54:43]
+- [Scott Wlaschin - Coding Like Frankenstein](https://vimeo.com/142347199)  [57:01]
+- [Mark Rendle - Hidden Complexity: Inside Simple.Data and Simple.Web](https://vimeo.com/52670823) [58:12]
 - [Gael Fraiteur - Taking Design Patterns to the Next Level](http://vimeo.com/97408213)  [58:23]
 - [Josh Bloch - How to Design a Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)  [1:00:14]
 - [Not just layers! What can pipelines and events do for you? by Ian Cooper](https://vimeo.com/113584390)  [1:00:22]
@@ -63,6 +67,7 @@
 - [GTAC 2014: Move Fast & Don't Break Things](https://www.youtube.com/watch?v=j_JviA5nvS0)  [1:04:37]
 - [Learning Functional Programming without Growing a Neckbeard](https://www.youtube.com/watch?v=OOvL6QAxRK4)  [1:04:42]
 - [OOP is Dead! Long Live OODD](http://vimeo.com/77415896)  [1:08:00]
+- [Jon Skeet – Noda Time, for better or worse: a case study in open source library experience](https://vimeo.com/77323770)  [1:08:06]
 - [The Power and Practicalities of Immutability - Venkat Subramaniam](https://vimeo.com/131635253)  [1:10:50]
 - [The Power Of Abstraction - Barbara Liskov](http://www.infoq.com/presentations/liskov-power-of-abstraction)  [1:18:34]
 
@@ -113,9 +118,13 @@
 
 - [There and back again, a Microservices tale](https://skillsmatter.com/skillscasts/6254-there-and-back-again-a-microservices-tale)  []
 - [MicroServices: Lessons from 3 Companies](https://vimeo.com/111627195)  [33:05]
+- [PATTERNS AND PRACTICES FOR REAL-WORLD EVENT-DRIVEN MICROSERVICES](https://vimeo.com/144692770)  [38:26]
+- [SECURING MICROSERVICES](https://vimeo.com/144796652)  [39:51]
 - [Challenges in Implementing MicroServices by Fred George](https://www.youtube.com/watch?v=yPf5MfOZPY0)  [48:59]
+- [Challenges in Implementing MicroServices - Fred George](https://www.youtube.com/watch?v=2Fy_xidc11w)  [50:12]
 - [Securing Web APIs – Patterns & Anti-Patterns - Dominick Baier](https://vimeo.com/131635255)  [52:53]
 - [Learning Client Hypermedia from the Ground Up - Mike Amundsen](https://vimeo.com/131642790)  [54:06]
+- [THE BEATING HEART OF CQRS](https://vimeo.com/144747595)  [55:08]
 - [Brock Allen - OWIN and Katana: What the Func?](http://vimeo.com/97329189)  [55:46]
 - [GeeCON 2014: Sam Newman - The Practical Implications Of Microservices](https://vimeo.com/99531595)  [56:10]
 - [Dominick Baier - Web API Authorization & Access Control – done right!](http://vimeo.com/97337305)  [57:26]
@@ -125,10 +134,6 @@
 - [The rest of ReST - Dylan Beattie](https://vimeo.com/131641615)  [1:04:19]
 - [Tom Akehurst - Surviving SOA: Delivering (somewhat) continuously on a hostile planet](https://vimeo.com/119542461)  [1:07:25]
 - [Stefan Tilkov: Nano, Micro, Mini, oh my: Modularization for sustainable systems](https://www.youtube.com/watch?v=HYiLzji7MuY)  [1:15:42]
-- [Challenges in Implementing MicroServices - Fred George](https://www.youtube.com/watch?v=2Fy_xidc11w)
-- [SECURING MICROSERVICES](https://vimeo.com/144796652)  [39:51]
-- [THE BEATING HEART OF CQRS](https://vimeo.com/144747595)  [55:08]
-- [PATTERNS AND PRACTICES FOR REAL-WORLD EVENT-DRIVEN MICROSERVICES](https://vimeo.com/144692770)  [38:26]
 - [YOW! Nights October 2015 Udi Dahan - Microservices, SOA, DDD](https://www.youtube.com/watch?v=MTArpO7rSQE)  [1:23:08]
 
 ## Data Science
