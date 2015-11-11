@@ -74,8 +74,6 @@
 
 ## Agile & Development Practices
 
-
-- [Monika Konieczny - Gamified Retrospectives](https://vimeo.com/44327009)  [30:37]
 - [Tribes - Zuzi Sochova](https://vimeo.com/122667894)  [30:44]
 - [What’s the worst that can happen?” – Enabling authentic trust at work – Marc Burgauer](https://vimeo.com/117576663)  [31:49]
 - [Russ Miles - Pair Programming Considered Bad For Your 'Mental' Health](https://vimeo.com/98730548)  [33:00]
