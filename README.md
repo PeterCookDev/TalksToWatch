@@ -74,7 +74,6 @@
 
 ## Agile & Development Practices
 
-- [Tribes - Zuzi Sochova](https://vimeo.com/122667894)  [30:44]
 - [What’s the worst that can happen?” – Enabling authentic trust at work – Marc Burgauer](https://vimeo.com/117576663)  [31:49]
 - [Russ Miles - Pair Programming Considered Bad For Your 'Mental' Health](https://vimeo.com/98730548)  [33:00]
 - [CULTURE EATS STRATEGY FOR BREAKFAST - AND SCALES AGILE](https://vimeo.com/144827127)  [36:39]
