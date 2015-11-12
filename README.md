@@ -97,7 +97,6 @@
 
 ## Devops
 
-- [DevOpsDays Boston 2014 - Jennifer Davis - From Hero to Zero](https://vimeo.com/104252736)  [29:05]
 - [Alex Yates - Continuous Delivery for Databases (the elephant in the room)](https://vimeo.com/129090957)   [39:21]
 - [CONTINUOUS DELIVERY IN A .NET WORLD](https://vimeo.com/111289719)  [41:58]
 - [Knowledge is power! The guide to measure what matters. - Mark van Straten](https://vimeo.com/131644108)  [43:01]
