@@ -2,10 +2,8 @@
 
 ## General Development
 
-- [Eric Redmond - Distributed patterns you should know - Railsberry 2013](https://vimeo.com/68757697)  [28:29]
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)  [29:40]
 - [E4E Developer Conf 2014 - Overkill by Katrina Owen](https://www.youtube.com/watch?v=qLpvc5r6Bb0)  [32:43]
-- [AUTOMATION ABSTRACTIONS - PAGE OBJECTS AND BEYOND](https://vimeo.com/111214646)  [38:58]
 - [TYPES PROPERTIES = SOFTWARE](https://vimeo.com/144800642)  [40:39]
 - [WHAT I’VE LEARNT WORKING AT SCALE](https://vimeo.com/144799320)  [40:49]
 - [Greg Young - The art of destroying software](https://vimeo.com/108441214)  [42:30]
@@ -33,6 +31,7 @@
 - [CASE STUDIES IN TERRIBLE TESTING](https://vimeo.com/144684986)  [35:46]
 - [GeeCON TDD 2015: Konstantin Kudryashov - Moving away from Legacy code with BDD](https://vimeo.com/120574455)  [36:20]
 - [TEST AUTOMATION TRENDS FOR 2016 AND BEYOND: STAYING EMPLOYABLE IN CHANGING TIMES](https://vimeo.com/144992718)  [36:42]
+- [AUTOMATION ABSTRACTIONS - PAGE OBJECTS AND BEYOND](https://vimeo.com/111214646)  [38:58]
 - [GTAC 2014: I Don't Test Often ... But When I Do, I Test in Production](https://www.youtube.com/watch?v=xkP70Zhhix4&list=PLSIUOFhnxEiDFckNDSjKWqOCtd8ksJrh4&index=8)  [41:16]
 - [8 SIMPLE TDD RULES](https://vimeo.com/111091466)  [41:24]
 - [REAL CONVERSATIONS IN BDD](https://vimeo.com/144723689)  [42:04]
