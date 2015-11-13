@@ -73,6 +73,7 @@
 
 ## Agile & Development Practices
 
+- [Agile Revisited - Dan North](https://www.youtube.com/watch?v=pcLbkmvqfiY)  [31:25]
 - [What’s the worst that can happen?” – Enabling authentic trust at work – Marc Burgauer](https://vimeo.com/117576663)  [31:49]
 - [Russ Miles - Pair Programming Considered Bad For Your 'Mental' Health](https://vimeo.com/98730548)  [33:00]
 - [CULTURE EATS STRATEGY FOR BREAKFAST - AND SCALES AGILE](https://vimeo.com/144827127)  [36:39]
@@ -83,6 +84,7 @@
 - [Anders Ivarsson - Scaling Agile with Tribes, Squads, Chapters & Guilds](https://vimeo.com/75917536)  [47:19]
 - [Getting real value out of your planning efforts with Story Mapping - Jesper Boeg](https://www.youtube.com/watch?v=c4_PvSXZssc)  [51:23]
 - [Steven Milne - Level up with Constraints](https://vimeo.com/76126272)  [51:29]
+- [Gojko Adzic - Specification By Example](https://vimeo.com/109079233)  [52:05]
 - [Chad Fowler - Experiment - Railsberry 2013](https://vimeo.com/68686636)  [52:13]
 - [Retrospective on Steroids - Toyota Kata by Håkan Forss](https://www.youtube.com/watch?v=-InKsQQY9Vk)  [52:20]
 - [A3 Thinking and Kaizen - Claudio Perrone](https://vimeo.com/43185886)  [53:18]
@@ -101,6 +103,7 @@
 - [CONTINUOUS DELIVERY IN A .NET WORLD](https://vimeo.com/111289719)  [41:58]
 - [Knowledge is power! The guide to measure what matters. - Mark van Straten](https://vimeo.com/131644108)  [43:01]
 - [Why monitoring sucks, and how to improve it - Pavlo Baron](https://vimeo.com/131643292)  [47:10]
+- [GeeCON 2014: Thomas Riha - Scaling Continuous Delivery](https://vimeo.com/100331338)  [54:19]
 - [Running Docker and Containers in Development and Production - Ben Hall](https://vimeo.com/131639823)  [56:27]
 - [Release Engineering as a Force Multiplier](http://www.youtube.com/watch?v=7j0NDGJVROI)  [1:00:49]
 - [Richard Campbell - People, Process, Tools – The Essence of DevOps](http://vimeo.com/97337256)  [1:02:41]
