@@ -26,9 +26,7 @@
 ## Testing, TDD and BDD
 
 - [THE TEST AUTOMATION PLAYBOOK : SUCCEEDING WITH AUTOMATION AWESOMENESS](https://vimeo.com/144831370) [32:37]
-- [Jakub Milkiewicz - BDD Lessons learned](https://vimeo.com/120568065)  [32:43]
 - [SMARTER TESTING THROUGH SMARTER TESTERS](https://vimeo.com/144830621)  [34:57]
-- [CASE STUDIES IN TERRIBLE TESTING](https://vimeo.com/144684986)  [35:46]
 - [GeeCON TDD 2015: Konstantin Kudryashov - Moving away from Legacy code with BDD](https://vimeo.com/120574455)  [36:20]
 - [TEST AUTOMATION TRENDS FOR 2016 AND BEYOND: STAYING EMPLOYABLE IN CHANGING TIMES](https://vimeo.com/144992718)  [36:42]
 - [AUTOMATION ABSTRACTIONS - PAGE OBJECTS AND BEYOND](https://vimeo.com/111214646)  [38:58]
