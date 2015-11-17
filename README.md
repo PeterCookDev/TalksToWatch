@@ -3,7 +3,6 @@
 ## General Development
 
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)  [29:40]
-- [E4E Developer Conf 2014 - Overkill by Katrina Owen](https://www.youtube.com/watch?v=qLpvc5r6Bb0)  [32:43]
 - [TYPES PROPERTIES = SOFTWARE](https://vimeo.com/144800642)  [40:39]
 - [WHAT I’VE LEARNT WORKING AT SCALE](https://vimeo.com/144799320)  [40:49]
 - [Greg Young - The art of destroying software](https://vimeo.com/108441214)  [42:30]
