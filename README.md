@@ -5,7 +5,6 @@
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)  [29:40]
 - [TYPES PROPERTIES = SOFTWARE](https://vimeo.com/144800642)  [40:39]
 - [WHAT I’VE LEARNT WORKING AT SCALE](https://vimeo.com/144799320)  [40:49]
-- [Greg Young - The art of destroying software](https://vimeo.com/108441214)  [42:30]
 - [PRAGMATIC DEVELOPMENT AT STACK OVERFLOW](https://vimeo.com/144983385)  [43:00]
 - [Baruco 2013: Here Be Dragons, by Katrina Owen](https://www.youtube.com/watch?v=HsWLrSof-ns) [43:42]
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)  [43:53]
