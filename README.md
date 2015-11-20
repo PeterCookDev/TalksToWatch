@@ -22,7 +22,6 @@
 
 ## Testing, TDD and BDD
 
-- [THE TEST AUTOMATION PLAYBOOK : SUCCEEDING WITH AUTOMATION AWESOMENESS](https://vimeo.com/144831370) [32:37]
 - [SMARTER TESTING THROUGH SMARTER TESTERS](https://vimeo.com/144830621)  [34:57]
 - [GeeCON TDD 2015: Konstantin Kudryashov - Moving away from Legacy code with BDD](https://vimeo.com/120574455)  [36:20]
 - [TEST AUTOMATION TRENDS FOR 2016 AND BEYOND: STAYING EMPLOYABLE IN CHANGING TIMES](https://vimeo.com/144992718)  [36:42]
@@ -133,17 +132,17 @@
 
 ## Data Science
 
+- [MINE SOCIAL METRICS FROM SOURCE CODE REPOSITORIES](https://vimeo.com/144670188)  [35:57]
+- [Making Big Data Useful Data - Anna Bongenhielm](https://www.youtube.com/watch?v=wUysIXUeL-M)  [38:11]
+- [PUTTING FUN INTO DATA ANALYSIS WITH F#](https://vimeo.com/144816160)  [38:44]
 - [SPLUNK, A SMORGASBORD FOR DEVELOPING BIG DATA SOLUTIONS](https://vimeo.com/111111119)  [43:05]
 - [MACHINE LEARNING SMACKDOWN](https://vimeo.com/111040772)  [44:16]
+- [ANALYSING GITHUB COMMITS WITH R AND AZURE](https://vimeo.com/144780956)  [47:01]
+- [Introduction to NoSQL by Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)  [54:51]
 - [Beer analysis using Kibana 4 and elasticsearch - Christoffer Vig](https://vimeo.com/132192253)  [56:57]
 - [Troll Hunting on the Internet - Gary Short](https://vimeo.com/131643296)  [1:03:19]
 - [Introduction to Neural Networks, Vector Reduction and Natural Language Processing](https://www.youtube.com/watch?v=_ml5XQn-_SQ)  [1:07:29]
 - [Realtime Data Analytics at Datadog](https://www.youtube.com/watch?v=49YOOw0WDl8)  [1:09:06]
-- [Introduction to NoSQL by Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)  [54:51]
-- [Making Big Data Useful Data - Anna Bongenhielm](https://www.youtube.com/watch?v=wUysIXUeL-M)  [38:11]
-- [PUTTING FUN INTO DATA ANALYSIS WITH F#](https://vimeo.com/144816160)  [38:44]
-- [ANALYSING GITHUB COMMITS WITH R AND AZURE](https://vimeo.com/144780956)  [47:01]
-- [MINE SOCIAL METRICS FROM SOURCE CODE REPOSITORIES](https://vimeo.com/144670188)  [35:57]
 
 ## Security
 
