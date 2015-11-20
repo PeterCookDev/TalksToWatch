@@ -6,7 +6,6 @@
 - [TYPES PROPERTIES = SOFTWARE](https://vimeo.com/144800642)  [40:39]
 - [WHAT I’VE LEARNT WORKING AT SCALE](https://vimeo.com/144799320)  [40:49]
 - [PRAGMATIC DEVELOPMENT AT STACK OVERFLOW](https://vimeo.com/144983385)  [43:00]
-- [Baruco 2013: Here Be Dragons, by Katrina Owen](https://www.youtube.com/watch?v=HsWLrSof-ns) [43:42]
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)  [43:53]
 - [The Art of Software Gardening - Patroklos Papapetrou](https://vimeo.com/131189624)  [44:13]
 - [UNDER THE HOOD OF C# 6.0](https://vimeo.com/144630847)  [44:25]
