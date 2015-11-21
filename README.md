@@ -11,7 +11,6 @@
 - [UNDER THE HOOD OF C# 6.0](https://vimeo.com/144630847)  [44:25]
 - [IT'S ABOUT TIME!](https://vimeo.com/144819382)  [44:47]
 - [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)  [45:20]
-- [WRITING HIGHLY PERFORMANT MANAGED CODE](https://vimeo.com/144809641)  [50:02]
 - [Alan Kay, 2015: Power of Simplicity](https://www.youtube.com/watch?v=NdSD07U5uBs) [51:06]
 - [Jon Skeet: Abusing C#](http://vimeo.com/68320506)  [1:00:33]
 - [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](http://vimeo.com/68390510)  [1:00:33]
