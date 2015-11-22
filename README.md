@@ -45,7 +45,6 @@
 - [Immutability Changes Everything - Pat Helland](http://vimeo.com/52831373)  [45:19]
 - [Greg Young - Functional Data](https://vimeo.com/131636650)  [49:52]
 - [Jessica Kerr - Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU)  [51:13]
-- [Adam Tornhill - Code that fits your brain](http://vimeo.com/97471514)  [51:25]
 - [Karoline Klever - What is the actual life expectancy of your code?](https://vimeo.com/142347209) [52:24]
 - [Scott Meyers - Better Software--No Matter What: The Most Important Design Guideline](http://vimeo.com/97349221)  [54:41]
 - [Unleash Your Domain - Greg Young](https://vimeo.com/19428577)  [54:43]
