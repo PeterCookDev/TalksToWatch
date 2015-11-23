@@ -130,7 +130,6 @@
 
 ## Data Science
 
-- [MINE SOCIAL METRICS FROM SOURCE CODE REPOSITORIES](https://vimeo.com/144670188)  [35:57]
 - [Making Big Data Useful Data - Anna Bongenhielm](https://www.youtube.com/watch?v=wUysIXUeL-M)  [38:11]
 - [PUTTING FUN INTO DATA ANALYSIS WITH F#](https://vimeo.com/144816160)  [38:44]
 - [SPLUNK, A SMORGASBORD FOR DEVELOPING BIG DATA SOLUTIONS](https://vimeo.com/111111119)  [43:05]
