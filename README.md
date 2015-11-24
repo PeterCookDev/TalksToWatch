@@ -65,7 +65,6 @@
 
 ## Agile & Development Practices
 
-- [What’s the worst that can happen?” – Enabling authentic trust at work – Marc Burgauer](https://vimeo.com/117576663)  [31:49]
 - [Russ Miles - Pair Programming Considered Bad For Your 'Mental' Health](https://vimeo.com/98730548)  [33:00]
 - [CULTURE EATS STRATEGY FOR BREAKFAST - AND SCALES AGILE](https://vimeo.com/144827127)  [36:39]
 - [AGILE METRICS - BEYOND BURN UP/DOWN'S ONTO METRIC DRIVEN COACHING](https://vimeo.com/144824390)  [41:17]
