@@ -65,7 +65,6 @@
 
 ## Agile & Development Practices
 
-- [Russ Miles - Pair Programming Considered Bad For Your 'Mental' Health](https://vimeo.com/98730548)  [33:00]
 - [CULTURE EATS STRATEGY FOR BREAKFAST - AND SCALES AGILE](https://vimeo.com/144827127)  [36:39]
 - [AGILE METRICS - BEYOND BURN UP/DOWN'S ONTO METRIC DRIVEN COACHING](https://vimeo.com/144824390)  [41:17]
 - [AGILE METRICS - VELOCITY IS NOT THE GOAL](https://vimeo.com/144733515)  [43:12]
