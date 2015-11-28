@@ -133,7 +133,6 @@
 - [ANALYSING GITHUB COMMITS WITH R AND AZURE](https://vimeo.com/144780956)  [47:01]
 - [Introduction to NoSQL by Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)  [54:51]
 - [Beer analysis using Kibana 4 and elasticsearch - Christoffer Vig](https://vimeo.com/132192253)  [56:57]
-- [Troll Hunting on the Internet - Gary Short](https://vimeo.com/131643296)  [1:03:19]
 - [Introduction to Neural Networks, Vector Reduction and Natural Language Processing](https://www.youtube.com/watch?v=_ml5XQn-_SQ)  [1:07:29]
 - [Realtime Data Analytics at Datadog](https://www.youtube.com/watch?v=49YOOw0WDl8)  [1:09:06]
 
