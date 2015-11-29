@@ -149,7 +149,6 @@
 ## Leadership, Psychology and Management
 
 - [Seth Godin: Tribes](https://vimeo.com/2090774)  []
-- [Joshua Foer: Step Outside Your Comfort Zone and Study Yourself Failing](https://vimeo.com/27067169)  [17:06]
 - [Making Badass Developers - Kathy Sierra (Serious Pony) keynote](https://www.youtube.com/watch?v=FKTxC9pl-WM)  [23:03]
 - [Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
 - [Alex Harms - Learning to Empathy](https://www.youtube.com/watch?v=U15nkcSY2GI)  [30:11]
