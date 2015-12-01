@@ -108,7 +108,6 @@
 - [There and back again, a Microservices tale](https://skillsmatter.com/skillscasts/6254-there-and-back-again-a-microservices-tale)  []
 - [The Technical Journey to Microservices – Russ Miles](https://vimeo.com/140632935)  [26:54]
 - [Chris Kelly - Object-oriented lessons for a service-oriented world - Railsberry 2013](https://vimeo.com/68760204)  [31:52]
-- [MicroServices: Lessons from 3 Companies](https://vimeo.com/111627195)  [33:05]
 - [SECURING MICROSERVICES](https://vimeo.com/144796652)  [39:51]
 - [Challenges in Implementing MicroServices - Fred George](https://www.youtube.com/watch?v=2Fy_xidc11w)  [50:12]
 - [Consuming REST APIs, for all interpretations of REST | Darrel Miller at DDD Melbourne 2015](https://www.youtube.com/watch?v=1KWgwc-MFhE)  [51:01]
