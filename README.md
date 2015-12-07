@@ -45,7 +45,6 @@
 - [Jessica Kerr - Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU)  [51:13]
 - [Karoline Klever - What is the actual life expectancy of your code?](https://vimeo.com/142347209) [52:24]
 - [Scott Meyers - Better Software--No Matter What: The Most Important Design Guideline](http://vimeo.com/97349221)  [54:41]
-- [Unleash Your Domain - Greg Young](https://vimeo.com/19428577)  [54:43]
 - [Scott Wlaschin - Coding Like Frankenstein](https://vimeo.com/142347199)  [57:01]
 - [Mark Rendle - Hidden Complexity: Inside Simple.Data and Simple.Web](https://vimeo.com/52670823) [58:12]
 - [Gael Fraiteur - Taking Design Patterns to the Next Level](http://vimeo.com/97408213)  [58:23]
