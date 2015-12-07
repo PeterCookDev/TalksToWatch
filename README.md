@@ -163,4 +163,3 @@
 - [Get Unblocked - Denise Jacobs](https://vimeo.com/131640717)  [1:02:37]
 - [Engagement techniques. How to get people engaged and motivated? - Anna Danes](https://vimeo.com/131641617)  [1:03:16]
 - [Roy Osherove - The Software Team Leader Manifesto](https://vimeo.com/43612918)  [1:13:20]
-- [Richard Sheridan - Keynote: Build a Workplace People Love - Just add Joy](https://vimeo.com/144370269)  [01:14:11]
