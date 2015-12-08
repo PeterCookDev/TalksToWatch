@@ -39,7 +39,6 @@
 ## Design Principles
 
 - [REACTIVE PROGRAMMING - WHY THE HYPE?](https://vimeo.com/111000200)  [41:41]
-- [Refactoring to Functional](https://vimeo.com/111506976)  [45:00]
 - [Immutability Changes Everything - Pat Helland](http://vimeo.com/52831373)  [45:19]
 - [Greg Young - Functional Data](https://vimeo.com/131636650)  [49:52]
 - [Jessica Kerr - Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU)  [51:13]
