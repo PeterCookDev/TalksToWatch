@@ -148,7 +148,6 @@
 - [Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
 - [Alex Harms - Learning to Empathy](https://www.youtube.com/watch?v=U15nkcSY2GI)  [30:11]
 - [The Leadership gap – Pawel Brodzinksi](https://vimeo.com/115962902)  [37:00]
-- [Peter Van de Voorde - The Social Developer](https://vimeo.com/100303638)  [38:49]
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)  [41:16]
 - [eurucamp 2015 - Cultivating Empathy by Dajana and Leslie Hawthorn](https://www.youtube.com/watch?v=q17GKDnSAec)  [41:19]
 - [How to build and be a part of a highly efficient team - Kjell Ljøstad](https://vimeo.com/131748093)  [43:35]
