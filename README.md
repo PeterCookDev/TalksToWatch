@@ -6,7 +6,6 @@
 - [TYPES PROPERTIES = SOFTWARE](https://vimeo.com/144800642)  [40:39]
 - [PRAGMATIC DEVELOPMENT AT STACK OVERFLOW](https://vimeo.com/144983385)  [43:00]
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)  [43:53]
-- [The Art of Software Gardening - Patroklos Papapetrou](https://vimeo.com/131189624)  [44:13]
 - [UNDER THE HOOD OF C# 6.0](https://vimeo.com/144630847)  [44:25]
 - [IT'S ABOUT TIME!](https://vimeo.com/144819382)  [44:47]
 - [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)  [45:20]
