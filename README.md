@@ -42,7 +42,6 @@
 - [Karoline Klever - What is the actual life expectancy of your code?](https://vimeo.com/142347209) [52:24]
 - [Scott Meyers - Better Software--No Matter What: The Most Important Design Guideline](http://vimeo.com/97349221)  [54:41]
 - [Scott Wlaschin - Coding Like Frankenstein](https://vimeo.com/142347199)  [57:01]
-- [Hans-Christian Holm - Case study: Making use of functional programming techniques in .NET](https://vimeo.com/97541187)  [57:37]
 - [Mark Rendle - Hidden Complexity: Inside Simple.Data and Simple.Web](https://vimeo.com/52670823) [58:12]
 - [Gael Fraiteur - Taking Design Patterns to the Next Level](http://vimeo.com/97408213)  [58:23]
 - [Josh Bloch - How to Design a Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)  [1:00:14]
