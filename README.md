@@ -142,7 +142,6 @@
 
 - [Seth Godin: Tribes](https://vimeo.com/2090774)  []
 - [Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
-- [Alex Harms - Learning to Empathy](https://www.youtube.com/watch?v=U15nkcSY2GI)  [30:11]
 - [The Leadership gap – Pawel Brodzinksi](https://vimeo.com/115962902)  [37:00]
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)  [41:16]
 - [eurucamp 2015 - Cultivating Empathy by Dajana and Leslie Hawthorn](https://www.youtube.com/watch?v=q17GKDnSAec)  [41:19]
