@@ -62,7 +62,6 @@
 - [AGILE METRICS - VELOCITY IS NOT THE GOAL](https://vimeo.com/144733515)  [43:12]
 - [Ian Brockbank - How do you “push responsibility down” and “empower the team”](https://vimeo.com/76096772)  [43:49]
 - [SCALED AGILE @ SPOTIFY](https://vimeo.com/111131934)  [43:51]
-- [Michał Bartyzel - Conversation Patterns for Software Professionals](https://vimeo.com/100300518)  [45:02]
 - [Open Source & Feelings 2015 - Ensuring the Sustainability of Your Code Learning Community](https://www.youtube.com/watch?v=jYM8AnreZHQ)  [46:00]
 - [Anders Ivarsson - Scaling Agile with Tribes, Squads, Chapters & Guilds](https://vimeo.com/75917536)  [47:19]
 - [Getting real value out of your planning efforts with Story Mapping - Jesper Boeg](https://www.youtube.com/watch?v=c4_PvSXZssc)  [51:23]
