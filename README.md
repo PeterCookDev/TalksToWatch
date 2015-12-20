@@ -143,7 +143,6 @@
 - [Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
 - [The Leadership gap – Pawel Brodzinksi](https://vimeo.com/115962902)  [37:00]
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)  [41:16]
-- [eurucamp 2015 - Cultivating Empathy by Dajana and Leslie Hawthorn](https://www.youtube.com/watch?v=q17GKDnSAec)  [41:19]
 - [Total Engagement and the Reinvention of Work using Games - J. Leighton Read, MD](https://vimeo.com/43250464)  [43:54]
 - [Crazy and Focused - Daniel Steinberg](https://www.youtube.com/watch?v=p1rGUchWHR8)  [45:49]
 - [Katherine Kirk - Keynote : Why Team Happiness can be the Worst Thing to Aim For](https://vimeo.com/143894732)  [50:53]
