@@ -144,7 +144,6 @@
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)  [41:16]
 - [Total Engagement and the Reinvention of Work using Games - J. Leighton Read, MD](https://vimeo.com/43250464)  [43:54]
 - [Crazy and Focused - Daniel Steinberg](https://www.youtube.com/watch?v=p1rGUchWHR8)  [45:49]
-- [Katherine Kirk - Keynote : Why Team Happiness can be the Worst Thing to Aim For](https://vimeo.com/143894732)  [50:53]
 - [Alicia Juarero - Keynote : Think Safe-fail to thrive under conditions of uncertainty](https://vimeo.com/143055623)  [52:39]
 - [Roy Osherove - Notes to a Team Leader](https://vimeo.com/95208784)  [57:03]
 - [Hadi Hariri - Developers: The Prima Donnas of the 21st Century](https://vimeo.com/52670824)  [57:36]
