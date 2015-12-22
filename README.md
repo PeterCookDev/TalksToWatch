@@ -146,7 +146,6 @@
 - [Crazy and Focused - Daniel Steinberg](https://www.youtube.com/watch?v=p1rGUchWHR8)  [45:49]
 - [Alicia Juarero - Keynote : Think Safe-fail to thrive under conditions of uncertainty](https://vimeo.com/143055623)  [52:39]
 - [Roy Osherove - Notes to a Team Leader](https://vimeo.com/95208784)  [57:03]
-- [Hadi Hariri - Developers: The Prima Donnas of the 21st Century](https://vimeo.com/52670824)  [57:36]
 - [Get Unblocked - Denise Jacobs](https://vimeo.com/131640717)  [1:02:37]
 - [Engagement techniques. How to get people engaged and motivated? - Anna Danes](https://vimeo.com/131641617)  [1:03:16]
 - [Roy Osherove - The Software Team Leader Manifesto](https://vimeo.com/43612918)  [1:13:20]
