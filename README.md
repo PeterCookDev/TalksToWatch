@@ -3,7 +3,6 @@
 ## General Development
 
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)  [29:40]
-- [TYPES PROPERTIES = SOFTWARE](https://vimeo.com/144800642)  [40:39]
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)  [43:53]
 - [UNDER THE HOOD OF C# 6.0](https://vimeo.com/144630847)  [44:25]
 - [IT'S ABOUT TIME!](https://vimeo.com/144819382)  [44:47]
