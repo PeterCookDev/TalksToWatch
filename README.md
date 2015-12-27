@@ -144,7 +144,6 @@
 - [Why you will fail to have a great career | Larry Smith](https://www.youtube.com/watch?v=iKHTawgyKWQ)  [14:59]
 - [Margaret Heffernan: Why it's time to forget the pecking order at work](http://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work)  [15:47]
 - [Gamification at work | Janaki Kumar](https://www.youtube.com/watch?v=6wk4dkY-rV0)  [18:25]
-- [Brené Brown: The power of vulnerability](http://www.ted.com/talks/brene_brown_on_vulnerability)  [20:19]
 - [Dan Ariely: What makes us feel good about our work?](https://www.youtube.com/watch?v=5aH2Ppjpcho)  [20:26]
 - [Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
 - [The Leadership gap – Pawel Brodzinksi](https://vimeo.com/115962902)  [37:00]
