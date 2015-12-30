@@ -23,14 +23,14 @@
 - [Jon Skeet – Noda Time, for better or worse: a case study in open source library experience](https://vimeo.com/77323770)  [1:08:06]
 - [The Power Of Abstraction - Barbara Liskov](http://www.infoq.com/presentations/liskov-power-of-abstraction)  [1:18:34]
 
-## Functional Programming and F/#
+## Functional Programming and F\#
 
 - [Immutability Changes Everything - Pat Helland](http://vimeo.com/52831373)  [45:19]
 - [Greg Young - Functional Data](https://vimeo.com/131636650)  [49:52]
 - [Scott Wlaschin - Coding Like Frankenstein](https://vimeo.com/142347199)  [57:01]
 - [Learning Functional Programming without Growing a Neckbeard](https://www.youtube.com/watch?v=OOvL6QAxRK4)  [1:04:42]
 
-## .NET and C/#
+## .NET and C \#
 
 - [UNDER THE HOOD OF C# 6.0](https://vimeo.com/144630847)  [44:25]
 - [Mads Torgersen - Play in C#](https://www.youtube.com/watch?v=08klj0nZYK8)  [46:53]
