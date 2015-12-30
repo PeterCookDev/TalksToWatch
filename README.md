@@ -142,8 +142,7 @@
 ## Leadership, Psychology and Management
 
 - [Seth Godin: Tribes](https://vimeo.com/2090774)  []
-- [Regina Hartley - Why the best hire might not have the perfect resume](http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume)  [10:31]
-- [Margaret Heffernan: The dangers of "willful blindness"](http://www.ted.com/talks/margaret_heffernan_the_dangers_of_willful_blindness) [14:38]  
+- [Regina Hartley - Why the best hire might not have the perfect resume](http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume)  [10:31] 
 - [Why you will fail to have a great career | Larry Smith](https://www.youtube.com/watch?v=iKHTawgyKWQ)  [14:59]
 - [Margaret Heffernan: Why it's time to forget the pecking order at work](http://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work)  [15:47]
 - [Gamification at work | Janaki Kumar](https://www.youtube.com/watch?v=6wk4dkY-rV0)  [18:25]
