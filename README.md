@@ -6,26 +6,26 @@
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)  [43:53]
 - [IT'S ABOUT TIME!](https://vimeo.com/144819382)  [44:47]
 - [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)  [45:20]
-- [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](http://vimeo.com/68390510)  [1:00:33]
+- [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](https://vimeo.com/68390510)  [1:00:33]
 - [The Joys and Pains of a Long Lived Codebase by Jeremy D Miller](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller)  [1:02:30]
 - [Venkat Subramaniam - The Art of Simplicity](https://www.youtube.com/watch?v=-ZPgO5USBoI)  [1:22:32]
 
 ## Design Principles
 
 - [Karoline Klever - What is the actual life expectancy of your code?](https://vimeo.com/142347209) [52:24]
-- [Gael Fraiteur - Taking Design Patterns to the Next Level](http://vimeo.com/97408213)  [58:23]
+- [Gael Fraiteur - Taking Design Patterns to the Next Level](https://vimeo.com/97408213)  [58:23]
 - [Josh Bloch - How to Design a Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)  [1:00:14]
 - [Not just layers! What can pipelines and events do for you? by Ian Cooper](https://vimeo.com/113584390)  [1:00:22]
 - [Rich Hickey - Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)  [1:01:26]
 - [Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759)  [1:03:00]
 - [GTAC 2014: Move Fast & Don't Break Things](https://www.youtube.com/watch?v=j_JviA5nvS0)  [1:04:37]
-- [OOP is Dead! Long Live OODD](http://vimeo.com/77415896)  [1:08:00]
+- [OOP is Dead! Long Live OODD](https://vimeo.com/77415896)  [1:08:00]
 - [Jon Skeet – Noda Time, for better or worse: a case study in open source library experience](https://vimeo.com/77323770)  [1:08:06]
 - [The Power Of Abstraction - Barbara Liskov](http://www.infoq.com/presentations/liskov-power-of-abstraction)  [1:18:34]
 
 ## Functional Programming and `F#`
 
-- [Immutability Changes Everything - Pat Helland](http://vimeo.com/52831373)  [45:19]
+- [Immutability Changes Everything - Pat Helland](https://vimeo.com/52831373)  [45:19]
 - [Greg Young - Functional Data](https://vimeo.com/131636650)  [49:52]
 - [Scott Wlaschin - Coding Like Frankenstein](https://vimeo.com/142347199)  [57:01]
 - [Learning Functional Programming without Growing a Neckbeard](https://www.youtube.com/watch?v=OOvL6QAxRK4)  [1:04:42]
@@ -36,9 +36,9 @@
 - [Mads Torgersen - Play in C#](https://www.youtube.com/watch?v=08klj0nZYK8)  [46:53]
 - [Deep Dive ASP.NET5](https://channel9.msdn.com/Events/DXPortugal/Microsoft-WebCamp-2015/ASP05?WT.mc_id=DX_MVP4025064) [54:12]
 - [Mark Rendle - Hidden Complexity: Inside Simple.Data and Simple.Web](https://vimeo.com/52670823) [58:12]
-- [Jon Skeet: Abusing C#](http://vimeo.com/68320506)  [1:00:33]
+- [Jon Skeet: Abusing C#](https://vimeo.com/68320506)  [1:00:33]
 - [Decoupling from ASP.NET - Hexagonal Architectures in .NET by Ian Cooper](https://vimeo.com/113621145)  [1:01:07]
-- [Liam Westley - Async C# 5.0 - Patterns For Real World Use](http://vimeo.com/97337304)  [1:07:18]
+- [Liam Westley - Async C# 5.0 - Patterns For Real World Use](https://vimeo.com/97337304)  [1:07:18]
 
 ## Python
 
@@ -53,10 +53,10 @@
 - [Securing Web APIs – Patterns & Anti-Patterns - Dominick Baier](https://vimeo.com/131635255)  [52:53]
 - [Learning Client Hypermedia from the Ground Up - Mike Amundsen](https://vimeo.com/131642790)  [54:06]
 - [THE BEATING HEART OF CQRS](https://vimeo.com/144747595)  [55:08]
-- [Brock Allen - OWIN and Katana: What the Func?](http://vimeo.com/97329189)  [55:46]
+- [Brock Allen - OWIN and Katana: What the Func?](https://vimeo.com/97329189)  [55:46]
 - [GeeCON 2014: Sam Newman - The Practical Implications Of Microservices](https://vimeo.com/99531595)  [56:10]
-- [Dominick Baier - Web API Authorization & Access Control – done right!](http://vimeo.com/97337305)  [57:26]
-- [Anders Ljusberg: CQRS Hypermedia with WebAPI](http://vimeo.com/68320468)  [58:47]
+- [Dominick Baier - Web API Authorization & Access Control – done right!](https://vimeo.com/97337305)  [57:26]
+- [Anders Ljusberg: CQRS Hypermedia with WebAPI](https://vimeo.com/68320468)  [58:47]
 - [Crafting Evolvable Web API Representations - Darrel Miller](https://vimeo.com/131643022)  [1:03:19]
 - [Microservices, cutting through the Gordian Knot - Ian Cooper](https://vimeo.com/132194544)  [1:03:28]
 - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)  [1:03:47]
@@ -81,7 +81,7 @@
 - [Test Driven Development (by controlling dependencies) - Jorge D Ortiz Fuentes](https://www.youtube.com/watch?v=qYpURmZcCKs)  [54:10]
 - [RE-INVENTING TESTING – A DISCUSSION ABOUT SCIENCE, EXPLORATION AND INNOVATION](https://vimeo.com/144745751)  [55:08]
 - [GeeCON 2013: - Sandro Mancuso: Testing and Refactoring Legacy Code](https://vimeo.com/76472757)  [57:13]
-- [Accelerate your development by accelerating your feedback loop - Johannes Brodwall](http://vimeo.com/105888938)  [1:03:21]
+- [Accelerate your development by accelerating your feedback loop - Johannes Brodwall](https://vimeo.com/105888938)  [1:03:21]
 
 ## Devops
 
@@ -92,7 +92,7 @@
 - [GeeCON 2014: Thomas Riha - Scaling Continuous Delivery](https://vimeo.com/100331338)  [54:19]
 - [Running Docker and Containers in Development and Production - Ben Hall](https://vimeo.com/131639823)  [56:27]
 - [Release Engineering as a Force Multiplier](http://www.youtube.com/watch?v=7j0NDGJVROI)  [1:00:49]
-- [Richard Campbell - People, Process, Tools – The Essence of DevOps](http://vimeo.com/97337256)  [1:02:41]
+- [Richard Campbell - People, Process, Tools – The Essence of DevOps](https://vimeo.com/97337256)  [1:02:41]
 
 ## Data Science
 
@@ -113,8 +113,8 @@
 ## Tools
 
 - [The Motivation for a Monolithic Codebase Why Google Stores Billions of Lines of Code in  a single repository](https://www.youtube.com/watch?v=W71BTkUbdqE)  [30:49]
-- [Tim Berglund - GitHub Power Tools](http://vimeo.com/97473703)  [59:02]
-- [Paul Betts: Effective GitHubbing: The GitHub Flow](http://vimeo.com/68378254)  [1:03:36]
+- [Tim Berglund - GitHub Power Tools](https://vimeo.com/97473703)  [59:02]
+- [Paul Betts: Effective GitHubbing: The GitHub Flow](https://vimeo.com/68378254)  [1:03:36]
 
 ## Agile Practices
 
@@ -132,7 +132,7 @@
 - [A3 Thinking and Kaizen - Claudio Perrone](https://vimeo.com/43185886)  [53:18]
 - [Scott Bellware - Agile Kaizen](https://vimeo.com/97501372)  [57:01]
 - [Don't demo facts. Demo stories! - Tudor Girba](https://vimeo.com/131632605)  [57:22]
-- [Seb Rose - So long, and thanks for all the tests](http://vimeo.com/105861375)  [1:00:25]
+- [Seb Rose - So long, and thanks for all the tests](https://vimeo.com/105861375)  [1:00:25]
 - [Oliver Gierke - Whoops! Where did my architecture go?](https://vimeo.com/112516354)  [1:01:22]
 - [Bob Marshall on Seven Ways to Improve Your Software Development Flow](https://vimeo.com/113216169)  [1:02:32]
 - [Fred George - Programmer Anarchy](https://vimeo.com/43690647)  [1:02:48]
