@@ -27,7 +27,6 @@
 
 - [Immutability Changes Everything - Pat Helland](https://vimeo.com/52831373)  [45:19]
 - [Greg Young - Functional Data](https://vimeo.com/131636650)  [49:52]
-- [Scott Wlaschin - Coding Like Frankenstein](https://vimeo.com/142347199)  [57:01]
 - [Learning Functional Programming without Growing a Neckbeard](https://www.youtube.com/watch?v=OOvL6QAxRK4)  [1:04:42]
 
 ## .NET and `C#`
