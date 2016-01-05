@@ -55,7 +55,6 @@
 - [GeeCON 2014: Sam Newman - The Practical Implications Of Microservices](https://vimeo.com/99531595)  [56:10]
 - [Dominick Baier - Web API Authorization & Access Control – done right!](https://vimeo.com/97337305)  [57:26]
 - [Anders Ljusberg: CQRS Hypermedia with WebAPI](https://vimeo.com/68320468)  [58:47]
-- [Crafting Evolvable Web API Representations - Darrel Miller](https://vimeo.com/131643022)  [1:03:19]
 - [Microservices, cutting through the Gordian Knot - Ian Cooper](https://vimeo.com/132194544)  [1:03:28]
 - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)  [1:03:47]
 - [The rest of ReST - Dylan Beattie](https://vimeo.com/131641615)  [1:04:19]
