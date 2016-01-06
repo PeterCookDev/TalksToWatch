@@ -12,7 +12,6 @@
 
 ## Design Principles
 
-- [Karoline Klever - What is the actual life expectancy of your code?](https://vimeo.com/142347209) [52:24]
 - [Gael Fraiteur - Taking Design Patterns to the Next Level](https://vimeo.com/97408213)  [58:23]
 - [Josh Bloch - How to Design a Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)  [1:00:14]
 - [Not just layers! What can pipelines and events do for you? by Ian Cooper](https://vimeo.com/113584390)  [1:00:22]
