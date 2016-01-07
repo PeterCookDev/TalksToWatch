@@ -93,7 +93,6 @@
 ## Data Science
 
 - [Making Big Data Useful Data - Anna Bongenhielm](https://www.youtube.com/watch?v=wUysIXUeL-M)  [38:11]
-- [PUTTING FUN INTO DATA ANALYSIS WITH F#](https://vimeo.com/144816160)  [38:44]
 - [SPLUNK, A SMORGASBORD FOR DEVELOPING BIG DATA SOLUTIONS](https://vimeo.com/111111119)  [43:05]
 - [MACHINE LEARNING SMACKDOWN](https://vimeo.com/111040772)  [44:16]
 - [ANALYSING GITHUB COMMITS WITH R AND AZURE](https://vimeo.com/144780956)  [47:01]
