@@ -139,7 +139,6 @@
 - [Seth Godin: Tribes](https://vimeo.com/2090774)  []
 - [Regina Hartley - Why the best hire might not have the perfect resume](http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume)  [10:31] 
 - [Why you will fail to have a great career | Larry Smith](https://www.youtube.com/watch?v=iKHTawgyKWQ)  [14:59]
-- [Dan Ariely: What makes us feel good about our work?](https://www.youtube.com/watch?v=5aH2Ppjpcho)  [20:26]
 - [Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
 - [The Leadership gap – Pawel Brodzinksi](https://vimeo.com/115962902)  [37:00]
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)  [41:16]
