@@ -35,7 +35,6 @@
 - [Mark Rendle - Hidden Complexity: Inside Simple.Data and Simple.Web](https://vimeo.com/52670823) [58:12]
 - [Jon Skeet: Abusing C#](https://vimeo.com/68320506)  [1:00:33]
 - [Decoupling from ASP.NET - Hexagonal Architectures in .NET by Ian Cooper](https://vimeo.com/113621145)  [1:01:07]
-- [Liam Westley - Async C# 5.0 - Patterns For Real World Use](https://vimeo.com/97337304)  [1:07:18]
 
 ## Python
 
