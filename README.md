@@ -67,7 +67,6 @@
 - [TEST AUTOMATION TRENDS FOR 2016 AND BEYOND: STAYING EMPLOYABLE IN CHANGING TIMES](https://vimeo.com/144992718)  [36:42]
 - [AUTOMATION ABSTRACTIONS - PAGE OBJECTS AND BEYOND](https://vimeo.com/111214646)  [38:58]
 - [GTAC 2014: I Don't Test Often ... But When I Do, I Test in Production](https://www.youtube.com/watch?v=xkP70Zhhix4&list=PLSIUOFhnxEiDFckNDSjKWqOCtd8ksJrh4&index=8)  [41:16]
-- [8 SIMPLE TDD RULES](https://vimeo.com/111091466)  [41:24]
 - [REAL CONVERSATIONS IN BDD](https://vimeo.com/144723689)  [42:04]
 - [Unselfish Testing - Jay Fields](https://www.youtube.com/watch?v=f9eu4mMOtN4)  [42:43]
 - [GeeCON TDD 2015: Jakub Narbdalik - Test Driven Traps](https://vimeo.com/120572733)  [43:41]
