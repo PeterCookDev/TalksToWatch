@@ -98,10 +98,6 @@
 - [Introduction to Neural Networks, Vector Reduction and Natural Language Processing](https://www.youtube.com/watch?v=_ml5XQn-_SQ)  [1:07:29]
 - [Realtime Data Analytics at Datadog](https://www.youtube.com/watch?v=49YOOw0WDl8)  [1:09:06]
 
-## Security
-
-- [Secure coding patterns](https://vimeo.com/110897723)  [36:14]
-
 ## Tools
 
 - [The Motivation for a Monolithic Codebase Why Google Stores Billions of Lines of Code in  a single repository](https://www.youtube.com/watch?v=W71BTkUbdqE)  [30:49]
