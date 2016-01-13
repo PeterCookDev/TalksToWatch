@@ -19,7 +19,6 @@
 - [Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759)  [1:03:00]
 - [GTAC 2014: Move Fast & Don't Break Things](https://www.youtube.com/watch?v=j_JviA5nvS0)  [1:04:37]
 - [OOP is Dead! Long Live OODD](https://vimeo.com/77415896)  [1:08:00]
-- [Jon Skeet – Noda Time, for better or worse: a case study in open source library experience](https://vimeo.com/77323770)  [1:08:06]
 - [The Power Of Abstraction - Barbara Liskov](http://www.infoq.com/presentations/liskov-power-of-abstraction)  [1:18:34]
 
 ## Functional Programming and `F#`
