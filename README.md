@@ -49,7 +49,6 @@
 - [Learning Client Hypermedia from the Ground Up - Mike Amundsen](https://vimeo.com/131642790)  [54:06]
 - [THE BEATING HEART OF CQRS](https://vimeo.com/144747595)  [55:08]
 - [Brock Allen - OWIN and Katana: What the Func?](https://vimeo.com/97329189)  [55:46]
-- [GeeCON 2014: Sam Newman - The Practical Implications Of Microservices](https://vimeo.com/99531595)  [56:10]
 - [Dominick Baier - Web API Authorization & Access Control – done right!](https://vimeo.com/97337305)  [57:26]
 - [Anders Ljusberg: CQRS Hypermedia with WebAPI](https://vimeo.com/68320468)  [58:47]
 - [Microservices, cutting through the Gordian Knot - Ian Cooper](https://vimeo.com/132194544)  [1:03:28]
