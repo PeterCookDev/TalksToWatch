@@ -68,6 +68,7 @@
 - [REAL CONVERSATIONS IN BDD](https://vimeo.com/144723689)  [42:04]
 - [Unselfish Testing - Jay Fields](https://www.youtube.com/watch?v=f9eu4mMOtN4)  [42:43]
 - [GeeCON TDD 2015: Jakub Narbdalik - Test Driven Traps](https://vimeo.com/120572733)  [43:41]
+- [AN INTRODUCTION TO CYNEFIN AND RELATED AWESOME THINKING TOOLS](https://vimeo.com/144981699)  [44:40]
 - [TEST LEADERSHIP HEURISTICS WORKSHOP](https://vimeo.com/144996354)  [45:25]
 - [How to do test reviews - Roy Osherove](https://vimeo.com/19431001)  [49:09]
 - [Test Driven Development (by controlling dependencies) - Jorge D Ortiz Fuentes](https://www.youtube.com/watch?v=qYpURmZcCKs)  [54:10]
