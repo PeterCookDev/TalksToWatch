@@ -123,7 +123,6 @@
 - [Seb Rose - So long, and thanks for all the tests](https://vimeo.com/105861375)  [1:00:25]
 - [Oliver Gierke - Whoops! Where did my architecture go?](https://vimeo.com/112516354)  [1:01:22]
 - [Bob Marshall on Seven Ways to Improve Your Software Development Flow](https://vimeo.com/113216169)  [1:02:32]
-- [Fred George - Programmer Anarchy](https://vimeo.com/43690647)  [1:02:48]
 - [Jenny Martin & Pete Buckney - Continuous Collaboration & Example Driven Dev](https://vimeo.com/111407675)  [1:18:58]
 - [Holding Effective Kaizen Events](https://vimeo.com/104680961)  [1:26:09]
 
