@@ -29,7 +29,6 @@
 
 ## .NET and `C#`
 
-- [Mads Torgersen - Play in C#](https://www.youtube.com/watch?v=08klj0nZYK8)  [46:53]
 - [Deep Dive ASP.NET5](https://channel9.msdn.com/Events/DXPortugal/Microsoft-WebCamp-2015/ASP05?WT.mc_id=DX_MVP4025064) [54:12]
 - [Mark Rendle - Hidden Complexity: Inside Simple.Data and Simple.Web](https://vimeo.com/52670823) [58:12]
 - [Jon Skeet: Abusing C#](https://vimeo.com/68320506)  [1:00:33]
