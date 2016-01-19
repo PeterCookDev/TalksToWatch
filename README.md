@@ -104,7 +104,6 @@
 
 ## Agile Practices
 
-- [AGILE METRICS - BEYOND BURN UP/DOWN'S ONTO METRIC DRIVEN COACHING](https://vimeo.com/144824390)  [41:17]
 - [AGILE METRICS - VELOCITY IS NOT THE GOAL](https://vimeo.com/144733515)  [43:12]
 - [Ian Brockbank - How do you “push responsibility down” and “empower the team”](https://vimeo.com/76096772)  [43:49]
 - [SCALED AGILE @ SPOTIFY](https://vimeo.com/111131934)  [43:51]
