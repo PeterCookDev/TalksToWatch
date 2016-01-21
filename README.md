@@ -126,7 +126,6 @@
 ## Leadership, Psychology and Management
 
 - [Seth Godin: Tribes](https://vimeo.com/2090774)  []
-- [Logan LaPlante - Hackschooling makes me happy](https://www.youtube.com/watch?v=h11u3vtcpaY)  [11:13]
 - [Regina Hartley - Why the best hire might not have the perfect resume](http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume)  [10:31] 
 - [Why you will fail to have a great career | Larry Smith](https://www.youtube.com/watch?v=iKHTawgyKWQ)  [14:59]
 - [Cate Huston - 12 Challenging Steps to Being a Better Interviewer](https://vimeo.com/139910837)  [21:52]
