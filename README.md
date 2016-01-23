@@ -45,7 +45,6 @@
 - [Challenges in Implementing MicroServices - Fred George](https://www.youtube.com/watch?v=2Fy_xidc11w)  [50:12]
 - [Consuming REST APIs, for all interpretations of REST | Darrel Miller at DDD Melbourne 2015](https://www.youtube.com/watch?v=1KWgwc-MFhE)  [51:01]
 - [Securing Web APIs – Patterns & Anti-Patterns - Dominick Baier](https://vimeo.com/131635255)  [52:53]
-- [Learning Client Hypermedia from the Ground Up - Mike Amundsen](https://vimeo.com/131642790)  [54:06]
 - [THE BEATING HEART OF CQRS](https://vimeo.com/144747595)  [55:08]
 - [Brock Allen - OWIN and Katana: What the Func?](https://vimeo.com/97329189)  [55:46]
 - [Dominick Baier - Web API Authorization & Access Control – done right!](https://vimeo.com/97337305)  [57:26]
