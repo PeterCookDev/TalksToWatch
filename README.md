@@ -77,7 +77,6 @@
 
 - [Alex Yates - Continuous Delivery for Databases (the elephant in the room)](https://vimeo.com/129090957)   [39:21]
 - [CONTINUOUS DELIVERY IN A .NET WORLD](https://vimeo.com/111289719)  [41:58]
-- [Knowledge is power! The guide to measure what matters. - Mark van Straten](https://vimeo.com/131644108)  [43:01]
 - [Why monitoring sucks, and how to improve it - Pavlo Baron](https://vimeo.com/131643292)  [47:10]
 - [GeeCON 2014: Thomas Riha - Scaling Continuous Delivery](https://vimeo.com/100331338)  [54:19]
 - [Running Docker and Containers in Development and Production - Ben Hall](https://vimeo.com/131639823)  [56:27]
