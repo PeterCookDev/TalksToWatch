@@ -14,7 +14,6 @@
 
 - [Gael Fraiteur - Taking Design Patterns to the Next Level](https://vimeo.com/97408213)  [58:23]
 - [Josh Bloch - How to Design a Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)  [1:00:14]
-- [Not just layers! What can pipelines and events do for you? by Ian Cooper](https://vimeo.com/113584390)  [1:00:22]
 - [Rich Hickey - Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)  [1:01:26]
 - [Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759)  [1:03:00]
 - [GTAC 2014: Move Fast & Don't Break Things](https://www.youtube.com/watch?v=j_JviA5nvS0)  [1:04:37]
