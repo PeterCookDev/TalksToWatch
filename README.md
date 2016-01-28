@@ -19,6 +19,18 @@
 - [OOP is Dead! Long Live OODD](https://vimeo.com/77415896)  [1:08:00]
 - [The Power Of Abstraction - Barbara Liskov](http://www.infoq.com/presentations/liskov-power-of-abstraction)  [1:18:34]
 
+## Domain Driven Design
+
+- [Is Domain-Driven Design more than Entities and Repositories? - Jimmy Nilsson](https://vimeo.com/12665573) [41:52]
+- [Øredev 2011 - Domain-Driven Design and Agile - Tomas Karlsson](https://vimeo.com/37602490)  [45:36]
+- [The Power of Value - Power Use of Value Objects in Domain Driven Design - Dan Bergh Johnsson](The Power of Value - Power Use of Value Objects in Domain Driven Design - Dan Bergh Johnsson)  [51:44]
+- [Use of Domain Driven Design in Enterprise Application Development - Einar Landre](https://vimeo.com/12971233)  [52:42]
+- [Strategic Design - Eric Evans](https://vimeo.com/12674642)  [58:12]
+- [Exploring Domain Driven Design Implementation Patterns in .Net](https://vimeo.com/42270208)  [1:10:42]
+- [Domain Driven Design - Eric Evans](https://www.youtube.com/watch?v=7MaYeudL9yo)  [1:14:37]
+- [Real Experiences and Architectural Domain-Driven Design Patterns Applied on Microsoft .NET Developme](https://www.youtube.com/watch?v=QQdRRltJk2g)  [1:16:26]
+- [DDD Meetup - Effective Aggregate Design Part II](https://vimeo.com/33708293)  [1:22:59]
+
 ## Functional Programming and `F#`
 
 - [Immutability Changes Everything - Pat Helland](https://vimeo.com/52831373)  [45:19]
