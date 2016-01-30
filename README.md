@@ -16,7 +16,6 @@
 - [Rich Hickey - Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)  [1:01:26]
 - [Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759)  [1:03:00]
 - [GTAC 2014: Move Fast & Don't Break Things](https://www.youtube.com/watch?v=j_JviA5nvS0)  [1:04:37]
-- [OOP is Dead! Long Live OODD](https://vimeo.com/77415896)  [1:08:00]
 - [The Power Of Abstraction - Barbara Liskov](http://www.infoq.com/presentations/liskov-power-of-abstraction)  [1:18:34]
 
 ## Domain Driven Design
