@@ -7,7 +7,6 @@
 - [IT'S ABOUT TIME!](https://vimeo.com/144819382)  [44:47]
 - [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)  [45:20]
 - [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](https://vimeo.com/68390510)  [1:00:33]
-- [Jurgen Appelo - The 7 Duties of Great Software Professionals](https://vimeo.com/99516367)  [1:02:27]
 - [The Joys and Pains of a Long Lived Codebase by Jeremy D Miller](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller)  [1:02:30]
 - [Venkat Subramaniam - The Art of Simplicity](https://www.youtube.com/watch?v=-ZPgO5USBoI)  [1:22:32]
 
@@ -112,6 +111,7 @@
 
 ## Agile Practices
 
+- [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)  [41:16]
 - [AGILE METRICS - VELOCITY IS NOT THE GOAL](https://vimeo.com/144733515)  [43:12]
 - [Ian Brockbank - How do you “push responsibility down” and “empower the team”](https://vimeo.com/76096772)  [43:49]
 - [SCALED AGILE @ SPOTIFY](https://vimeo.com/111131934)  [43:51]
@@ -131,31 +131,34 @@
 - [Jenny Martin & Pete Buckney - Continuous Collaboration & Example Driven Dev](https://vimeo.com/111407675)  [1:18:58]
 - [Holding Effective Kaizen Events](https://vimeo.com/104680961)  [1:26:09]
 
-## Leadership, Psychology and Management
-
-- [Seth Godin: Tribes](https://vimeo.com/2090774)  []
-- [Regina Hartley - Why the best hire might not have the perfect resume](http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume)  [10:31] 
-- [Why you will fail to have a great career | Larry Smith](https://www.youtube.com/watch?v=iKHTawgyKWQ)  [14:59]
+## Dev Career Skills
+- [Regina Hartley - Why the best hire might not have the perfect resume](http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume)  [10:31]
 - [Creating a Strong Geek Culture](https://www.youtube.com/watch?v=7nosGNOADpg)  [19:09]
 - [Cate Huston - 12 Challenging Steps to Being a Better Interviewer](https://vimeo.com/139910837)  [21:52]
-- [Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
 - [Oren Ellenbogen - Building happier engineering teams ](https://vimeo.com/139906437)  [28:22]
 - [Amanda Quaranto - Nobody Expects an Inquisition!...](https://www.youtube.com/watch?v=2h1EocEyiSo)  [28:58]
 - [Austin Fonacier - Hacking Development Culture: Treating Developers As People](https://www.youtube.com/watch?v=z5zll50fRJA)  [29:25]
+- [How to Create Good Documentation](https://www.youtube.com/watch?v=lw9R2qMCdqk)  [34:31]
 - [Empathy-Driven Development](https://www.youtube.com/watch?v=XZJBfMmOEjg)  [35:36]
-- [The Leadership gap – Pawel Brodzinksi](https://vimeo.com/115962902)  [37:00]
 - [Laura Eck - The Not So Rational Programmer](https://www.youtube.com/watch?v=E-5VhMUYmVY)  [38:09]
-- [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)  [41:16]
-- [Total Engagement and the Reinvention of Work using Games - J. Leighton Read, MD](https://vimeo.com/43250464)  [43:54]
-- [Crazy and Focused - Daniel Steinberg](https://www.youtube.com/watch?v=p1rGUchWHR8)  [45:49]
 - [Ben Orenstein - How to Talk to Developers](https://www.youtube.com/watch?v=l9JXH7JPjR4)  [47:37]
 - [Jeff Casimir - Why Developers Quit](https://www.youtube.com/watch?v=JgEgtKKAabg)  [48:50]
 - [Dan Allen - 7 Ways to Hack Your Brain to Write Fluently](https://www.youtube.com/watch?v=r6RXRi5pBXg)  [49:15]
-- [On Awesomeness, or How To Inspire Some Awe](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M113)  [50:01]
 - [Public Speaking Skills for Quiet People](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M316)  [51:43]
-- [Alicia Juarero - Keynote : Think Safe-fail to thrive under conditions of uncertainty](https://vimeo.com/143055623)  [52:39]
 - [Geoffrey Grosenbach - Technical Explanations](https://www.youtube.com/watch?v=FpnLCkhv-1g)  [56:54]
 - [Roy Osherove - Notes to a Team Leader](https://vimeo.com/95208784)  [57:03]
+- [Jurgen Appelo - The 7 Duties of Great Software Professionals](https://vimeo.com/99516367)  [1:02:27]
+- [Roy Osherove - The Software Team Leader Manifesto](https://vimeo.com/43612918)  [1:13:20]
+
+## Leadership, Psychology and Management
+
+- [Seth Godin: Tribes](https://vimeo.com/2090774)  []
+- [Why you will fail to have a great career | Larry Smith](https://www.youtube.com/watch?v=iKHTawgyKWQ)  [14:59]
+- [Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
+- [The Leadership gap – Pawel Brodzinksi](https://vimeo.com/115962902)  [37:00]
+- [Total Engagement and the Reinvention of Work using Games - J. Leighton Read, MD](https://vimeo.com/43250464)  [43:54]
+- [Crazy and Focused - Daniel Steinberg](https://www.youtube.com/watch?v=p1rGUchWHR8)  [45:49]
+- [On Awesomeness, or How To Inspire Some Awe](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M113)  [50:01]
+- [Alicia Juarero - Keynote : Think Safe-fail to thrive under conditions of uncertainty](https://vimeo.com/143055623)  [52:39]
 - [Get Unblocked - Denise Jacobs](https://vimeo.com/131640717)  [1:02:37]
 - [Engagement techniques. How to get people engaged and motivated? - Anna Danes](https://vimeo.com/131641617)  [1:03:16]
-- [Roy Osherove - The Software Team Leader Manifesto](https://vimeo.com/43612918)  [1:13:20]
