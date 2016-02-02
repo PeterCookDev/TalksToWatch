@@ -111,12 +111,14 @@
 
 ## Agile Practices
 
+- [Will Evans - Heretics, High Priests, and Hagiolatry](https://vimeo.com/143053323) [40:11]
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)  [41:16]
 - [AGILE METRICS - VELOCITY IS NOT THE GOAL](https://vimeo.com/144733515)  [43:12]
 - [Ian Brockbank - How do you “push responsibility down” and “empower the team”](https://vimeo.com/76096772)  [43:49]
 - [SCALED AGILE @ SPOTIFY](https://vimeo.com/111131934)  [43:51]
 - [Open Source & Feelings 2015 - Ensuring the Sustainability of Your Code Learning Community](https://www.youtube.com/watch?v=jYM8AnreZHQ)  [46:00]
 - [Anders Ivarsson - Scaling Agile with Tribes, Squads, Chapters & Guilds](https://vimeo.com/75917536)  [47:19]
+- [Dave Thomas - The Death of Agile](https://www.youtube.com/watch?v=YpGGRAhes2k)  [47:44]
 - [Getting real value out of your planning efforts with Story Mapping - Jesper Boeg](https://www.youtube.com/watch?v=c4_PvSXZssc)  [51:23]
 - [Steven Milne - Level up with Constraints](https://vimeo.com/76126272)  [51:29]
 - [Gojko Adzic - Specification By Example](https://vimeo.com/109079233)  [52:05]
@@ -125,9 +127,12 @@
 - [A3 Thinking and Kaizen - Claudio Perrone](https://vimeo.com/43185886)  [53:18]
 - [Scott Bellware - Agile Kaizen](https://vimeo.com/97501372)  [57:01]
 - [Don't demo facts. Demo stories! - Tudor Girba](https://vimeo.com/131632605)  [57:22]
+- [Venkat Subramaniam - Pointy haired bosses and pragmatic programmers](https://www.youtube.com/watch?v=lfmKvRaNnUs)  [58:19]
 - [Seb Rose - So long, and thanks for all the tests](https://vimeo.com/105861375)  [1:00:25]
 - [Oliver Gierke - Whoops! Where did my architecture go?](https://vimeo.com/112516354)  [1:01:22]
+- [Sebastien Arbogast - Lean Startup for Developers](https://www.youtube.com/watch?v=gLHn8SXPTYg)  [1:01:26]
 - [Bob Marshall on Seven Ways to Improve Your Software Development Flow](https://vimeo.com/113216169)  [1:02:32]
+- [Dave Snowden - Embrace Complexity, Scale Agility](https://www.youtube.com/watch?v=lYlqhvzI_VQ) [1:04:21]
 - [Jenny Martin & Pete Buckney - Continuous Collaboration & Example Driven Dev](https://vimeo.com/111407675)  [1:18:58]
 - [Holding Effective Kaizen Events](https://vimeo.com/104680961)  [1:26:09]
 
