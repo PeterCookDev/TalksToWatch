@@ -40,7 +40,6 @@
 
 - [Deep Dive ASP.NET5](https://channel9.msdn.com/Events/DXPortugal/Microsoft-WebCamp-2015/ASP05?WT.mc_id=DX_MVP4025064) [54:12]
 - [Mark Rendle - Hidden Complexity: Inside Simple.Data and Simple.Web](https://vimeo.com/52670823) [58:12]
-- [Jon Skeet: Abusing C#](https://vimeo.com/68320506)  [1:00:33]
 - [Decoupling from ASP.NET - Hexagonal Architectures in .NET by Ian Cooper](https://vimeo.com/113621145)  [1:01:07]
 
 ## Python
