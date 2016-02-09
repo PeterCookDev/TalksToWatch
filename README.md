@@ -3,6 +3,7 @@
 ## General Development
 
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)  [29:40]
+- [THE INMATES ARE RUNNING THE ASYLUM](https://vimeo.com/144826046)  [43:50]
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)  [43:53]
 - [IT'S ABOUT TIME!](https://vimeo.com/144819382)  [44:47]
 - [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)  [45:20]
@@ -136,6 +137,7 @@
 - [Holding Effective Kaizen Events](https://vimeo.com/104680961)  [1:26:09]
 
 ## Dev Career Skills
+
 - [Regina Hartley - Why the best hire might not have the perfect resume](http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume)  [10:31]
 - [Creating a Strong Geek Culture](https://www.youtube.com/watch?v=7nosGNOADpg)  [19:09]
 - [Cate Huston - 12 Challenging Steps to Being a Better Interviewer](https://vimeo.com/139910837)  [21:52]
@@ -151,7 +153,6 @@
 - [Public Speaking Skills for Quiet People](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M316)  [51:43]
 - [Geoffrey Grosenbach - Technical Explanations](https://www.youtube.com/watch?v=FpnLCkhv-1g)  [56:54]
 - [Roy Osherove - Notes to a Team Leader](https://vimeo.com/95208784)  [57:03]
-- [Jurgen Appelo - The 7 Duties of Great Software Professionals](https://vimeo.com/99516367)  [1:02:27]
 - [Roy Osherove - The Software Team Leader Manifesto](https://vimeo.com/43612918)  [1:13:20]
 
 ## Leadership, Psychology and Management
