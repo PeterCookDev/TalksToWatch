@@ -106,6 +106,8 @@
 ## Tools
 
 - [The Motivation for a Monolithic Codebase Why Google Stores Billions of Lines of Code in  a single repository](https://www.youtube.com/watch?v=W71BTkUbdqE)  [30:49]
+- [Steve Smith - Knowledge is Power: Getting out of trouble by understanding Git](https://www.youtube.com/watch?v=sevc6668cQ0)  [46:50]
+- [Edward Thomson - Deep Dive into Git](https://www.youtube.com/watch?v=dBSHLb1B8sw)  [48:35]
 - [Tim Berglund - GitHub Power Tools](https://vimeo.com/97473703)  [59:02]
 - [Paul Betts: Effective GitHubbing: The GitHub Flow](https://vimeo.com/68378254)  [1:03:36]
 
