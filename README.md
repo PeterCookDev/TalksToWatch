@@ -130,7 +130,6 @@
 - [Scott Bellware - Agile Kaizen](https://vimeo.com/97501372)  [57:01]
 - [Don't demo facts. Demo stories! - Tudor Girba](https://vimeo.com/131632605)  [57:22]
 - [Venkat Subramaniam - Pointy haired bosses and pragmatic programmers](https://www.youtube.com/watch?v=lfmKvRaNnUs)  [58:19]
-- [Seb Rose - So long, and thanks for all the tests](https://vimeo.com/105861375)  [1:00:25]
 - [Oliver Gierke - Whoops! Where did my architecture go?](https://vimeo.com/112516354)  [1:01:22]
 - [Sebastien Arbogast - Lean Startup for Developers](https://www.youtube.com/watch?v=gLHn8SXPTYg)  [1:01:26]
 - [Bob Marshall on Seven Ways to Improve Your Software Development Flow](https://vimeo.com/113216169)  [1:02:32]
