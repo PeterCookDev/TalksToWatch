@@ -40,8 +40,15 @@
 ## .NET and `C#`
 
 - [Deep Dive ASP.NET5](https://channel9.msdn.com/Events/DXPortugal/Microsoft-WebCamp-2015/ASP05?WT.mc_id=DX_MVP4025064) [54:12]
+- [Cecil Phillip - ASP.NET MVC 6 and the New .NET Web Stack](https://www.youtube.com/watch?v=6wecOOuhSuc)  [55:25]
 - [Mark Rendle - Hidden Complexity: Inside Simple.Data and Simple.Web](https://vimeo.com/52670823) [58:12]
+- [Saying “Goodbye” to DNX and “Hello!” to the .NET Core CLI - Damian Edwards & David Fowler](https://vimeo.com/153212604)  [1:01:02]
+- [Middleware Tips and Tricks for ASP.NET 5 - Scott Allen](https://vimeo.com/153749266)  [1:01:03]
 - [Decoupling from ASP.NET - Hexagonal Architectures in .NET by Ian Cooper](https://vimeo.com/113621145)  [1:01:07]
+- [Something C# 7 This Way Comes - Bill Wagner](https://vimeo.com/154708153) [1:05:52]
+- [The changing state of immutability C# - Jon Skeet](https://vimeo.com/153745433)  [1:06:47]
+- [Fun with Generics](https://vimeo.com/154564491)  [1:08:24]
+- [C# Language Internals - Bart De Smet](https://vimeo.com/155107766)  [1:11:13]
 
 ## Python
 
@@ -67,10 +74,12 @@
 
 ## Testing, TDD and BDD
 
+- [Matt Wynne - Beyond BDD](https://vimeo.com/143941147) [34:32]
 - [SMARTER TESTING THROUGH SMARTER TESTERS](https://vimeo.com/144830621)  [34:57]
 - [GeeCON TDD 2015: Konstantin Kudryashov - Moving away from Legacy code with BDD](https://vimeo.com/120574455)  [36:20]
 - [TEST AUTOMATION TRENDS FOR 2016 AND BEYOND: STAYING EMPLOYABLE IN CHANGING TIMES](https://vimeo.com/144992718)  [36:42]
 - [AUTOMATION ABSTRACTIONS - PAGE OBJECTS AND BEYOND](https://vimeo.com/111214646)  [38:58]
+- [Testing Strategies for Continuous Delivery](https://www.youtube.com/watch?v=DgQWSaCQ82U)  [40:47]
 - [GTAC 2014: I Don't Test Often ... But When I Do, I Test in Production](https://www.youtube.com/watch?v=xkP70Zhhix4&list=PLSIUOFhnxEiDFckNDSjKWqOCtd8ksJrh4&index=8)  [41:16]
 - [REAL CONVERSATIONS IN BDD](https://vimeo.com/144723689)  [42:04]
 - [Unselfish Testing - Jay Fields](https://www.youtube.com/watch?v=f9eu4mMOtN4)  [42:43]
@@ -80,7 +89,11 @@
 - [Test Driven Development (by controlling dependencies) - Jorge D Ortiz Fuentes](https://www.youtube.com/watch?v=qYpURmZcCKs)  [54:10]
 - [RE-INVENTING TESTING – A DISCUSSION ABOUT SCIENCE, EXPLORATION AND INNOVATION](https://vimeo.com/144745751)  [55:08]
 - [GeeCON 2013: - Sandro Mancuso: Testing and Refactoring Legacy Code](https://vimeo.com/76472757)  [57:13]
+- [BDD in Action: Building Software Right and Building the Right Software](https://www.youtube.com/watch?v=igk3H2DWz7k)  [59:44]
 - [Accelerate your development by accelerating your feedback loop - Johannes Brodwall](https://vimeo.com/105888938)  [1:03:21]
+- [Testing with No Harm - Enrico Campidoglio](https://vimeo.com/154312751) [1:05:57]
+- [Test automation without a headache: Five key patterns - Gojko Adzic](https://vimeo.com/154289460)  [1:10:17]
+
 
 ## Devops
 
@@ -92,16 +105,35 @@
 - [Release Engineering as a Force Multiplier](http://www.youtube.com/watch?v=7j0NDGJVROI)  [1:00:49]
 - [Richard Campbell - People, Process, Tools – The Essence of DevOps](https://vimeo.com/97337256)  [1:02:41]
 
+## Security
+
+- [Web Security Essentials by Example - Troy Hunt - Security Day 2016](https://vimeo.com/154962595)  [53:09]
+- [Security in the Media - Einar Otto Stangvik - Security Day 2016](https://vimeo.com/154961992)  [55:12]
+- [What’s new in Security in ASP.NET 5 and MVC 6 - Dominick Baier](https://vimeo.com/154041158)  [1:00:02]
+- [Broken Crypto is Broken - Erlend Oftedal - Security Day 2016](https://vimeo.com/154958368) [1:01:39]
+- [Making Hacking Child’s Play - Troy Hunt](https://vimeo.com/153908385)  [1:02:25]
+- [50 Shades of AppSec - Troy Hunt](https://vimeo.com/153220272)  [1:03:36]
+- [Lessons from 220 Million Breached Records - Troy Hunt- Security Day 2016](https://vimeo.com/154958732) [1:05:11]
+- [Both Sides of the Attack - Troy Hunt & Niall Merrigan - Security Day 2016](https://vimeo.com/154956509)  [1:05:32]
+
 ## Data Science
 
 - [Making Big Data Useful Data - Anna Bongenhielm](https://www.youtube.com/watch?v=wUysIXUeL-M)  [38:11]
 - [SPLUNK, A SMORGASBORD FOR DEVELOPING BIG DATA SOLUTIONS](https://vimeo.com/111111119)  [43:05]
 - [MACHINE LEARNING SMACKDOWN](https://vimeo.com/111040772)  [44:16]
 - [ANALYSING GITHUB COMMITS WITH R AND AZURE](https://vimeo.com/144780956)  [47:01]
-- [Introduction to NoSQL by Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)  [54:51]
 - [Beer analysis using Kibana 4 and elasticsearch - Christoffer Vig](https://vimeo.com/132192253)  [56:57]
 - [Introduction to Neural Networks, Vector Reduction and Natural Language Processing](https://www.youtube.com/watch?v=_ml5XQn-_SQ)  [1:07:29]
 - [Realtime Data Analytics at Datadog](https://www.youtube.com/watch?v=49YOOw0WDl8)  [1:09:06]
+
+## Databases
+
+- [Adventures in building your own database](https://vimeo.com/145842297)  [23:41]
+- [James Blackburn - Building a time series database 10^12 rows and counting](https://vimeo.com/145842301)  [27:22]
+- [David Mytton – Stories from production: Scaling, failure and (avoiding) data loss](https://vimeo.com/109937457)  [30:18]
+- [Hannah Gray - SSDT for Visual Studio: Bet you can't tell what your database looked like 6 months ago](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M222) [53:52]
+- [Introduction to NoSQL by Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)  [54:51]
+- [Polyglot Persistence - Oren Eini](https://vimeo.com/155521095)  [1:01:12]
 
 ## Tools
 
