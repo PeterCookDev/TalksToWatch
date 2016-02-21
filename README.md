@@ -112,7 +112,6 @@
 - [What’s new in Security in ASP.NET 5 and MVC 6 - Dominick Baier](https://vimeo.com/154041158)  [1:00:02]
 - [Broken Crypto is Broken - Erlend Oftedal - Security Day 2016](https://vimeo.com/154958368) [1:01:39]
 - [Making Hacking Child’s Play - Troy Hunt](https://vimeo.com/153908385)  [1:02:25]
-- [Lessons from 220 Million Breached Records - Troy Hunt- Security Day 2016](https://vimeo.com/154958732) [1:05:11]
 - [Both Sides of the Attack - Troy Hunt & Niall Merrigan - Security Day 2016](https://vimeo.com/154956509)  [1:05:32]
 
 ## Data Science
