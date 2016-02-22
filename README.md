@@ -107,7 +107,6 @@
 
 ## Security
 
-- [Web Security Essentials by Example - Troy Hunt - Security Day 2016](https://vimeo.com/154962595)  [53:09]
 - [Security in the Media - Einar Otto Stangvik - Security Day 2016](https://vimeo.com/154961992)  [55:12]
 - [What’s new in Security in ASP.NET 5 and MVC 6 - Dominick Baier](https://vimeo.com/154041158)  [1:00:02]
 - [Broken Crypto is Broken - Erlend Oftedal - Security Day 2016](https://vimeo.com/154958368) [1:01:39]
