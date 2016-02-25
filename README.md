@@ -6,7 +6,6 @@
 - [THE INMATES ARE RUNNING THE ASYLUM](https://vimeo.com/144826046)  [43:50]
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)  [43:53]
 - [IT'S ABOUT TIME!](https://vimeo.com/144819382)  [44:47]
-- [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)  [45:20]
 - [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](https://vimeo.com/68390510)  [1:00:33]
 - [The Joys and Pains of a Long Lived Codebase by Jeremy D Miller](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller)  [1:02:30]
 - [Venkat Subramaniam - The Art of Simplicity](https://www.youtube.com/watch?v=-ZPgO5USBoI)  [1:22:32]
