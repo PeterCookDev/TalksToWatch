@@ -3,7 +3,6 @@
 ## General Development
 
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)  [29:40]
-- [THE INMATES ARE RUNNING THE ASYLUM](https://vimeo.com/144826046)  [43:50]
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)  [43:53]
 - [IT'S ABOUT TIME!](https://vimeo.com/144819382)  [44:47]
 - [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](https://vimeo.com/68390510)  [1:00:33]
@@ -93,7 +92,6 @@
 - [Testing with No Harm - Enrico Campidoglio](https://vimeo.com/154312751) [1:05:57]
 - [Test automation without a headache: Five key patterns - Gojko Adzic](https://vimeo.com/154289460)  [1:10:17]
 
-
 ## Devops
 
 - [Alex Yates - Continuous Delivery for Databases (the elephant in the room)](https://vimeo.com/129090957)   [39:21]
@@ -109,7 +107,6 @@
 - [What’s new in Security in ASP.NET 5 and MVC 6 - Dominick Baier](https://vimeo.com/154041158)  [1:00:02]
 - [Broken Crypto is Broken - Erlend Oftedal - Security Day 2016](https://vimeo.com/154958368) [1:01:39]
 - [Making Hacking Child’s Play - Troy Hunt](https://vimeo.com/153908385)  [1:02:25]
-
 
 ## Data Science
 
