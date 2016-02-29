@@ -7,7 +7,6 @@
 - [IT'S ABOUT TIME!](https://vimeo.com/144819382)  [44:47]
 - [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](https://vimeo.com/68390510)  [1:00:33]
 - [The Joys and Pains of a Long Lived Codebase by Jeremy D Miller](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller)  [1:02:30]
-- [Venkat Subramaniam - The Art of Simplicity](https://www.youtube.com/watch?v=-ZPgO5USBoI)  [1:22:32]
 
 ## Design Principles
 
