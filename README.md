@@ -71,7 +71,6 @@
 
 ## Testing, TDD and BDD
 
-- [Matt Wynne - Beyond BDD](https://vimeo.com/143941147) [34:32]
 - [SMARTER TESTING THROUGH SMARTER TESTERS](https://vimeo.com/144830621)  [34:57]
 - [GeeCON TDD 2015: Konstantin Kudryashov - Moving away from Legacy code with BDD](https://vimeo.com/120574455)  [36:20]
 - [TEST AUTOMATION TRENDS FOR 2016 AND BEYOND: STAYING EMPLOYABLE IN CHANGING TIMES](https://vimeo.com/144992718)  [36:42]
