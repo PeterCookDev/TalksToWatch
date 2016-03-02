@@ -50,6 +50,10 @@
 ## Python
 
 - [Pragmatic Unicode](http://nedbatchelder.com/text/unipain.html)  [36:20]
+- [NLTK and Text Procesing - Andrew Montalenti](https://vimeo.com/53062324)  [40:26]
+- [Bestseller Analysis: Sex Scene Detection, Topics, and Pacing](https://vimeo.com/74075845)  [41:36]
+- [Storytelling With Data](https://vimeo.com/76972897)  [1:03:04]
+- [Learning Python](https://vimeo.com/63269282) [1:12:33]
 
 ## Microservices, SOA, CQRS and Web API
 
@@ -139,7 +143,6 @@
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)  [41:16]
 - [AGILE METRICS - VELOCITY IS NOT THE GOAL](https://vimeo.com/144733515)  [43:12]
 - [Ian Brockbank - How do you “push responsibility down” and “empower the team”](https://vimeo.com/76096772)  [43:49]
-- [SCALED AGILE @ SPOTIFY](https://vimeo.com/111131934)  [43:51]
 - [Open Source & Feelings 2015 - Ensuring the Sustainability of Your Code Learning Community](https://www.youtube.com/watch?v=jYM8AnreZHQ)  [46:00]
 - [Anders Ivarsson - Scaling Agile with Tribes, Squads, Chapters & Guilds](https://vimeo.com/75917536)  [47:19]
 - [Dave Thomas - The Death of Agile](https://www.youtube.com/watch?v=YpGGRAhes2k)  [47:44]
