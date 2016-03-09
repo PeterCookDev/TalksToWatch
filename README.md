@@ -37,7 +37,6 @@
 ## .NET and `C#`
 
 - [Deep Dive ASP.NET5](https://channel9.msdn.com/Events/DXPortugal/Microsoft-WebCamp-2015/ASP05?WT.mc_id=DX_MVP4025064) [54:12]
-- [Cecil Phillip - ASP.NET MVC 6 and the New .NET Web Stack](https://www.youtube.com/watch?v=6wecOOuhSuc)  [55:25]
 - [Mark Rendle - Hidden Complexity: Inside Simple.Data and Simple.Web](https://vimeo.com/52670823) [58:12]
 - [Saying “Goodbye” to DNX and “Hello!” to the .NET Core CLI - Damian Edwards & David Fowler](https://vimeo.com/153212604)  [1:01:02]
 - [Middleware Tips and Tricks for ASP.NET 5 - Scott Allen](https://vimeo.com/153749266)  [1:01:03]
