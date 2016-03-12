@@ -2,19 +2,30 @@
 
 ## General Development
 
+- [Alan Shreve - Conceptualizing Large Software Systems](https://www.youtube.com/watch?v=2T6Prj82adg)  [17:17]
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)  [29:40]
+- [Keynote - Systems at Facebook Scale](https://www.youtube.com/watch?v=dlixGkelP9U)  [43:36]
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)  [43:53]
 - [IT'S ABOUT TIME!](https://vimeo.com/144819382)  [44:47]
+- [Treat Your Code as a Crime Scene - Adam Tornhill](https://www.youtube.com/watch?v=TfZmuS01CNs)  [46:38]
+- [Adrian Cockcroft - It's Complicated...](https://www.youtube.com/watch?v=iMJymSrKqF4)  [48:32]
+- [Keynote Move Deliberately and Don't Break Anything - Brian Goetz](https://www.youtube.com/watch?v=ibYrHlwCKB4) [50:16]
+- [Without Resilience, Nothing Else Matters - Jonas Bonér](https://www.youtube.com/watch?v=beC49rexj7I)  [51:01]
+- [Great Artists Steal: Build better software by applying patterns and ideas from different languages](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M314) [56:09]
 - [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](https://vimeo.com/68390510)  [1:00:33]
+- [Software architecture as code by Simon Brown](https://www.youtube.com/watch?v=oDpdaXt0HQI)  [1:01:13]
 - [The Joys and Pains of a Long Lived Codebase by Jeremy D Miller](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller)  [1:02:30]
 
 ## Design Principles
 
+- [Patterns of resilience - the untold stories of robust software design by Uwe Friedrichsen](https://www.youtube.com/watch?v=T9MPDmw6MNI) [59:35]
 - [Josh Bloch - How to Design a Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)  [1:00:14]
 - [Rich Hickey - Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)  [1:01:26]
 - [Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759)  [1:03:00]
 - [GTAC 2014: Move Fast & Don't Break Things](https://www.youtube.com/watch?v=j_JviA5nvS0)  [1:04:37]
+- [code::dive conference 2014 - Venkat Subramaniam: Core principles and creating lightweight design](https://www.youtube.com/watch?v=IigBP0FCM3Y)  [1:11:48]
 - [The Power Of Abstraction - Barbara Liskov](http://www.infoq.com/presentations/liskov-power-of-abstraction)  [1:18:34]
+- [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI) [2:36:09]
 
 ## Domain Driven Design
 
@@ -30,7 +41,10 @@
 
 - [Immutability Changes Everything - Pat Helland](https://vimeo.com/52831373)  [45:19]
 - [Greg Young - Functional Data](https://vimeo.com/131636650)  [49:52]
+- [F# as our day job by 2016 - Tomas Jansson](https://vimeo.com/132194547)  [55:24]
+- [Scott Wlaschin - Domain modelling with the F# type system](https://vimeo.com/97507575)  [1:03:40]
 - [Learning Functional Programming without Growing a Neckbeard](https://www.youtube.com/watch?v=OOvL6QAxRK4)  [1:04:42]
+- [Functional programming design patterns by Scott Wlaschin](https://vimeo.com/113588389)  [1:05:44]
 
 ## .NET and `C#`
 
@@ -169,6 +183,7 @@
 - [How to Create Good Documentation](https://www.youtube.com/watch?v=lw9R2qMCdqk)  [34:31]
 - [Empathy-Driven Development](https://www.youtube.com/watch?v=XZJBfMmOEjg)  [35:36]
 - [Laura Eck - The Not So Rational Programmer](https://www.youtube.com/watch?v=E-5VhMUYmVY)  [38:09]
+- [How to stop wasting your time and start performing useful code reviews by Maria Khalusova](https://www.youtube.com/watch?v=VRnMzMpSeag)  [45:13]
 - [Ben Orenstein - How to Talk to Developers](https://www.youtube.com/watch?v=l9JXH7JPjR4)  [47:37]
 - [Jeff Casimir - Why Developers Quit](https://www.youtube.com/watch?v=JgEgtKKAabg)  [48:50]
 - [Dan Allen - 7 Ways to Hack Your Brain to Write Fluently](https://www.youtube.com/watch?v=r6RXRi5pBXg)  [49:15]
