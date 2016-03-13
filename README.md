@@ -69,20 +69,31 @@
 ## Microservices, SOA, CQRS and Web API
 
 - [There and back again, a Microservices tale](https://skillsmatter.com/skillscasts/6254-there-and-back-again-a-microservices-tale)  []
+- [A Sane Approach to (Micro)services](https://www.youtube.com/watch?v=ctxi-fhH5xM)  [24:39]
 - [SECURING MICROSERVICES](https://vimeo.com/144796652)  [39:51]
+- [James Lewis - Microservices - Building Software that is #neverdone](https://www.youtube.com/watch?v=JEtxmsJzrnw)  [45:54]
+- [Randy Shoup - Pragmatic Microservices: Whether, When and How to Migrate](https://www.youtube.com/watch?v=hAwpVXiLH9M)  [48:59]
+- [Kevin Goldsmith - Microservices @ Spotify](https://www.youtube.com/watch?v=7LGPeBgNFuU)  [49:07]
 - [Challenges in Implementing MicroServices - Fred George](https://www.youtube.com/watch?v=2Fy_xidc11w)  [50:12]
 - [Consuming REST APIs, for all interpretations of REST | Darrel Miller at DDD Melbourne 2015](https://www.youtube.com/watch?v=1KWgwc-MFhE)  [51:01]
+- [Fabian Stäber - unRESTful Web Services with HTTP2](https://www.youtube.com/watch?v=wR3o6HA47Ao)  [52:13]
 - [Securing Web APIs – Patterns & Anti-Patterns - Dominick Baier](https://vimeo.com/131635255)  [52:53]
 - [THE BEATING HEART OF CQRS](https://vimeo.com/144747595)  [55:08]
 - [Brock Allen - OWIN and Katana: What the Func?](https://vimeo.com/97329189)  [55:46]
 - [Dominick Baier - Web API Authorization & Access Control – done right!](https://vimeo.com/97337305)  [57:26]
+- [Milen Dyankov - Microservices and Modularity or the difference between treatment and cure!](https://www.youtube.com/watch?v=O77777Zy_HE)  [58:23]
 - [Anders Ljusberg: CQRS Hypermedia with WebAPI](https://vimeo.com/68320468)  [58:47]
+- [The never-ending REST API design debate by Guillaume Laforge](https://www.youtube.com/watch?v=48azd2VqtP0)  [59:29]
+- [Jonas Bonér - Without Resilience, Nothing Else Matters](https://www.youtube.com/watch?v=NjPVJ7ZKLnY)  [59:30]
 - [Microservices, cutting through the Gordian Knot - Ian Cooper](https://vimeo.com/132194544)  [1:03:28]
 - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)  [1:03:47]
 - [The rest of ReST - Dylan Beattie](https://vimeo.com/131641615)  [1:04:19]
 - [Tom Akehurst - Surviving SOA: Delivering (somewhat) continuously on a hostile planet](https://vimeo.com/119542461)  [1:07:25]
 - [Stefan Tilkov: Nano, Micro, Mini, oh my: Modularization for sustainable systems](https://www.youtube.com/watch?v=HYiLzji7MuY)  [1:15:42]
+- [The State of the Art in Microservices by Adrian Cockcroft](https://www.youtube.com/watch?v=pwpxq9-uw_0) [1:16:26]
 - [YOW! Nights October 2015 Udi Dahan - Microservices, SOA, DDD](https://www.youtube.com/watch?v=MTArpO7rSQE)  [1:23:08]
+- [Udi Dahan - Microservices, SOA, DDD](https://www.youtube.com/watch?v=MTArpO7rSQE)  [1:23:09]
+
 
 ## Testing, TDD and BDD
 
@@ -150,10 +161,13 @@
 
 ## Agile Practices
 
+- [Karen Martin - Are You Really Delivering Customer Value?](https://www.youtube.com/watch?v=J4RjCmloqBI)  [23:49]
+- [How to deal with culture divide- Internal Advocacy with Distributed Teams - Laura Czajkowski](https://vimeo.com/155363131)  [29:08]
 - [Will Evans - Heretics, High Priests, and Hagiolatry](https://vimeo.com/143053323) [40:11]
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)  [41:16]
 - [AGILE METRICS - VELOCITY IS NOT THE GOAL](https://vimeo.com/144733515)  [43:12]
 - [Ian Brockbank - How do you “push responsibility down” and “empower the team”](https://vimeo.com/76096772)  [43:49]
+- [Collaborative Leadership: A Secret to Agile Success](https://www.youtube.com/watch?v=mspX8BZBRpw)  [45:49]
 - [Open Source & Feelings 2015 - Ensuring the Sustainability of Your Code Learning Community](https://www.youtube.com/watch?v=jYM8AnreZHQ)  [46:00]
 - [Anders Ivarsson - Scaling Agile with Tribes, Squads, Chapters & Guilds](https://vimeo.com/75917536)  [47:19]
 - [Dave Thomas - The Death of Agile](https://www.youtube.com/watch?v=YpGGRAhes2k)  [47:44]
@@ -162,16 +176,19 @@
 - [Gojko Adzic - Specification By Example](https://vimeo.com/109079233)  [52:05]
 - [Chad Fowler - Experiment - Railsberry 2013](https://vimeo.com/68686636)  [52:13]
 - [Retrospective on Steroids - Toyota Kata by Håkan Forss](https://www.youtube.com/watch?v=-InKsQQY9Vk)  [52:20]
+- [Engaging the naysayers - how to get standing ovations at your daily scrum!](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M241)  [52:25]
 - [A3 Thinking and Kaizen - Claudio Perrone](https://vimeo.com/43185886)  [53:18]
 - [Scott Bellware - Agile Kaizen](https://vimeo.com/97501372)  [57:01]
 - [Don't demo facts. Demo stories! - Tudor Girba](https://vimeo.com/131632605)  [57:22]
 - [Venkat Subramaniam - Pointy haired bosses and pragmatic programmers](https://www.youtube.com/watch?v=lfmKvRaNnUs)  [58:19]
+- [Gojko Adzic - Impact Mapping](https://vimeo.com/109171006)  [59:07]
 - [Oliver Gierke - Whoops! Where did my architecture go?](https://vimeo.com/112516354)  [1:01:22]
 - [Sebastien Arbogast - Lean Startup for Developers](https://www.youtube.com/watch?v=gLHn8SXPTYg)  [1:01:26]
 - [Bob Marshall on Seven Ways to Improve Your Software Development Flow](https://vimeo.com/113216169)  [1:02:32]
 - [Dave Snowden - Embrace Complexity, Scale Agility](https://www.youtube.com/watch?v=lYlqhvzI_VQ) [1:04:21]
 - [Jenny Martin & Pete Buckney - Continuous Collaboration & Example Driven Dev](https://vimeo.com/111407675)  [1:18:58]
 - [Holding Effective Kaizen Events](https://vimeo.com/104680961)  [1:26:09]
+
 
 ## Dev Career Skills
 
@@ -195,12 +212,31 @@
 ## Leadership, Psychology and Management
 
 - [Seth Godin: Tribes](https://vimeo.com/2090774)  []
+- [Charles Jennings - Continuous Learning](https://www.youtube.com/watch?v=LFmPfbeDLBc)  [4:45]
+- [Rebel Wisdom: Parting Shots from Be a Brave, Big-Hearted Rebel at Work](https://www.youtube.com/watch?v=-e2IEheHvBA) [11:23]
 - [Why you will fail to have a great career | Larry Smith](https://www.youtube.com/watch?v=iKHTawgyKWQ)  [14:59]
+- [Laura Morgan: Connect with colleagues using active listening](https://vimeo.com/140917369)  [16:58]
+- [Meredith Noble: Use coaching techniques to help people make their own decisions](https://vimeo.com/128634479)  [22"33]
+- [Penny Walker: Stop assuming, start asking questions: how to turn conflict into collaboration](https://vimeo.com/84948981)  [23:48]
+- [Jeff Atwood - How To Stop Sucking And Be Awesome Instead](https://www.youtube.com/watch?v=L7EGIt3-WUQ)  [24:19]
 - [Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
+- [Davy Stevenson - Orders of Magnitude](https://www.youtube.com/watch?v=_YyzLKhjpiI)  [24:55]
+- [Problem-solving techniques for groups](https://vimeo.com/126778448) [25:29]
+- [Valeria Maltoni: Make learning a habit and discover new opportunities](https://vimeo.com/128538941)  [26:39]
+- [Hannah du Plessis: Use nonviolent communication to connect with colleagues](https://vimeo.com/128634090)  [27:03]
+- [Ernie Miller - Choices](https://www.youtube.com/watch?v=_5D0rBIEsZc)  [29:16]
+- [Matthew McCullough - 10 Quick Tips for More Effective Conference Submissions and Presentations](https://www.youtube.com/watch?v=fJz4JJIchaY)  [30:07]
+- [Zach Holman - The Talk on Talks](http://devslovebacon.com/conferences/bacon-2014/talks/the-talk-on-talks)[36:26]
 - [The Leadership gap – Pawel Brodzinksi](https://vimeo.com/115962902)  [37:00]
+- [QUICKSTART GUIDE TO THE FIVE RULES OF ACCELERATED LEARNING](https://vimeo.com/144795023)  [41:15]
 - [Total Engagement and the Reinvention of Work using Games - J. Leighton Read, MD](https://vimeo.com/43250464)  [43:54]
 - [Crazy and Focused - Daniel Steinberg](https://www.youtube.com/watch?v=p1rGUchWHR8)  [45:49]
 - [On Awesomeness, or How To Inspire Some Awe](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M113)  [50:01]
 - [Alicia Juarero - Keynote : Think Safe-fail to thrive under conditions of uncertainty](https://vimeo.com/143055623)  [52:39]
+- [Trisha Gee - Career Advice for Programmers](https://www.youtube.com/watch?v=LlAn452X4Lc)  [54:18]
+- [The secret to telling awesome stories – from Microsoft's Chief Storyteller](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M112)  [1:02:03]
 - [Get Unblocked - Denise Jacobs](https://vimeo.com/131640717)  [1:02:37]
 - [Engagement techniques. How to get people engaged and motivated? - Anna Danes](https://vimeo.com/131641617)  [1:03:16]
+- [Autonomy, Connection, and Excellence; The Building Blocks of a Knowledge Work Culture - Michael Norton](https://vimeo.com/154049610)  [1:05:01]
+- [Legal pitfalls for developers - Kuan Hon](https://vimeo.com/153779115)  [1:06:34]
+- [Greg Wilson - Evidence Based Teaching What We Know and How to Use It](https://www.youtube.com/watch?v=kmVKGxPlTvc) [2:43:57]
