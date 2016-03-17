@@ -61,7 +61,6 @@
 ## Python
 
 - [Pragmatic Unicode](http://nedbatchelder.com/text/unipain.html)  [36:20]
-- [Bestseller Analysis: Sex Scene Detection, Topics, and Pacing](https://vimeo.com/74075845)  [41:36]
 - [Storytelling With Data](https://vimeo.com/76972897)  [1:03:04]
 - [Learning Python](https://vimeo.com/63269282) [1:12:33]
 
