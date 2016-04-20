@@ -65,6 +65,7 @@
 - [Pragmatic Unicode](http://nedbatchelder.com/text/unipain.html)  [36:20]
 - [Storytelling With Data](https://vimeo.com/76972897)  [1:03:04]
 - [Learning Python](https://vimeo.com/63269282) [1:12:33]
+- Natural language processing in Python using NLTK [part 1](https://www.youtube.com/watch?v=AOU-Yw1qdJs) [part 2](https://www.youtube.com/watch?v=EuIzZMfHTCg) [part 3](https://www.youtube.com/watch?v=ncUIzVG2zzs)
 
 ## Microservices, SOA, CQRS and Web API
 
@@ -216,7 +217,7 @@
 - [Rebel Wisdom: Parting Shots from Be a Brave, Big-Hearted Rebel at Work](https://www.youtube.com/watch?v=-e2IEheHvBA) [11:23]
 - [Why you will fail to have a great career | Larry Smith](https://www.youtube.com/watch?v=iKHTawgyKWQ)  [14:59]
 - [Laura Morgan: Connect with colleagues using active listening](https://vimeo.com/140917369)  [16:58]
-- [Meredith Noble: Use coaching techniques to help people make their own decisions](https://vimeo.com/128634479)  [22"33]
+- [Meredith Noble: Use coaching techniques to help people make their own decisions](https://vimeo.com/128634479)  [22:33]
 - [Penny Walker: Stop assuming, start asking questions: how to turn conflict into collaboration](https://vimeo.com/84948981)  [23:48]
 - [Jeff Atwood - How To Stop Sucking And Be Awesome Instead](https://www.youtube.com/watch?v=L7EGIt3-WUQ)  [24:19]
 - [Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
@@ -237,6 +238,7 @@
 - [The secret to telling awesome stories – from Microsoft's Chief Storyteller](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M112)  [1:02:03]
 - [Get Unblocked - Denise Jacobs](https://vimeo.com/131640717)  [1:02:37]
 - [Engagement techniques. How to get people engaged and motivated? - Anna Danes](https://vimeo.com/131641617)  [1:03:16]
+- [Surge 2013 Speaker: Leadership with no Management Bryan Cantrill](https://www.youtube.com/watch?v=bGkVM1B5NuI) [1:03:37]
 - [Autonomy, Connection, and Excellence; The Building Blocks of a Knowledge Work Culture - Michael Norton](https://vimeo.com/154049610)  [1:05:01]
 - [Legal pitfalls for developers - Kuan Hon](https://vimeo.com/153779115)  [1:06:34]
 - [Greg Wilson - Evidence Based Teaching What We Know and How to Use It](https://www.youtube.com/watch?v=kmVKGxPlTvc) [2:43:57]
