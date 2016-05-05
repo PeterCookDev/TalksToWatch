@@ -2,7 +2,6 @@
 
 ## General Development
 
-- [Alan Shreve - Conceptualizing Large Software Systems](https://www.youtube.com/watch?v=2T6Prj82adg)  [17:17]
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)  [29:40]
 - [Keynote - Systems at Facebook Scale](https://www.youtube.com/watch?v=dlixGkelP9U)  [43:36]
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)  [43:53]
@@ -212,7 +211,7 @@
 
 - [Seth Godin: Tribes](https://vimeo.com/2090774)  []
 - [Charles Jennings - Continuous Learning](https://www.youtube.com/watch?v=LFmPfbeDLBc)  [4:45]
-- [Rebel Wisdom: Parting Shots from Be a Brave, Big-Hearted Rebel at Work](https://www.youtube.com/watch?v=-e2IEheHvBA) [11:23]
+- [Lois Kelly - Run with a Rebel Wild Pack](https://www.youtube.com/watch?v=WGcrwz7X4B0) [13:44]
 - [Why you will fail to have a great career | Larry Smith](https://www.youtube.com/watch?v=iKHTawgyKWQ)  [14:59]
 - [Laura Morgan: Connect with colleagues using active listening](https://vimeo.com/140917369)  [16:58]
 - [Meredith Noble: Use coaching techniques to help people make their own decisions](https://vimeo.com/128634479)  [22:33]
