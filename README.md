@@ -211,7 +211,6 @@
 
 - [Seth Godin: Tribes](https://vimeo.com/2090774)  []
 - [Charles Jennings - Continuous Learning](https://www.youtube.com/watch?v=LFmPfbeDLBc)  [4:45]
-- [Lois Kelly - Run with a Rebel Wild Pack](https://www.youtube.com/watch?v=WGcrwz7X4B0) [13:44]
 - [Why you will fail to have a great career | Larry Smith](https://www.youtube.com/watch?v=iKHTawgyKWQ)  [14:59]
 - [Laura Morgan: Connect with colleagues using active listening](https://vimeo.com/140917369)  [16:58]
 - [Meredith Noble: Use coaching techniques to help people make their own decisions](https://vimeo.com/128634479)  [22:33]
