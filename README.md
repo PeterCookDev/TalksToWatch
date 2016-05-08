@@ -191,7 +191,6 @@
 ## Dev Career Skills
 
 - [Cate Huston - 12 Challenging Steps to Being a Better Interviewer](https://vimeo.com/139910837)  [21:52]
-- [Oren Ellenbogen - Building happier engineering teams ](https://vimeo.com/139906437)  [28:22]
 - [Amanda Quaranto - Nobody Expects an Inquisition!...](https://www.youtube.com/watch?v=2h1EocEyiSo)  [28:58]
 - [Austin Fonacier - Hacking Development Culture: Treating Developers As People](https://www.youtube.com/watch?v=z5zll50fRJA)  [29:25]
 - [How to Create Good Documentation](https://www.youtube.com/watch?v=lw9R2qMCdqk)  [34:31]
