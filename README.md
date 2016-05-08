@@ -211,7 +211,6 @@
 - [Seth Godin: Tribes](https://vimeo.com/2090774)  []
 - [Charles Jennings - Continuous Learning](https://www.youtube.com/watch?v=LFmPfbeDLBc)  [4:45]
 - [Why you will fail to have a great career | Larry Smith](https://www.youtube.com/watch?v=iKHTawgyKWQ)  [14:59]
-- [Laura Morgan: Connect with colleagues using active listening](https://vimeo.com/140917369)  [16:58]
 - [Meredith Noble: Use coaching techniques to help people make their own decisions](https://vimeo.com/128634479)  [22:33]
 - [Penny Walker: Stop assuming, start asking questions: how to turn conflict into collaboration](https://vimeo.com/84948981)  [23:48]
 - [Jeff Atwood - How To Stop Sucking And Be Awesome Instead](https://www.youtube.com/watch?v=L7EGIt3-WUQ)  [24:19]
