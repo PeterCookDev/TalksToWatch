@@ -192,7 +192,6 @@
 
 - [Cate Huston - 12 Challenging Steps to Being a Better Interviewer](https://vimeo.com/139910837)  [21:52]
 - [Amanda Quaranto - Nobody Expects an Inquisition!...](https://www.youtube.com/watch?v=2h1EocEyiSo)  [28:58]
-- [Austin Fonacier - Hacking Development Culture: Treating Developers As People](https://www.youtube.com/watch?v=z5zll50fRJA)  [29:25]
 - [How to Create Good Documentation](https://www.youtube.com/watch?v=lw9R2qMCdqk)  [34:31]
 - [Empathy-Driven Development](https://www.youtube.com/watch?v=XZJBfMmOEjg)  [35:36]
 - [Laura Eck - The Not So Rational Programmer](https://www.youtube.com/watch?v=E-5VhMUYmVY)  [38:09]
@@ -212,7 +211,6 @@
 - [Why you will fail to have a great career | Larry Smith](https://www.youtube.com/watch?v=iKHTawgyKWQ)  [14:59]
 - [Meredith Noble: Use coaching techniques to help people make their own decisions](https://vimeo.com/128634479)  [22:33]
 - [Penny Walker: Stop assuming, start asking questions: how to turn conflict into collaboration](https://vimeo.com/84948981)  [23:48]
-- [Jeff Atwood - How To Stop Sucking And Be Awesome Instead](https://www.youtube.com/watch?v=L7EGIt3-WUQ)  [24:19]
 - [Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
 - [Davy Stevenson - Orders of Magnitude](https://www.youtube.com/watch?v=_YyzLKhjpiI)  [24:55]
 - [Problem-solving techniques for groups](https://vimeo.com/126778448) [25:29]
