@@ -190,8 +190,6 @@
 
 ## Dev Career Skills
 
-- [Cate Huston - 12 Challenging Steps to Being a Better Interviewer](https://vimeo.com/139910837)  [21:52]
-- [Amanda Quaranto - Nobody Expects an Inquisition!...](https://www.youtube.com/watch?v=2h1EocEyiSo)  [28:58]
 - [How to Create Good Documentation](https://www.youtube.com/watch?v=lw9R2qMCdqk)  [34:31]
 - [Empathy-Driven Development](https://www.youtube.com/watch?v=XZJBfMmOEjg)  [35:36]
 - [Laura Eck - The Not So Rational Programmer](https://www.youtube.com/watch?v=E-5VhMUYmVY)  [38:09]
