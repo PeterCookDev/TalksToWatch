@@ -142,7 +142,6 @@
 
 ## Databases
 
-- [Adventures in building your own database](https://vimeo.com/145842297)  [23:41]
 - [James Blackburn - Building a time series database 10^12 rows and counting](https://vimeo.com/145842301)  [27:22]
 - [David Mytton – Stories from production: Scaling, failure and (avoiding) data loss](https://vimeo.com/109937457)  [30:18]
 - [Hannah Gray - SSDT for Visual Studio: Bet you can't tell what your database looked like 6 months ago](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M222) [53:52]
