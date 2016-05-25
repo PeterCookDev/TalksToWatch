@@ -117,9 +117,12 @@
 ## Devops
 
 - [Alex Yates - Continuous Delivery for Databases (the elephant in the room)](https://vimeo.com/129090957)   [39:21]
+- [Chris O'Dell and Matthew Skelton - Continuous Delivery: making it work with Windows and .NET](https://vimeo.com/157086224) [40:13]
 - [CONTINUOUS DELIVERY IN A .NET WORLD](https://vimeo.com/111289719)  [41:58]
 - [Why monitoring sucks, and how to improve it - Pavlo Baron](https://vimeo.com/131643292)  [47:10]
+- [Ian Watson and Chris Covell - Steps Closer to Awesome](https://vimeo.com/162614968) [54:04]
 - [GeeCON 2014: Thomas Riha - Scaling Continuous Delivery](https://vimeo.com/100331338)  [54:19]
+- [Jez Humble - What I learned from three years of sciencing the crap out of Continuous Delivery](https://vimeo.com/160945085) [59:25]
 - [Running Docker and Containers in Development and Production - Ben Hall](https://vimeo.com/131639823)  [56:27]
 - [Release Engineering as a Force Multiplier](http://www.youtube.com/watch?v=7j0NDGJVROI)  [1:00:49]
 - [Richard Campbell - People, Process, Tools – The Essence of DevOps](https://vimeo.com/97337256)  [1:02:41]
