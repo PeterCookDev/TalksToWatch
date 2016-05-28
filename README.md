@@ -60,9 +60,13 @@
 ## Python
 
 - [Pragmatic Unicode](http://nedbatchelder.com/text/unipain.html)  [36:20]
+- [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM) [49:54]
 - [Storytelling With Data](https://vimeo.com/76972897)  [1:03:04]
 - [Learning Python](https://vimeo.com/63269282) [1:12:33]
 - Natural language processing in Python using NLTK [part 1](https://www.youtube.com/watch?v=AOU-Yw1qdJs) [part 2](https://www.youtube.com/watch?v=EuIzZMfHTCg) [part 3](https://www.youtube.com/watch?v=ncUIzVG2zzs)
+- [Michael Kennedy - Python: An amazing second language for .NET developers](https://www.youtube.com/watch?v=sLlSB_XFY8Q) [1:34:23]
+- [Stuart Williams - Python Epiphanies](https://www.youtube.com/watch?v=Ug0iDjbMPVg) [2:32:06]
+- [Stuart Williams - Python by Immersion](https://www.youtube.com/watch?v=RVNIdoepdzU) [3:00:40]
 
 ## Microservices, SOA, CQRS and Web API
 
