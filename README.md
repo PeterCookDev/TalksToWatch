@@ -3,7 +3,6 @@
 ## General Development
 
 - [Gary Bernhardt - Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
-- [Amy Wibowo - Fold, Paper, Scissors...  ](https://www.youtube.com/watch?v=SYkSCcRlmjk) [17:30]
 - [Vaidehi Joshi - A Machine State of Mind](https://www.youtube.com/watch?v=N1jnoPxBGGA) [24:54]
 - [Be Awesome By Being Boring](https://www.youtube.com/watch?v=Iheymi5QFEY) [25:34]
 - [Sam Phippen - Extremely Defensive Coding](https://www.youtube.com/watch?v=gr45bkXv-JQ) [27:40]
