@@ -227,8 +227,6 @@
 
 - [Karen Martin - Are You Really Delivering Customer Value?](https://www.youtube.com/watch?v=J4RjCmloqBI)  [23:49]
 - [How to deal with culture divide- Internal Advocacy with Distributed Teams - Laura Czajkowski](https://vimeo.com/155363131)  [29:08]
-- [Ryan McKergow - Retrospectives strike back](https://www.youtube.com/watch?v=MR9kRtQYCu0) [30:04]
-- [Melinda Seckington - Learn. Reflect. Repeat.](https://vimeo.com/161603136) [30:37]
 - [Jeff Sutherland - Scrum at Scale](https://www.youtube.com/watch?v=qEqrESsNWYs) [38:30]
 - [Will Evans - Heretics, High Priests, and Hagiolatry](https://vimeo.com/143053323) [40:11]
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)  [41:16]
