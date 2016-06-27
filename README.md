@@ -5,11 +5,9 @@
 - [Gary Bernhardt - Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
 - [Vaidehi Joshi - A Machine State of Mind](https://www.youtube.com/watch?v=N1jnoPxBGGA) [24:54]
 - [Be Awesome By Being Boring](https://www.youtube.com/watch?v=Iheymi5QFEY) [25:34]
-- [Sam Phippen - Extremely Defensive Coding](https://www.youtube.com/watch?v=gr45bkXv-JQ) [27:40]
 - [Rebecca Sliter - A Tale of Two Feature Flags](https://www.youtube.com/watch?v=rBBLMmr9e-k) [29:34]
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)  [29:40]
 - [States and Nomads: Handling Software Complexity](https://www.youtube.com/watch?v=KGaFcI2UNrI)  [29:55]
-- [Nell Shamrell - First Do No Harm: Surgical Refactoring](https://www.youtube.com/watch?v=9ZY3t9BnMeQ)  [32:36]
 - [Reginald Braithwaite - First-Class Commands: An unexpectedly fertile design pattern](https://vimeo.com/157132267) [33:05]
 - [How To Code Like A Writer](https://www.youtube.com/watch?v=XfvKpYgi7fI) [41:14]
 - [Glenn Vanderburg - Why software development is an engineering discipline](https://www.youtube.com/watch?v=zDEpeWQHtFU)  [41:46]
@@ -226,7 +224,6 @@
 ## Agile Practices
 
 - [Karen Martin - Are You Really Delivering Customer Value?](https://www.youtube.com/watch?v=J4RjCmloqBI)  [23:49]
-- [How to deal with culture divide- Internal Advocacy with Distributed Teams - Laura Czajkowski](https://vimeo.com/155363131)  [29:08]
 - [Jeff Sutherland - Scrum at Scale](https://www.youtube.com/watch?v=qEqrESsNWYs) [38:30]
 - [Will Evans - Heretics, High Priests, and Hagiolatry](https://vimeo.com/143053323) [40:11]
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)  [41:16]
