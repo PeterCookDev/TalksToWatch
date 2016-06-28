@@ -5,7 +5,6 @@
 - [Gary Bernhardt - Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
 - [Vaidehi Joshi - A Machine State of Mind](https://www.youtube.com/watch?v=N1jnoPxBGGA) [24:54]
 - [Be Awesome By Being Boring](https://www.youtube.com/watch?v=Iheymi5QFEY) [25:34]
-- [Rebecca Sliter - A Tale of Two Feature Flags](https://www.youtube.com/watch?v=rBBLMmr9e-k) [29:34]
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)  [29:40]
 - [States and Nomads: Handling Software Complexity](https://www.youtube.com/watch?v=KGaFcI2UNrI)  [29:55]
 - [Reginald Braithwaite - First-Class Commands: An unexpectedly fertile design pattern](https://vimeo.com/157132267) [33:05]
