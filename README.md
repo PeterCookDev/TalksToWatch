@@ -8,7 +8,6 @@
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)  [29:40]
 - [States and Nomads: Handling Software Complexity](https://www.youtube.com/watch?v=KGaFcI2UNrI)  [29:55]
 - [Reginald Braithwaite - First-Class Commands: An unexpectedly fertile design pattern](https://vimeo.com/157132267) [33:05]
-- [How To Code Like A Writer](https://www.youtube.com/watch?v=XfvKpYgi7fI) [41:14]
 - [Glenn Vanderburg - Why software development is an engineering discipline](https://www.youtube.com/watch?v=zDEpeWQHtFU)  [41:46]
 - [Keynote - Systems at Facebook Scale](https://www.youtube.com/watch?v=dlixGkelP9U)  [43:36]
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)  [43:53]
@@ -222,7 +221,6 @@
 
 ## Agile Practices
 
-- [Karen Martin - Are You Really Delivering Customer Value?](https://www.youtube.com/watch?v=J4RjCmloqBI)  [23:49]
 - [Jeff Sutherland - Scrum at Scale](https://www.youtube.com/watch?v=qEqrESsNWYs) [38:30]
 - [Will Evans - Heretics, High Priests, and Hagiolatry](https://vimeo.com/143053323) [40:11]
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)  [41:16]
@@ -322,7 +320,6 @@
 - [Susan Cain - "Quiet"](https://www.youtube.com/watch?v=AzlCIS072_Y)  [43:48]
 - [Total Engagement and the Reinvention of Work using Games - J. Leighton Read, MD](https://vimeo.com/43250464)  [43:54]
 - [AUTONOMY, CONNECTION, AND EXCELLENCE; THE BUILDING BLOCKS OF A KNOWLEDGE WORK CULTURE](https://vimeo.com/144862097) [44:56]
-- [Crazy and Focused - Daniel Steinberg](https://www.youtube.com/watch?v=p1rGUchWHR8)  [45:49]
 - [Jeff Casimir - Why Developers Quit](https://www.youtube.com/watch?v=JgEgtKKAabg) [48:51]
 - [On Awesomeness, or How To Inspire Some Awe](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M113)  [50:01]
 - [Matt Stauffer - Empathy Gives You Superpowers](https://www.youtube.com/watch?v=fMFjO2szDnk) [51:13]
