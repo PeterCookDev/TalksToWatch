@@ -129,21 +129,21 @@
 - [Mike Wood - Messaging Patterns](https://www.youtube.com/watch?v=8B83elj_Z5o) [1:27:19]
 - [Allen Holub - Micro services: a case study](https://www.youtube.com/watch?v=CkewmNJVI1I) [1:31:55]
 
-
-
-
 ## Devops
 
 - [Alex Yates - Continuous Delivery for Databases (the elephant in the room)](https://vimeo.com/129090957)   [39:21]
 - [Chris O'Dell and Matthew Skelton - Continuous Delivery: making it work with Windows and .NET](https://vimeo.com/157086224) [40:13]
 - [CONTINUOUS DELIVERY IN A .NET WORLD](https://vimeo.com/111289719)  [41:58]
 - [Why monitoring sucks, and how to improve it - Pavlo Baron](https://vimeo.com/131643292)  [47:10]
+- [Turning continuous delivery into a business advantage by Gojko Adzic, Coding Serbia 2015 ](https://www.youtube.com/watch?v=FCCnj4CDkts) [48:19]
 - [Ian Watson and Chris Covell - Steps Closer to Awesome](https://vimeo.com/162614968) [54:04]
 - [GeeCON 2014: Thomas Riha - Scaling Continuous Delivery](https://vimeo.com/100331338)  [54:19]
 - [Jez Humble - What I learned from three years of sciencing the crap out of Continuous Delivery](https://vimeo.com/160945085) [59:25]
 - [Running Docker and Containers in Development and Production - Ben Hall](https://vimeo.com/131639823)  [56:27]
 - [Release Engineering as a Force Multiplier](http://www.youtube.com/watch?v=7j0NDGJVROI)  [1:00:49]
 - [Richard Campbell - People, Process, Tools – The Essence of DevOps](https://vimeo.com/97337256)  [1:02:41]
+
+
 
 ## Security
 

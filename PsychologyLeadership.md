@@ -1,6 +1,5 @@
 # Talks To Watch - Pyschology and Leadership
 
-
 ## Leadership, Psychology and Management
 
 - [Seth Godin: Tribes](https://vimeo.com/2090774)  []
@@ -21,7 +20,9 @@
 - [Julie Pagano - It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY) [28:22]
 - [Ernie Miller - Choices](https://www.youtube.com/watch?v=_5D0rBIEsZc)  [29:16]
 - [Austin Fonacier - Hacking Development Culture: Treating Developers As People ](https://www.youtube.com/watch?v=z5zll50fRJA) [29:26]
+- [Getting Comfortable Being Uncomfortable ](https://www.youtube.com/watch?v=9qkef7IXn6s) [29:30]
 - [Matthew McCullough - 10 Quick Tips for More Effective Conference Submissions and Presentations](https://www.youtube.com/watch?v=fJz4JJIchaY)  [30:07]
+- [RubyConf 2015 - Manage Your Energy, Not Your Time by Joe Mastey ](https://www.youtube.com/watch?v=505ybcH0f6s) [32:14]
 - [Joe Mastey - Manage Your Energy, Not Your Time](https://www.youtube.com/watch?v=40tblq40AkQ) [32:14]
 - [Zach Holman - The Talk on Talks](http://devslovebacon.com/conferences/bacon-2014/talks/the-talk-on-talks)[36:26]
 - [The Leadership gap – Pawel Brodzinksi](https://vimeo.com/115962902)  [37:00]
@@ -31,6 +32,7 @@
 - [Ross Tuck - Things I Believe Now That I'm Old](https://www.youtube.com/watch?v=ZBiexI2mv-k) [43:34]
 - [Susan Cain - "Quiet"](https://www.youtube.com/watch?v=AzlCIS072_Y)  [43:48]
 - [Total Engagement and the Reinvention of Work using Games - J. Leighton Read, MD](https://vimeo.com/43250464)  [43:54]
+- [Open Sourcing Mental Illness. ](https://www.youtube.com/watch?v=h1Pwp1XTnBk) [44:45]
 - [AUTONOMY, CONNECTION, AND EXCELLENCE; THE BUILDING BLOCKS OF A KNOWLEDGE WORK CULTURE](https://vimeo.com/144862097) [44:56]
 - [Jeff Casimir - Why Developers Quit](https://www.youtube.com/watch?v=JgEgtKKAabg) [48:51]
 - [On Awesomeness, or How To Inspire Some Awe](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M113)  [50:01]

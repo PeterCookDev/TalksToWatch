@@ -2,12 +2,15 @@
 
 ## Agile Practices
 
+- [Architecture Guided by Agile Practices by Csaba Patkos, Coding Serbia 2015 ](https://www.youtube.com/watch?v=2pSEgLgVAa0) [23:26]
+- [Keys to managing a successful distributed team by Anna Danes Boix, Coding Serbia 2015 ](https://www.youtube.com/watch?v=WWr8Q5uz7r8) [37:52]
 - [Jeff Sutherland - Scrum at Scale](https://www.youtube.com/watch?v=qEqrESsNWYs) [38:30]
 - [Will Evans - Heretics, High Priests, and Hagiolatry](https://vimeo.com/143053323) [40:11]
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)  [41:16]
 - [AGILE METRICS - VELOCITY IS NOT THE GOAL](https://vimeo.com/144733515)  [43:12]
 - [Craig Smith - 40 Agile Methods in 40 Minutes](https://www.youtube.com/watch?v=abshdgwqz5Q) [43:14]
 - [Ian Brockbank - How do you “push responsibility down” and “empower the team”](https://vimeo.com/76096772)  [43:49]
+- [Agile organizational structures and culture by Jasmina Nikolic, Coding Serbia 2015 ](https://www.youtube.com/watch?v=i49eAm3-3QU) [45:47]
 - [Collaborative Leadership: A Secret to Agile Success](https://www.youtube.com/watch?v=mspX8BZBRpw)  [45:49]
 - [Open Source & Feelings 2015 - Ensuring the Sustainability of Your Code Learning Community](https://www.youtube.com/watch?v=jYM8AnreZHQ)  [46:00]
 - [Anders Ivarsson - Scaling Agile with Tribes, Squads, Chapters & Guilds](https://vimeo.com/75917536)  [47:19]
@@ -39,7 +42,10 @@
 
 ## Dev Career Skills and Culture
 
+- [Naomi Ceder - Antipatterns for Diversity - PyCon 2016 ](https://www.youtube.com/watch?v=Xg1LgSg3pmo) [24:29]
+- [Pieter Hintjens - How Conway's Law is eating your job?](https://www.youtube.com/watch?v=7HECD3eLoVo) [26:58]
 - [Alex Gaynor - Techniques for Debugging Hard Problems](https://www.youtube.com/watch?v=ij99SGGEX34) [28:08]
+- [Nobody Wants Junior Engineers ](https://www.youtube.com/watch?v=ccxrFmIEAmQ) [28:16]
 - [Conference Submissions and Presentations made more effective with 10 quick tips](https://www.youtube.com/watch?v=fJz4JJIchaY) [30:08]
 - [Sasha Laundy - Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s) [31:01]
 - [Rein Henrichs = Why Good Software Goes Bad](https://www.youtube.com/watch?v=JXVHvqbfsNI) [33:48]
@@ -51,6 +57,7 @@
 - [Laura Paterson and Patrick Kua - Technical Leadership](https://www.youtube.com/watch?v=k_nti-mk5IY) [36:25]
 - [Laura Eck - The Not So Rational Programmer](https://www.youtube.com/watch?v=E-5VhMUYmVY)  [38:09]
 - [How to stop wasting your time and start performing useful code reviews by Maria Khalusova](https://www.youtube.com/watch?v=VRnMzMpSeag)  [45:13]
+- [Sean O'Connor - From Developer to Manager - PyCon 2016 ](https://www.youtube.com/watch?v=lzBm0r8CxhY) [46:50]
 - [Ben Orenstein - How to Talk to Developers](https://www.youtube.com/watch?v=l9JXH7JPjR4)  [47:37]
 - [Jeff Casimir - Why Developers Quit](https://www.youtube.com/watch?v=JgEgtKKAabg)  [48:50]
 - [Dan Allen - 7 Ways to Hack Your Brain to Write Fluently](https://www.youtube.com/watch?v=r6RXRi5pBXg)  [49:15]
@@ -69,6 +76,15 @@
 - [Jules May - Team Building ](https://www.youtube.com/watch?v=_Bnm9QWWRlA) [1:27:34]
 - [Greg Wilson - Evidence Based Teaching What We Know and How to Use It](https://www.youtube.com/watch?v=kmVKGxPlTvc) [2:43:58]
 
+
+## Tech Writing
+
+- [Introduction & State of the Docs ](https://www.youtube.com/watch?v=Fmfs-iYqx5Q) [20:22]
+- [7 Values of Effective Tech Writing Teams ](https://www.youtube.com/watch?v=ra8nHK5wDXM) [21:03]
+- [Write the Readable README ](https://www.youtube.com/watch?v=2dAK42B7qtw) [22:49]
+- [Writing So Your Words Are Read ](https://www.youtube.com/watch?v=8LiV759Bje0) [29:48]
+- [So You Need to Document an API? ](https://www.youtube.com/watch?v=KSXL-BDoGOw) [30:18]
+
 ## Testing, TDD and BDD
 
 - [SMARTER TESTING THROUGH SMARTER TESTERS](https://vimeo.com/144830621)  [34:57]
@@ -86,6 +102,7 @@
 - [RE-INVENTING TESTING – A DISCUSSION ABOUT SCIENCE, EXPLORATION AND INNOVATION](https://vimeo.com/144745751)  [55:08]
 - [GeeCON 2013: - Sandro Mancuso: Testing and Refactoring Legacy Code](https://vimeo.com/76472757)  [57:13]
 - [BDD in Action: Building Software Right and Building the Right Software](https://www.youtube.com/watch?v=igk3H2DWz7k)  [59:44]
+- [Testing, the way it should be. ](https://www.youtube.com/watch?v=yq99BvSe1AQ) [1:00:32]
 - [Accelerate your development by accelerating your feedback loop - Johannes Brodwall](https://vimeo.com/105888938)  [1:03:21]
 - [Testing with No Harm - Enrico Campidoglio](https://vimeo.com/154312751) [1:05:57]
 - [Test automation without a headache: Five key patterns - Gojko Adzic](https://vimeo.com/154289460)  [1:10:17]
