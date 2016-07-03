@@ -130,26 +130,7 @@
 - [Allen Holub - Micro services: a case study](https://www.youtube.com/watch?v=CkewmNJVI1I) [1:31:55]
 
 
-## Testing, TDD and BDD
 
-- [SMARTER TESTING THROUGH SMARTER TESTERS](https://vimeo.com/144830621)  [34:57]
-- [GeeCON TDD 2015: Konstantin Kudryashov - Moving away from Legacy code with BDD](https://vimeo.com/120574455)  [36:20]
-- [TEST AUTOMATION TRENDS FOR 2016 AND BEYOND: STAYING EMPLOYABLE IN CHANGING TIMES](https://vimeo.com/144992718)  [36:42]
-- [AUTOMATION ABSTRACTIONS - PAGE OBJECTS AND BEYOND](https://vimeo.com/111214646)  [38:58]
-- [Testing Strategies for Continuous Delivery](https://www.youtube.com/watch?v=DgQWSaCQ82U)  [40:47]
-- [GTAC 2014: I Don't Test Often ... But When I Do, I Test in Production](https://www.youtube.com/watch?v=xkP70Zhhix4&list=PLSIUOFhnxEiDFckNDSjKWqOCtd8ksJrh4&index=8)  [41:16]
-- [REAL CONVERSATIONS IN BDD](https://vimeo.com/144723689)  [42:04]
-- [Unselfish Testing - Jay Fields](https://www.youtube.com/watch?v=f9eu4mMOtN4)  [42:43]
-- [GeeCON TDD 2015: Jakub Narbdalik - Test Driven Traps](https://vimeo.com/120572733)  [43:41]
-- [TEST LEADERSHIP HEURISTICS WORKSHOP](https://vimeo.com/144996354)  [45:25]
-- [How to do test reviews - Roy Osherove](https://vimeo.com/19431001)  [49:09]
-- [Test Driven Development (by controlling dependencies) - Jorge D Ortiz Fuentes](https://www.youtube.com/watch?v=qYpURmZcCKs)  [54:10]
-- [RE-INVENTING TESTING – A DISCUSSION ABOUT SCIENCE, EXPLORATION AND INNOVATION](https://vimeo.com/144745751)  [55:08]
-- [GeeCON 2013: - Sandro Mancuso: Testing and Refactoring Legacy Code](https://vimeo.com/76472757)  [57:13]
-- [BDD in Action: Building Software Right and Building the Right Software](https://www.youtube.com/watch?v=igk3H2DWz7k)  [59:44]
-- [Accelerate your development by accelerating your feedback loop - Johannes Brodwall](https://vimeo.com/105888938)  [1:03:21]
-- [Testing with No Harm - Enrico Campidoglio](https://vimeo.com/154312751) [1:05:57]
-- [Test automation without a headache: Five key patterns - Gojko Adzic](https://vimeo.com/154289460)  [1:10:17]
 
 ## Devops
 
