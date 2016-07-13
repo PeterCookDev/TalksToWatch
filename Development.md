@@ -49,18 +49,19 @@
 
 ## Functional Programming and `F#`
 
+- [PUTTING FUN INTO DATA ANALYSIS WITH F#](https://vimeo.com/144816160) [38:44]
 - [Immutability Changes Everything - Pat Helland](https://vimeo.com/52831373)  [45:19]
 - [Greg Young - Functional Data](https://vimeo.com/131636650)  [49:52]
 - [F# as our day job by 2016 - Tomas Jansson](https://vimeo.com/132194547)  [55:24]
 - [Scott Wlaschin - Domain modelling with the F# type system](https://vimeo.com/97507575)  [1:03:40]
 - [Learning Functional Programming without Growing a Neckbeard](https://www.youtube.com/watch?v=OOvL6QAxRK4)  [1:04:42]
 - [Functional programming design patterns by Scott Wlaschin](https://vimeo.com/113588389)  [1:05:44]
+- [Einar Hst - F# with Einar Hst](https://vimeo.com/145626941) [01:18:55]
 
 ## .NET and `C#`
 
 - [Lee Atkinson - Automating AWS with Windows Powershell](https://www.youtube.com/watch?v=4eoWSCozuxc) [28:32]
 - [Julien Lepine - AWS architecture best practices with .NET](https://www.youtube.com/watch?v=evBQ4EXMtOM) [30:38]
-- [PUTTING FUN INTO DATA ANALYSIS WITH F#](https://vimeo.com/144816160) [38:44]
 - [Stephen Haunts - Cryptography in .NET](https://vimeo.com/160707812) [54:04]
 - [Deep Dive ASP.NET5](https://channel9.msdn.com/Events/DXPortugal/Microsoft-WebCamp-2015/ASP05?WT.mc_id=DX_MVP4025064) [54:12]
 - [Shawn Wildermuth - Learn about ASP.NET 5](https://www.youtube.com/watch?v=EghnSvJ8h68) [57:48]
@@ -78,7 +79,6 @@
 - [Fun with Generics](https://vimeo.com/154564491)  [1:08:24]
 - [C# Language Internals - Bart De Smet](https://vimeo.com/155107766)  [1:11:13]
 - [Dror Helper - Battle of the .NET mocking frameworks](https://www.youtube.com/watch?v=pi-VxFoRRpw) [1:17:30]
-- [Einar Hst - F# with Einar Hst](https://vimeo.com/145626941) [01:18:55]
 - [Steve Smith - Common ASP.NET Design Patterns](https://www.youtube.com/watch?v=MovvIW_thUs) [1:21:03]
 - [Toni Petrina - Awesome things you can do with Roslyn](https://www.youtube.com/watch?v=vTEIgJFUhqY) [1:23:13]
 - [Introduction to MVC6](https://www.youtube.com/watch?v=2yAkadTx_UI) [1:27:26]
@@ -89,7 +89,6 @@
 ## Microservices, SOA, CQRS and Web API
 
 - [There and back again, a Microservices tale](https://skillsmatter.com/skillscasts/6254-there-and-back-again-a-microservices-tale)  []
-- [A Sane Approach to (Micro)services](https://www.youtube.com/watch?v=ctxi-fhH5xM)  [24:39]
 - [Rachel Myers - Stop Building Services, Episode 1: The Phantom Menace](https://www.youtube.com/watch?v=qiC9OAculcc) [39:24]
 - [SECURING MICROSERVICES](https://vimeo.com/144796652)  [39:51]
 - [How to stay alive even when others go down:...](https://www.youtube.com/watch?v=mTIO9fj1UIc) [41:38]
@@ -143,18 +142,14 @@
 - [Release Engineering as a Force Multiplier](http://www.youtube.com/watch?v=7j0NDGJVROI)  [1:00:49]
 - [Richard Campbell - People, Process, Tools – The Essence of DevOps](https://vimeo.com/97337256)  [1:02:41]
 
-
-
 ## Security
 
 - [What’s new in Security in ASP.NET 5 and MVC 6 - Dominick Baier](https://vimeo.com/154041158)  [1:00:02]
 - [Broken Crypto is Broken - Erlend Oftedal - Security Day 2016](https://vimeo.com/154958368) [1:01:39]
 - [Making Hacking Child’s Play - Troy Hunt](https://vimeo.com/153908385)  [1:02:25]
 
-
 ## Tools
 
-- [The Motivation for a Monolithic Codebase Why Google Stores Billions of Lines of Code in  a single repository](https://www.youtube.com/watch?v=W71BTkUbdqE)  [30:49]
 - [Steve Smith - Knowledge is Power: Getting out of trouble by understanding Git](https://www.youtube.com/watch?v=sevc6668cQ0)  [46:50]
 - [UNLEASH YOUR INNER CONSOLE COWBOY](https://vimeo.com/144829972)  [44:27]
 - [Edward Thomson - Deep Dive into Git](https://www.youtube.com/watch?v=dBSHLb1B8sw)  [48:35]
