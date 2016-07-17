@@ -9,7 +9,6 @@
 - [Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
 - [Davy Stevenson - Orders of Magnitude](https://www.youtube.com/watch?v=_YyzLKhjpiI)  [24:55]
 - [Dave Hounslow - You Are What You Eat How Branching Affects Team Culture](https://vimeo.com/162625187) [25:26]
-- [Problem-solving techniques for groups](https://vimeo.com/126778448) [25:29]
 - [Lessons in Mentorship](https://www.youtube.com/watch?v=2uzvH2uR3-I) [26:26]
 - [Valeria Maltoni: Make learning a habit and discover new opportunities](https://vimeo.com/128538941)  [26:39]
 - [Jessica Rose - Impostor Syndrome and Individual Competence](https://www.youtube.com/watch?v=wtrF5C7Gv7E) [26:49]
