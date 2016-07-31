@@ -31,7 +31,6 @@
 - [Renee Chu - Unit Tests, Cluster Tests: A Comparative Introduction](https://www.youtube.com/watch?v=VBIufBZiw9Y) [17:25]
 - [Nina Zakharenko - Memory Management in Python - The Basics](https://www.youtube.com/watch?v=F6u5rhUQ6dU) [27:01]
 - [Andrey Petrov - See Python, See Python Go, Go Python Go](https://www.youtube.com/watch?v=CkDwb5koRTc) [27:16]
-- [Van Lindberg - Structured Data from Unstructured Text](https://www.youtube.com/watch?v=8DBirGHkXWE) [27:41]
 - [Ana Balica - To mock, or not to mock, that is the question](https://www.youtube.com/watch?v=KYG5C1CEkOk) [28:38]
 - [Chelsea Voss - Oneliner-izer: An Exercise in Constrained Coding](https://www.youtube.com/watch?v=DsUxuz_Rt8g) [28:49]
 - [How I built a power debugger out of the standard library and things I found on the internet ](https://www.youtube.com/watch?v=g8kF9tuYZ6s) [30:21]

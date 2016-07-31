@@ -7,7 +7,6 @@
 - [Jeff Sutherland - Scrum at Scale](https://www.youtube.com/watch?v=qEqrESsNWYs) [38:30]
 - [Will Evans - Heretics, High Priests, and Hagiolatry](https://vimeo.com/143053323) [40:11]
 - [More than the sum of our parts - Liz Keogh](https://vimeo.com/114215546)  [41:16]
-- [Craig Smith - 40 Agile Methods in 40 Minutes](https://www.youtube.com/watch?v=abshdgwqz5Q) [43:14]
 - [Ian Brockbank - How do you “push responsibility down” and “empower the team”](https://vimeo.com/76096772)  [43:49]
 - [Agile organizational structures and culture by Jasmina Nikolic, Coding Serbia 2015 ](https://www.youtube.com/watch?v=i49eAm3-3QU) [45:47]
 - [Collaborative Leadership: A Secret to Agile Success](https://www.youtube.com/watch?v=mspX8BZBRpw)  [45:49]
