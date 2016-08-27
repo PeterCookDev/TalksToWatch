@@ -66,7 +66,6 @@
 - [Mark Rendle - Hidden Complexity: Inside Simple.Data and Simple.Web](https://vimeo.com/52670823) [58:12]
 - [Jeremy Clark - I'll Get Back to You: Task, Await, and Asynchronous Methods in C#](https://vimeo.com/157300741) [01:00:23]
 - [Ian Cooper - Service Discovery for .NET developers](https://vimeo.com/155652026) [01:00:59]
-- [Damian Brady - .NET Deployment Strategies: the Good, the Bad, and the Ugly](https://vimeo.com/156402866) [01:00:03]
 - [Saying “Goodbye” to DNX and “Hello!” to the .NET Core CLI - Damian Edwards & David Fowler](https://vimeo.com/153212604)  [1:01:02]
 - [Middleware Tips and Tricks for ASP.NET 5 - Scott Allen](https://vimeo.com/153749266)  [1:01:03]
 - [Decoupling from ASP.NET - Hexagonal Architectures in .NET by Ian Cooper](https://vimeo.com/113621145)  [1:01:07]
