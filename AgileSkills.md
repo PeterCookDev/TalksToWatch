@@ -40,21 +40,36 @@
 
 ## Dev Career Skills and Culture
 
+- [Lyn Muldrow - Being the only brown engineer](https://www.youtube.com/watch?v=xrOk02za8KY) [10:47]
+- [Christine Bryant-Ryback - Standing Desks and Free Pizza... ](https://www.youtube.com/watch?v=MHZ-FVDmlEg) [20:54]
+- [Emily Holmes - Cultivating Lean Startup Teams When People Don't Know What It Is](https://www.youtube.com/watch?v=wa27adbSvYM) [21:05]
+- [Courtney Eckhardt - Complex System Failures and Blameless Retrospectives](https://www.youtube.com/watch?v=Sj0sdbiyatk) [21:43]
+- [Seppo Helava - Build a Culture that Outsmarts Perfectionism](https://www.youtube.com/watch?v=HqR5xKOc_0I) [24:19]
+- [Ralph Heinkel - The value of mindfulness and how it has arrived at Google](https://www.youtube.com/watch?v=8TAJ9ytl9qE) [24:28]
 - [Naomi Ceder - Antipatterns for Diversity - PyCon 2016 ](https://www.youtube.com/watch?v=Xg1LgSg3pmo) [24:29]
+- [James Warren - The Startup Storyteller Using Stories to Learn](https://www.youtube.com/watch?v=C9g2K5TLPY4) [26:48]
 - [Pieter Hintjens - How Conway's Law is eating your job?](https://www.youtube.com/watch?v=7HECD3eLoVo) [26:58]
+- [Mental Health in Development](https://www.youtube.com/watch?v=P4wWbHvNAvY) [28:21]
+- [Lauren Scott - How To Be Everything: A Look At The Way We Give Advice](https://www.youtube.com/watch?v=5dc7pP1xRnw) [29:57]
 - [Conference Submissions and Presentations made more effective with 10 quick tips](https://www.youtube.com/watch?v=fJz4JJIchaY) [30:08]
+- [Caroline Moore - Burnout and the Cult of Busy](https://www.youtube.com/watch?v=0yAJfiMlo7g) [32:07]
 - [Rein Henrichs = Why Good Software Goes Bad](https://www.youtube.com/watch?v=JXVHvqbfsNI) [33:48]
 - [How to Create Good Documentation](https://www.youtube.com/watch?v=lw9R2qMCdqk)  [34:31]
 - [Camille Fournier - Cloning Yourself Isn’t an Option](https://vimeo.com/139907569)  [34:41]
 - [Michael Hartl - Learn Enough Tutorial Writing to Be Dangerous ](https://www.youtube.com/watch?v=TpmoxsYeap0) [34:57]
 - [Empathy-Driven Development](https://www.youtube.com/watch?v=XZJBfMmOEjg)  [35:36]
+- [Shawn Rider - Work is Not a Dare: Tips for Building Inclusive Teams](https://www.youtube.com/watch?v=OdHH5KWGTNo) [37:27]
+- [Forrest Lehwalder Norvell - Empathy at Scale](https://www.youtube.com/watch?v=5d0y5J8rn4A) [37:44]
 - [Laura Eck - The Not So Rational Programmer](https://www.youtube.com/watch?v=E-5VhMUYmVY)  [38:09]
+- [Kronda Adair - Expanding your empathy](https://www.youtube.com/watch?v=SsRlx9p3TBM) [40:59]
 - [How to stop wasting your time and start performing useful code reviews by Maria Khalusova](https://www.youtube.com/watch?v=VRnMzMpSeag)  [45:13]
 - [Sean O'Connor - From Developer to Manager - PyCon 2016 ](https://www.youtube.com/watch?v=lzBm0r8CxhY) [46:50]
 - [Ben Orenstein - How to Talk to Developers](https://www.youtube.com/watch?v=l9JXH7JPjR4)  [47:37]
 - [Jeff Casimir - Why Developers Quit](https://www.youtube.com/watch?v=JgEgtKKAabg)  [48:50]
 - [Dan Allen - 7 Ways to Hack Your Brain to Write Fluently](https://www.youtube.com/watch?v=r6RXRi5pBXg)  [49:15]
+- [Growing Up Geek Sarah Johnson, Bob Paulin & Tim Steele](https://www.youtube.com/watch?v=GLU3ARt4GIY) [49:39]
 - [Richard P. Gabriel - Writing a Writer](https://www.youtube.com/watch?v=i90BA_QY7xE) [49:42]
+- [Alex Osterwalder - How to Intentionally Design a (Lean Startup) Culture](https://www.youtube.com/watch?v=Yw7Me3jOUVg) [50:35]
 - [Public Speaking Skills for Quiet People](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M316)  [51:43]
 - [Gabriela D'Ávila - Coding Like a Girl](https://www.youtube.com/watch?v=cPCm8zpchQ4) [52:30]
 - [Sandro Mancuso - Crafted Design](https://vimeo.com/101106002) [54:32]
@@ -68,7 +83,6 @@
 - [Roy Osherove - The Software Team Leader Manifesto](https://vimeo.com/43612918)  [1:13:20]
 - [Jules May - Team Building ](https://www.youtube.com/watch?v=_Bnm9QWWRlA) [1:27:34]
 - [Greg Wilson - Evidence Based Teaching What We Know and How to Use It](https://www.youtube.com/watch?v=kmVKGxPlTvc) [2:43:58]
-
 
 ## Tech Writing
 

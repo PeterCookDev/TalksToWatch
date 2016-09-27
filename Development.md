@@ -2,10 +2,13 @@
 
 ## General Development
 
+- [Kinsey Ann Durham - Impactful Refactors: Refactoring for Readability](https://www.youtube.com/watch?v=T4reLGtp4fA) [11:47]
 - [Gary Bernhardt - Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)  [29:40]
 - [States and Nomads: Handling Software Complexity](https://www.youtube.com/watch?v=KGaFcI2UNrI)  [29:55]
+- [Bryan Helmkamp -  Code Quality Lessons Learned](https://www.youtube.com/watch?v=vcH0RBe4Eew) [30:21]
 - [Reginald Braithwaite - First-Class Commands: An unexpectedly fertile design pattern](https://vimeo.com/157132267) [33:05]
+- [Adam Tornhill - Seven Secrets of Maintainable Codebases](https://www.youtube.com/watch?v=0oDporwhToQ) [39:17]
 - [Glenn Vanderburg - Why software development is an engineering discipline](https://www.youtube.com/watch?v=zDEpeWQHtFU)  [41:46]
 - [Keynote - Systems at Facebook Scale](https://www.youtube.com/watch?v=dlixGkelP9U)  [43:36]
 - [Removing barriers - Hadi Hariri](https://vimeo.com/131644347)  [43:53]
@@ -16,6 +19,7 @@
 - [Keynote Move Deliberately and Don't Break Anything - Brian Goetz](https://www.youtube.com/watch?v=ibYrHlwCKB4) [50:16]
 - [Without Resilience, Nothing Else Matters - Jonas Bonér](https://www.youtube.com/watch?v=beC49rexj7I)  [51:01]
 - [Great Artists Steal: Build better software by applying patterns and ideas from different languages](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M314) [56:09]
+- [Mircea Zetea - Managing technical debt](https://www.youtube.com/watch?v=58yuMI6K6BE) [59:58]
 - [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](https://vimeo.com/68390510)  [1:00:33]
 - [Software architecture as code by Simon Brown](https://www.youtube.com/watch?v=oDpdaXt0HQI)  [1:01:13]
 - [The Joys and Pains of a Long Lived Codebase by Jeremy D Miller](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller)  [1:02:30]
@@ -60,6 +64,7 @@
 
 - [Lee Atkinson - Automating AWS with Windows Powershell](https://www.youtube.com/watch?v=4eoWSCozuxc) [28:32]
 - [Julien Lepine - AWS architecture best practices with .NET](https://www.youtube.com/watch?v=evBQ4EXMtOM) [30:38]
+- [David Gardiner - Enhanced .NET Unit Testing](https://www.youtube.com/watch?v=cG_lfj8oRGs) [41:03]
 - [Stephen Haunts - Cryptography in .NET](https://vimeo.com/160707812) [54:04]
 - [Deep Dive ASP.NET5](https://channel9.msdn.com/Events/DXPortugal/Microsoft-WebCamp-2015/ASP05?WT.mc_id=DX_MVP4025064) [54:12]
 - [Shawn Wildermuth - Learn about ASP.NET 5](https://www.youtube.com/watch?v=EghnSvJ8h68) [57:48]
