@@ -86,11 +86,18 @@
 
 ## Tech Writing
 
+- [Continuous Annoyment: Bringing More Zen to a Hectic Writing Environment](https://www.youtube.com/watch?v=y8yhjVYXa20) [15:03]
 - [Introduction & State of the Docs ](https://www.youtube.com/watch?v=Fmfs-iYqx5Q) [20:22]
 - [7 Values of Effective Tech Writing Teams ](https://www.youtube.com/watch?v=ra8nHK5wDXM) [21:03]
 - [Write the Readable README ](https://www.youtube.com/watch?v=2dAK42B7qtw) [22:49]
+- [Just-In-Time Documentation: Employing Agile Methodology To Create Living Documentation](https://www.youtube.com/watch?v=FYNAqlQB9U4) [26:29]
+- [Atlassian: My Information Experience Adventure](https://www.youtube.com/watch?v=kMSGYbWXxgE) [26:46]
+- [Code the Docs: Interactive Document Environments](https://www.youtube.com/watch?v=kfqlRzDq4MA) [28:08]
 - [Writing So Your Words Are Read ](https://www.youtube.com/watch?v=8LiV759Bje0) [29:48]
+- [What Writing Fiction Teaches You About Writing Documentation](https://www.youtube.com/watch?v=UI9yD3_wgho) [29:53]
 - [So You Need to Document an API? ](https://www.youtube.com/watch?v=KSXL-BDoGOw) [30:18]
+- [Documentation with Human Connection](https://www.youtube.com/watch?v=K5eqNcjNvgU) [30:26]
+
 
 ## Testing, TDD and BDD
 
