@@ -93,7 +93,6 @@
 - [Tracy Teal - Data Carpentry: An Introduction to Python for Data Analysis and Visualization ](https://www.youtube.com/watch?v=Ws34Ho-1aDs) [2:54:16]
 - [Making an Impact with Python Natural Language Processing Tools](https://www.youtube.com/watch?v=jSdkFSg9oW8) [2:54:35]
 - [Sarah Guido - Hands-on Data Analysis with Python](https://www.youtube.com/watch?v=L4Hbv4ugUWk) [2:54:58]
-- [Stuart Williams - Python by Immersion](https://www.youtube.com/watch?v=RVNIdoepdzU) [3:00:40]
 - [Mike Mller - Descriptors and Metaclasses - Understanding and Using Python's More Advanced Features ](https://www.youtube.com/watch?v=7PzeZQGVPKc) [3:02:03]
 - [Mike Mller - Faster Python Programs - Measure, don't Guess](https://www.youtube.com/watch?v=JDSGVvMwNM8) [3:03:58]
 - [Creating, building, testing, and documenting a Python project - a hands-on HOWTO](https://www.youtube.com/watch?v=SUt3wT43AeM) [3:17:06]

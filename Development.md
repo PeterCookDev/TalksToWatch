@@ -2,7 +2,6 @@
 
 ## General Development
 
-- [Kinsey Ann Durham - Impactful Refactors: Refactoring for Readability](https://www.youtube.com/watch?v=T4reLGtp4fA) [11:47]
 - [Gary Bernhardt - Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
 - [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)  [29:40]
 - [States and Nomads: Handling Software Complexity](https://www.youtube.com/watch?v=KGaFcI2UNrI)  [29:55]
