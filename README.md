@@ -1,6 +1,7 @@
 # Talks To Watch
 
 - [Agile and Skills](AgileSkills.md)
+- [Career, Skills and IT Culture](CareerSkillsandITCulture.md)
 - [Data Science](DataScience.md)
 - [Development](Development.md)
 - [.NET and C#](NET.md)
