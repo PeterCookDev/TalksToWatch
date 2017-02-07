@@ -14,7 +14,6 @@
 - [Open Source & Feelings 2015 - Ensuring the Sustainability of Your Code Learning Community](https://www.youtube.com/watch?v=jYM8AnreZHQ)  [46:00]
 - [Anders Ivarsson - Scaling Agile with Tribes, Squads, Chapters & Guilds](https://vimeo.com/75917536)  [47:19]
 - [Dave Thomas - The Death of Agile](https://www.youtube.com/watch?v=YpGGRAhes2k)  [47:44]
-- [Aino Vonge Corry - Retrospective Anti-Patterns](https://www.youtube.com/watch?v=Os7_lF6VMXw) [48:52]
 - [Jessie Shternshus - Individuals, Interactions and Improvisation](https://vimeo.com/159196412) [50:00]
 - [Jez Humble - Why Scaling Agile Doesn't Work](https://www.youtube.com/watch?v=2zYxWEZ0gYg) [51:01]
 - [Jesper Boeg - Getting real value out of your planning efforts with Story Mapping](https://www.youtube.com/watch?v=c4_PvSXZssc)  [51:23]
