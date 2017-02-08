@@ -35,7 +35,6 @@
 - [Jeff Casimir - Why Developers Quit](https://www.youtube.com/watch?v=JgEgtKKAabg) [48:51]
 - [On Awesomeness, or How To Inspire Some Awe](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M113)  [50:01]
 - [Matt Stauffer - Empathy Gives You Superpowers](https://www.youtube.com/watch?v=fMFjO2szDnk) [51:13]
-- [Aino Vonge Corry - A Comment on Learning](https://www.youtube.com/watch?v=xI5oxExAj1U) [51:22]
 - [Jez Humble - Secrets of High Performing Teams: Science Edition](https://www.youtube.com/watch?v=EmDtmYwDs50) [51:40]
 - [Managing for Happiness](https://vimeo.com/190990853) [51:59]
 - [Linda Rising - Who do You Trust? Beware of Your Brain](https://www.youtube.com/watch?v=IGHhCmdIvuI) [52:00]
