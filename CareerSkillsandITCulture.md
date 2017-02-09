@@ -40,7 +40,6 @@
 - [Luis Ferreira - Continuous Learning, Teaching and...](https://www.youtube.com/watch?v=5r5pBg9RMdM) [40:52]
 - [Kronda Adair - Expanding your empathy](https://www.youtube.com/watch?v=SsRlx9p3TBM) [40:59]
 - [Patrick Kua - Why Technical Leadership Matters](https://www.youtube.com/watch?v=_6BKK1SPAVI) [42:05]
-- [Julie Pitt - What our Brains can Teach us About Software Engineering](https://www.youtube.com/watch?v=5whMQwyW9Zw) [42:07]
 - [Teresa Martyny - From Director to Intern: Changing Careers as a Single Mom](https://www.youtube.com/watch?v=hZLz9p58ZqU) [42:16]
 - [Birgitta Bckeler - Born for IT? - How the Image of Software Developers came about](https://www.youtube.com/watch?v=wk1r4XaWwsM) [44:08]
 - [Maria Khalusova - How to stop wasting your time and start performing useful code reviews](https://www.youtube.com/watch?v=VRnMzMpSeag)  [45:13]
