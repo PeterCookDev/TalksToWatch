@@ -36,7 +36,6 @@
 - [On Awesomeness, or How To Inspire Some Awe](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M113)  [50:01]
 - [Matt Stauffer - Empathy Gives You Superpowers](https://www.youtube.com/watch?v=fMFjO2szDnk) [51:13]
 - [Managing for Happiness](https://vimeo.com/190990853) [51:59]
-- [Linda Rising - Who do You Trust? Beware of Your Brain](https://www.youtube.com/watch?v=IGHhCmdIvuI) [52:00]
 - [Alicia Juarero - Keynote : Think Safe-fail to thrive under conditions of uncertainty](https://vimeo.com/143055623)  [52:39]
 - [Arjan van der Gaag  - Debugging facades: dealing with imposter syndrome as a developer](https://www.youtube.com/watch?v=wKz7mOZ4P-A) [53:22]
 - [The secret to telling awesome stories – from Microsoft's Chief Storyteller](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M112)  [1:02:03]
