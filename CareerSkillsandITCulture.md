@@ -22,7 +22,6 @@
 - [Jason Hand - Understanding Cognitive Bias Found In Judgement & Choice](https://www.youtube.com/watch?v=tnFw-0hpa5A) [31:20]
 - [Caroline Moore - Burnout and the Cult of Busy](https://www.youtube.com/watch?v=0yAJfiMlo7g) [32:07]
 - [Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors That Are Beyond My Control....](https://vimeo.com/180568023) [32:12]
-- [Joe Mastey - Hiring Developers, with Science!](https://www.youtube.com/watch?v=ZCGGMxcJMZk) [32:31]
 - [Andr Arko - Including People](https://www.youtube.com/watch?v=MrPtHogES6k) [33:19]
 - [Rein Henrichs - Why Good Software Goes Bad](https://www.youtube.com/watch?v=JXVHvqbfsNI) [33:48]
 - [Michael Rau - Storytelling with Code](https://www.youtube.com/watch?v=B3Bu22XaKGg) [34:07]
