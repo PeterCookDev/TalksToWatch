@@ -44,7 +44,6 @@
 - [Tana Franko - Continuous Annoyment: Bringing More Zen to a Hectic Writing Environment](https://www.youtube.com/watch?v=y8yhjVYXa20) [15:03]
 - [Eric Holscher - Introduction & State of the Docs ](https://www.youtube.com/watch?v=Fmfs-iYqx5Q) [20:22]
 - [Joao Fernandes - 7 Values of Effective Tech Writing Teams ](https://www.youtube.com/watch?v=ra8nHK5wDXM) [21:03]
-- [Daniel D. Beck - Write the Readable README ](https://www.youtube.com/watch?v=2dAK42B7qtw) [22:49]
 - [Brianne Hillmer - Just-In-Time Documentation: Employing Agile Methodology To Create Living Documentation](https://www.youtube.com/watch?v=FYNAqlQB9U4) [26:29]
 - [Daniel Stevens
  - Atlassian: My Information Experience Adventure](https://www.youtube.com/watch?v=kMSGYbWXxgE) [26:46]
