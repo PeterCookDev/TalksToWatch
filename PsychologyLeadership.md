@@ -1,4 +1,4 @@
-# Talks To Watch - Pyschology and Leadership
+# Talks To Watch - Psychology and Leadership
 
 ## Leadership, Psychology and Management
 
@@ -23,7 +23,6 @@
 - [Pawel Brodzinksi - The Leadership gap](https://vimeo.com/115962902)  [37:00]
 - [The Secret Sauce of Successful Teams](https://vimeo.com/191020872) [38:37]
 - [Inner critics and outer innovators](https://vimeo.com/190924545) [39:07]
-- [Zach Holman - Firing People](https://www.youtube.com/watch?v=dxGen7sPWTw)  [39:09]
 - [QUICKSTART GUIDE TO THE FIVE RULES OF ACCELERATED LEARNING](https://vimeo.com/144795023)  [41:15]
 - [Fixing mind anti-patterns with mindfulness](https://vimeo.com/191078784) [42:14]
 - [Rich Kuzsma - Hacking the Brain](https://www.youtube.com/watch?v=YEpWr1PknIU) [42:58]
