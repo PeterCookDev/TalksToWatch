@@ -41,7 +41,6 @@
 - [Patrick Kua - Why Technical Leadership Matters](https://www.youtube.com/watch?v=_6BKK1SPAVI) [42:05]
 - [Teresa Martyny - From Director to Intern: Changing Careers as a Single Mom](https://www.youtube.com/watch?v=hZLz9p58ZqU) [42:16]
 - [Birgitta Bckeler - Born for IT? - How the Image of Software Developers came about](https://www.youtube.com/watch?v=wk1r4XaWwsM) [44:08]
-- [Maria Khalusova - How to stop wasting your time and start performing useful code reviews](https://www.youtube.com/watch?v=VRnMzMpSeag)  [45:13]
 - [Sean O'Connor - From Developer to Manager - PyCon 2016 ](https://www.youtube.com/watch?v=lzBm0r8CxhY) [46:50]
 - [Ben Orenstein - How to Talk to Developers](https://www.youtube.com/watch?v=l9JXH7JPjR4)  [47:37]
 - [Emily Webber - Communities of Practice, the Missing Piece of Your Agile Organisation](https://www.youtube.com/watch?v=9Owrovki73o) [48:18]
