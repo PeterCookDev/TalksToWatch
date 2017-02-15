@@ -46,9 +46,7 @@
 - [Joao Fernandes - 7 Values of Effective Tech Writing Teams ](https://www.youtube.com/watch?v=ra8nHK5wDXM) [21:03]
 - [Tim McJones, Paris Buttfield-Addison - Interactive Document Environments](https://www.youtube.com/watch?v=kfqlRzDq4MA) [28:08]
 - [Thursday Bram - What Writing Fiction Teaches You About Writing Documentation](https://www.youtube.com/watch?v=UI9yD3_wgho) [29:53]
-- [Allison Moore - So You Need to Document an API? ](https://www.youtube.com/watch?v=KSXL-BDoGOw) [30:18]
 - [Hannah Gilberg - Documentation with Human Connection](https://www.youtube.com/watch?v=K5eqNcjNvgU) [30:26]
-
 
 ## Testing, TDD and BDD
 
