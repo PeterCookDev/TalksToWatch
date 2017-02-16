@@ -86,6 +86,7 @@
 
 ## Tools
 
+- [Alex Gaynor - The cobbler's children have no shoes, or building better tools for ourselves](https://www.youtube.com/watch?v=gRFHvavxnos) [29:51]
 - [Steve Smith - Knowledge is Power: Getting out of trouble by understanding Git](https://www.youtube.com/watch?v=sevc6668cQ0)  [46:50]
 - [UNLEASH YOUR INNER CONSOLE COWBOY](https://vimeo.com/144829972)  [44:27]
 - [Edward Thomson - Deep Dive into Git](https://www.youtube.com/watch?v=dBSHLb1B8sw)  [48:35]

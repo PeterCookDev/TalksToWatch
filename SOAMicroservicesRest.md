@@ -1,14 +1,17 @@
 # Talks To Watch - Microservices, SOA, CQRS and Web API
 
+- [Martin Fowler - Event Sourcing](https://www.youtube.com/watch?v=aweV9FLTZkU) [28:06]
 - [Rachel Myers - Stop Building Services, Episode 1: The Phantom Menace](https://www.youtube.com/watch?v=qiC9OAculcc) [39:24]
 - [Sam Newman - Securing Microservices](https://vimeo.com/144796652)  [39:51]
 - [Florian Weingarten - How to stay alive even when others go down:...](https://www.youtube.com/watch?v=mTIO9fj1UIc) [41:38]
+- [Ines Sombra - Architectural patterns of resilient distributed systems](https://www.youtube.com/watch?v=bUlpp8_Mevk) [43:59]
 - [Sebastien Lambla - Versions are evil - how to do without in your API](https://vimeo.com/156264107) [45:29]
 - [James Lewis - Microservices - Building Software that is #neverdone](https://www.youtube.com/watch?v=JEtxmsJzrnw)  [45:54]
 - [Matt Ranney - Designing for Failure: Scaling Uber's Backend by Breaking Everything](https://www.youtube.com/watch?v=nuiLcWE8sPA) [46:32]
 - [Indu Alagarsamy - Autonomy & Asynchrony: The Key to Designing Reliable Systems](https://www.youtube.com/watch?v=qe_WK-pGc8w) [46:57]
 - [Sam Newman - Deploying and Scaling Microservices](https://www.youtube.com/watch?v=zHKMPee4GmM) [46:59]
 - [Dennis van der Stelt - Distributed Systems principles](https://vimeo.com/155653145) [48:40]
+- [Michael T. Nygard - Stability Patterns & Antipatterns](https://www.youtube.com/watch?v=VZePNGQojfA) [48:47]
 - [Randy Shoup - Pragmatic Microservices: Whether, When and How to Migrate](https://www.youtube.com/watch?v=hAwpVXiLH9M)  [48:59]
 - [Kevin Goldsmith - Microservices @ Spotify](https://www.youtube.com/watch?v=7LGPeBgNFuU)  [49:07]
 - [Fred George - Challenges in Implementing MicroServices](https://www.youtube.com/watch?v=2Fy_xidc11w)  [50:12]
