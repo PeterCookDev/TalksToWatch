@@ -51,7 +51,6 @@
 - [Alex Osterwalder - How to Intentionally Design a (Lean Startup) Culture](https://www.youtube.com/watch?v=Yw7Me3jOUVg) [50:35]
 - [Public Speaking Skills for Quiet People](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M316)  [51:43]
 - [Gabriela D'Ávila - Coding Like a Girl](https://www.youtube.com/watch?v=cPCm8zpchQ4) [52:30]
-- [Iwan Gulenko - How to make IT-recruiting suck less. ](https://www.youtube.com/watch?v=u6PTaTDHUG4) [53:11]
 - [Trisha Gee - Career Advice for Programmers](https://www.youtube.com/watch?v=LlAn452X4Lc)  [54:18]
 - [Sandro Mancuso - Crafted Design](https://vimeo.com/101106002) [54:32]
 - [Mahesh Krishnan - Soft Skills for the Developer](https://vimeo.com/188694272) [55:55]
