@@ -1,9 +1,7 @@
 # Talks To Watch - Career Skills and IT Culture
 
 - [Lyn Muldrow - Being the only brown engineer](https://www.youtube.com/watch?v=xrOk02za8KY) [10:47]
-- [Christine Bryant-Ryback - Standing Desks and Free Pizza... ](https://www.youtube.com/watch?v=MHZ-FVDmlEg) [20:54]
 - [Emily Holmes - Cultivating Lean Startup Teams When People Don't Know What It Is](https://www.youtube.com/watch?v=wa27adbSvYM) [21:05]
-- [Courtney Eckhardt - Complex System Failures and Blameless Retrospectives](https://www.youtube.com/watch?v=Sj0sdbiyatk) [21:43]
 - [Seppo Helava - Build a Culture that Outsmarts Perfectionism](https://www.youtube.com/watch?v=HqR5xKOc_0I) [24:19]
 - [Ralph Heinkel - The value of mindfulness and how it has arrived at Google](https://www.youtube.com/watch?v=8TAJ9ytl9qE) [24:28]
 - [Naomi Ceder - Antipatterns for Diversity - PyCon 2016 ](https://www.youtube.com/watch?v=Xg1LgSg3pmo) [24:29]
