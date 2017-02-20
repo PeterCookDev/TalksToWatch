@@ -36,7 +36,6 @@
 - [The myth of the qualified developer](https://vimeo.com/190917544) [40:29]
 - [Luis Ferreira - Continuous Learning, Teaching and...](https://www.youtube.com/watch?v=5r5pBg9RMdM) [40:52]
 - [Kronda Adair - Expanding your empathy](https://www.youtube.com/watch?v=SsRlx9p3TBM) [40:59]
-- [Patrick Kua - Why Technical Leadership Matters](https://www.youtube.com/watch?v=_6BKK1SPAVI) [42:05]
 - [Teresa Martyny - From Director to Intern: Changing Careers as a Single Mom](https://www.youtube.com/watch?v=hZLz9p58ZqU) [42:16]
 - [Birgitta Bckeler - Born for IT? - How the Image of Software Developers came about](https://www.youtube.com/watch?v=wk1r4XaWwsM) [44:08]
 - [Dougal Matthews - Effective Code Review](https://www.youtube.com/watch?v=uIwl01Nazdg) [44:18]
