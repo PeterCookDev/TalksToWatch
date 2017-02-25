@@ -8,7 +8,6 @@
 - [Meredith Noble: Use coaching techniques to help people make their own decisions](https://vimeo.com/128634479)  [22:33]
 - [Martin Seligman - Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
 - [Davy Stevenson - Orders of Magnitude](https://www.youtube.com/watch?v=_YyzLKhjpiI)  [24:55]
-- [Eric Hodel - Lessons in Mentorship](https://www.youtube.com/watch?v=2uzvH2uR3-I) [26:26]
 - [Valeria Maltoni - Make learning a habit and discover new opportunities](https://vimeo.com/128538941)  [26:39]
 - [Hannah du Plessis: Use nonviolent communication to connect with colleagues](https://vimeo.com/128634090)  [27:03]
 - [Julie Pagano - It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY) [28:22]

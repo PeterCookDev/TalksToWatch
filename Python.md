@@ -1,5 +1,5 @@
 # Talks To Watch - Python
-- [How to teach Python to a ten year old (Jake Sethi-Reiner) ](https://www.youtube.com/watch?v=EVtFhap5U3I)7:52
+- [Jake Sethi-Reiner - How to teach Python to a ten year old ](https://www.youtube.com/watch?v=EVtFhap5U3I) [7:52]
 - [Renee Chu - Unit Tests, Cluster Tests: A Comparative Introduction](https://www.youtube.com/watch?v=VBIufBZiw9Y) [17:25]
 - [Liana Bakradze - Learn Python The Fun Way ](https://www.youtube.com/watch?v=_KkPcHKbE4I) [18:05]
 - [Alex Vinyals - Ingesting 35 million hotel images with python in the cloud.](https://www.youtube.com/watch?v=Rz7DsPcc34w) [21:13]
@@ -7,9 +7,9 @@
 - [Anjana Vakil - Exploring Python Bytecode](https://www.youtube.com/watch?v=GNPKBICTF2w) [22:37]
 - [Adrian Dziubek - Python Descriptors for Better Data Structures ](https://www.youtube.com/watch?v=ZbmPBey_6kk) [24:25]
 - [Andrew Burrows - Testing the untestable: a beginners guide to mock objects](https://www.youtube.com/watch?v=jsjParCB7BU) [25:00]
-- [RULES FOR RADICALS: CHANGING THE CULTURE OF PYTHON AT FACEBOOK](https://www.youtube.com/watch?v=hFONj6r3aB8) [26:12]
+- [Jason Fried - Rules for radicals: changing the culture of python at Facebook](https://www.youtube.com/watch?v=hFONj6r3aB8) [26:12]
 - [Nina Zakharenko - Memory Management in Python - The Basics](https://www.youtube.com/watch?v=F6u5rhUQ6dU) [27:01]
-- [Static Code Analysis with Python](https://www.youtube.com/watch?v=mfXIJ-Fu5Fw) [27:03]
+- [Andrew Wolfe - Static Code Analysis with Python](https://www.youtube.com/watch?v=mfXIJ-Fu5Fw) [27:03]
 - [Andrey Petrov - See Python, See Python Go, Go Python Go](https://www.youtube.com/watch?v=CkDwb5koRTc) [27:16]
 - [Data Science Design Patterns](https://www.youtube.com/watch?v=toRpjZT-yQk) [27:56]
 - [Javier Arias Losada - Machine Learning for dummies with Python ](https://www.youtube.com/watch?v=dIE4WTqrq_0) [28:17]
