@@ -41,7 +41,6 @@
 - [Dougal Matthews - Effective Code Review](https://www.youtube.com/watch?v=uIwl01Nazdg) [44:18]
 - [Sean O'Connor - From Developer to Manager - PyCon 2016 ](https://www.youtube.com/watch?v=lzBm0r8CxhY) [46:50]
 - [Ben Orenstein - How to Talk to Developers](https://www.youtube.com/watch?v=l9JXH7JPjR4)  [47:37]
-- [Emily Webber - Communities of Practice, the Missing Piece of Your Agile Organisation](https://www.youtube.com/watch?v=9Owrovki73o) [48:18]
 - [Jeff Casimir - Why Developers Quit](https://www.youtube.com/watch?v=JgEgtKKAabg)  [48:50]
 - [Dan Allen - 7 Ways to Hack Your Brain to Write Fluently](https://www.youtube.com/watch?v=r6RXRi5pBXg)  [49:15]
 - [Sarah Johnson, Bob Paulin & Tim Steele - Growing Up Geek ](https://www.youtube.com/watch?v=GLU3ARt4GIY) [49:39]
