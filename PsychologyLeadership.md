@@ -24,7 +24,6 @@
 - [José Lorenzo Rodríguez - Fixing mind anti-patterns with mindfulness](https://vimeo.com/191078784) [42:14]
 - [Rich Kuzsma - Hacking the Brain](https://www.youtube.com/watch?v=YEpWr1PknIU) [42:58]
 - [Ross Tuck - Things I Believe Now That I'm Old](https://www.youtube.com/watch?v=ZBiexI2mv-k) [43:34]
-- [Susan Cain - "Quiet"](https://www.youtube.com/watch?v=AzlCIS072_Y)  [43:48]
 - [J. Leighton Read, MD - Total Engagement and the Reinvention of Work using Games](https://vimeo.com/43250464)  [43:54]
 - [Ed Finkler - Open Sourcing Mental Illness. ](https://www.youtube.com/watch?v=h1Pwp1XTnBk) [44:45]
 - [Doc Norton - Autonomy, connection, and excellence; The building blocks of a knowledge work culture](https://vimeo.com/144862097) [44:56]
