@@ -15,6 +15,7 @@
 - [Tony Wieczorek - 5 Practical Ways to Advocate for Diversity](https://www.youtube.com/watch?v=zi335PDgL7A) [29:46]
 - [Lauren Scott - How To Be Everything: A Look At The Way We Give Advice](https://www.youtube.com/watch?v=5dc7pP1xRnw) [29:57]
 - [Matthew McCullough - Conference Submissions and Presentations made more effective with 10 quick tips](https://www.youtube.com/watch?v=fJz4JJIchaY) [30:08]
+- [Chuck Lauer Vose - Building kick-ass internal education programs (for large and small budgets)](https://www.youtube.com/watch?v=LPZmNfhPPOs) [30:34]
 - [Josh Simmons - Fail Early, Fail Often, Fail Well](https://www.youtube.com/watch?v=4Xu9zHiGOEc) [31:03]
 - [Lillie Chilen - Internships: Good for the Intern, Great for the Team](https://www.youtube.com/watch?v=75LK0MOvyjQ) [31:06]
 - [Jason Hand - Understanding Cognitive Bias Found In Judgement & Choice](https://www.youtube.com/watch?v=tnFw-0hpa5A) [31:20]
