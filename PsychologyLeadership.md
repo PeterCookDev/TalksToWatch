@@ -13,7 +13,6 @@
 - [Matthew McCullough - 10 Quick Tips for More Effective Conference Submissions and Presentations](https://www.youtube.com/watch?v=fJz4JJIchaY)  [30:07]
 - [Joe Mastey - Manage Your Energy, Not Your Time](https://www.youtube.com/watch?v=40tblq40AkQ) [32:14]
 - [Johan Öbrink - Everyone wants change. No-one wants to change.](https://vimeo.com/190929281) [32:29]
-- [Anita Kuno - Wax on, wax off: the tough love guide to mentoring](https://www.youtube.com/watch?v=14CkSRnekRY) [33:33]
 - [Zach Holman - The Talk on Talks](http://devslovebacon.com/conferences/bacon-2014/talks/the-talk-on-talks)[36:26]
 - [Mike Burrows - Servant Leadership un-neutered](https://vimeo.com/191064322) [36:45]
 - [Pawel Brodzinksi - The Leadership gap](https://vimeo.com/115962902)  [37:00]
