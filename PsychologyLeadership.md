@@ -8,7 +8,6 @@
 - [Martin Seligman - Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
 - [Davy Stevenson - Orders of Magnitude](https://www.youtube.com/watch?v=_YyzLKhjpiI)  [24:55]
 - [Hannah du Plessis: Use nonviolent communication to connect with colleagues](https://vimeo.com/128634090)  [27:03]
-- [Julie Pagano - It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY) [28:22]
 - [Ernie Miller - Choices](https://www.youtube.com/watch?v=_5D0rBIEsZc)  [29:16]
 - [Aimee Knight - Getting Comfortable Being Uncomfortable ](https://www.youtube.com/watch?v=9qkef7IXn6s) [29:30]
 - [Matthew McCullough - 10 Quick Tips for More Effective Conference Submissions and Presentations](https://www.youtube.com/watch?v=fJz4JJIchaY)  [30:07]
