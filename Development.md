@@ -3,9 +3,7 @@
 ## General Development
 
 - [Gary Bernhardt - Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
-- [Paul Irish - Advanced performance tooling in Chrome DevTools](https://www.youtube.com/watch?v=0xx_dkv9DEY)  [29:40]
 - [Zach Tellman - States and Nomads: Handling Software Complexity](https://www.youtube.com/watch?v=KGaFcI2UNrI)  [29:55]
-- [Bryan Helmkamp -  Code Quality Lessons Learned](https://www.youtube.com/watch?v=vcH0RBe4Eew) [30:21]
 - [Reginald Braithwaite - First-Class Commands: An unexpectedly fertile design pattern](https://vimeo.com/157132267) [33:05]
 - [Adam Tornhill - Seven Secrets of Maintainable Codebases](https://www.youtube.com/watch?v=0oDporwhToQ) [39:17]
 - [Glenn Vanderburg - Why software development is an engineering discipline](https://www.youtube.com/watch?v=zDEpeWQHtFU)  [41:46]
@@ -86,7 +84,7 @@
 
 ## Tools
 
-- [Alex Gaynor - The cobbler's children have no shoes, or building better tools for ourselves](https://www.youtube.com/watch?v=gRFHvavxnos) [29:51]
+- [Paul Irish - Advanced performance tooling in Chrome DevTools](https://www.youtube.com/watch?v=0xx_dkv9DEY)  [29:40]
 - [Steve Smith - Knowledge is Power: Getting out of trouble by understanding Git](https://www.youtube.com/watch?v=sevc6668cQ0)  [46:50]
 - [Kenneth Geisshirt - Unleash your inner console cowboy](https://vimeo.com/144829972)  [44:27]
 - [Edward Thomson - Deep Dive into Git](https://www.youtube.com/watch?v=dBSHLb1B8sw)  [48:35]
