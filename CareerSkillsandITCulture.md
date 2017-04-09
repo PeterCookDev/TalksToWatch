@@ -1,9 +1,6 @@
 # Talks To Watch - Career Skills and IT Culture
 
-- [Lyn Muldrow - Being the only brown engineer](https://www.youtube.com/watch?v=xrOk02za8KY) [10:47]
-- [Emily Holmes - Cultivating Lean Startup Teams When People Don't Know What It Is](https://www.youtube.com/watch?v=wa27adbSvYM) [21:05]
 - [Ralph Heinkel - The value of mindfulness and how it has arrived at Google](https://www.youtube.com/watch?v=8TAJ9ytl9qE) [24:28]
-- [Adam Dangoor - Another pair of eyes: Reviewing code well](https://www.youtube.com/watch?v=JWBBI-jFVOc) [25:08]
 - [Dave Hounslow - You Are What You Eat How Branching Affects Team Culture](https://vimeo.com/162625187) [25:26]
 - [Ben Rockwood - The Power of A3 Thinking in Action](https://www.youtube.com/watch?v=WoR2CYAwfEM) [26:33]
 - [James Warren - The Startup Storyteller Using Stories to Learn](https://www.youtube.com/watch?v=C9g2K5TLPY4) [26:48]
