@@ -6,7 +6,6 @@
 - [Charles Jennings - Continuous Learning](https://www.youtube.com/watch?v=LFmPfbeDLBc)  [4:45]
 - [Larry Smith - Why you will fail to have a great career](https://www.youtube.com/watch?v=iKHTawgyKWQ)  [14:59]
 - [Martin Seligman - Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
-- [Davy Stevenson - Orders of Magnitude](https://www.youtube.com/watch?v=_YyzLKhjpiI)  [24:55]
 - [Hannah du Plessis: Use nonviolent communication to connect with colleagues](https://vimeo.com/128634090)  [27:03]
 - [Ernie Miller - Choices](https://www.youtube.com/watch?v=_5D0rBIEsZc)  [29:16]
 - [Aimee Knight - Getting Comfortable Being Uncomfortable ](https://www.youtube.com/watch?v=9qkef7IXn6s) [29:30]
