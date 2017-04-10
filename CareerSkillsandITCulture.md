@@ -18,7 +18,6 @@
 - [Rein Henrichs - Why Good Software Goes Bad](https://www.youtube.com/watch?v=JXVHvqbfsNI) [33:48]
 - [Michael Rau - Storytelling with Code](https://www.youtube.com/watch?v=B3Bu22XaKGg) [34:07]
 - [Martin Gontovnikas - How to Create Good Documentation](https://www.youtube.com/watch?v=lw9R2qMCdqk)  [34:31]
-- [Camille Fournier - Cloning Yourself Isn’t an Option](https://vimeo.com/139907569)  [34:41]
 - [Michael Hartl - Learn Enough Tutorial Writing to Be Dangerous ](https://www.youtube.com/watch?v=TpmoxsYeap0) [34:57]
 - [Duretti Hirpa - Empathy-Driven Development](https://www.youtube.com/watch?v=XZJBfMmOEjg)  [35:36]
 - [James Smith - Your Software is Broken Pay Attention](https://www.youtube.com/watch?v=F6g_Fx8qqCU) [36:50]
