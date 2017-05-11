@@ -3,7 +3,6 @@
 ## Agile Practices
 
 - [Csaba Patkos - Architecture Guided by Agile Practices](https://www.youtube.com/watch?v=2pSEgLgVAa0) [23:26]
-- [Dan North - Agile Version 2016](https://www.youtube.com/watch?v=iFLBG_bilrg) [25:55]
 - [Anna Danes Boix - Keys to managing a successful distributed team](https://www.youtube.com/watch?v=WWr8Q5uz7r8) [37:52]
 - [Jeff Sutherland - Scrum at Scale](https://www.youtube.com/watch?v=qEqrESsNWYs) [38:30]
 - [Will Evans - Heretics, High Priests, and Hagiolatry](https://vimeo.com/143053323) [40:11]
@@ -21,11 +20,8 @@
 - [Gojko Adzic - Specification By Example](https://vimeo.com/109079233)  [52:05]
 - [Chad Fowler - Experiment](https://vimeo.com/68686636)  [52:13]
 - [Håkan Forss - Retrospective on Steroids - Toyota Kata](https://www.youtube.com/watch?v=-InKsQQY9Vk)  [52:20]
-- [Rami Moula & Julian Virtue - Engaging the naysayers - how to get standing ovations at your daily scrum!](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M241)  [52:25]
 - [Claudio Perrone - A3 Thinking and Kaizen](https://vimeo.com/43185886)  [53:18]
 - [Kasia Mrowca - How to defeat feature gluttony?](https://vimeo.com/158154671) [53:29]
-- [Scott Bellware - Agile Kaizen](https://vimeo.com/97501372)  [57:01]
-- [Tudor Girba -Don't demo facts. Demo stories!](https://vimeo.com/131632605)  [57:22]
 - [Venkat Subramaniam - Pointy haired bosses and pragmatic programmers](https://www.youtube.com/watch?v=lfmKvRaNnUs)  [58:19]
 - [Gojko Adzic - Impact Mapping](https://vimeo.com/109171006)  [59:07]
 - [Oliver Gierke - Whoops! Where did my architecture go?](https://vimeo.com/112516354)  [1:01:22]
@@ -37,7 +33,6 @@
 - [Dan North - Business Mapping: Turning the lights on](https://vimeo.com/159201512) [01:09:28]
 - [David Simner - Whats next? How we use feedback to decide what to build](https://vimeo.com/159191936) [01:11:31]
 - [Jenny Martin & Pete Buckney - Continuous Collaboration & Example Driven Dev](https://vimeo.com/111407675)  [1:18:58]
-- [Karen Martin Group - Holding Effective Kaizen Events](https://vimeo.com/104680961)  [1:26:09]
 
 ## Tech Writing
 
@@ -49,12 +44,10 @@
 - [Thursday Bram - What Writing Fiction Teaches You About Writing Documentation](https://www.youtube.com/watch?v=UI9yD3_wgho) [29:53]
 - [Hannah Gilberg - Documentation with Human Connection](https://www.youtube.com/watch?v=K5eqNcjNvgU) [30:26]
 
-
 ## Testing, TDD and BDD
 
 - [Christin Wiedermann - Smarter testing through smarter testers](https://vimeo.com/144830621)  [34:57]
 - [Konstantin Kudryashov - Moving away from Legacy code with BDD](https://vimeo.com/120574455)  [36:20]
-- [Joe Colantonio - Test automation trends for 2016 and beyond: staying employable in changing times](https://vimeo.com/144992718)  [36:42]
 - [Alan Richard - Automation abstractions - Page objects and beyond](https://vimeo.com/111214646)  [38:58]
 - [Melvin Laguren - Testing Strategies for Continuous Delivery](https://www.youtube.com/watch?v=DgQWSaCQ82U)  [40:47]
 - [Gareth Bowles - I Don't Test Often ... But When I Do, I Test in Production](https://www.youtube.com/watch?v=xkP70Zhhix4&list=PLSIUOFhnxEiDFckNDSjKWqOCtd8ksJrh4&index=8)  [41:16]
