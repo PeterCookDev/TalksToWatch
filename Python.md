@@ -1,5 +1,5 @@
 # Talks To Watch - Python
-- [Jake Sethi-Reiner - How to teach Python to a ten year old ](https://www.youtube.com/watch?v=EVtFhap5U3I) [7:52]
+
 - [Renee Chu - Unit Tests, Cluster Tests: A Comparative Introduction](https://www.youtube.com/watch?v=VBIufBZiw9Y) [17:25]
 - [Liana Bakradze - Learn Python The Fun Way ](https://www.youtube.com/watch?v=_KkPcHKbE4I) [18:05]
 - [Alex Vinyals - Ingesting 35 million hotel images with python in the cloud.](https://www.youtube.com/watch?v=Rz7DsPcc34w) [21:13]
@@ -17,7 +17,6 @@
 - [Using Jupyter notebooks to develop and share interactive data displays](https://www.youtube.com/watch?v=aXR2d9k9-h4) [28:45]
 - [Chelsea Voss - Oneliner-izer: An Exercise in Constrained Coding](https://www.youtube.com/watch?v=DsUxuz_Rt8g) [28:49]
 - [Make Jupyter/IPython Notebook even more magical with cell magic extensions! ](https://www.youtube.com/watch?v=zxkdO07L29Q) [28:52]
-- [Python for Bioinformatics for learning Python](https://www.youtube.com/watch?v=uWWoRa8thN0) [28:52]
 - [Building highly decoupled systems in Python (Ryan Easterbrook) ](https://www.youtube.com/watch?v=3MEsh44XZDo) [29:31]
 - [Hunter Owens | Building Your First Data Pipelines ](https://www.youtube.com/watch?v=TYtHzvys33A) [32:07]
 - [How I built a power debugger out of the standard library and things I found on the internet ](https://www.youtube.com/watch?v=g8kF9tuYZ6s) [30:21]
@@ -35,7 +34,6 @@
 - [Micha Bultrowicz - TDD of Python microservices](https://www.youtube.com/watch?v=d-ka10jngQQ) [37:13]
 - [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo) [37:20]
 - [Mike Graham - The Life Cycle of a Python Class](https://www.youtube.com/watch?v=kZtC_4Ecq1Y) [37:25]
-- [Parisa Tabriz - Keynote](https://www.youtube.com/watch?v=kxqci2mZdrc) [37:48]
 - [Peter Wang - Keynote: Python for Pythonistas](https://www.youtube.com/watch?v=JvDKFcoTD0g) [38:04]
 - [Wesley Chun, "Python 103: Memory Model & Best Practices"](https://www.youtube.com/watch?v=SiXyyOA6RZg) [38:08]
 - [Megan Price - Keynote: Using the Python Data Science Stack to Determine](https://www.youtube.com/watch?v=sSPk19zUbJI) [38:12]
@@ -55,7 +53,7 @@
 - [David Beazley - Python Concurrency From the Ground Up: LIVE!](https://www.youtube.com/watch?v=MCs5OvhV9S4) [46:50]
 - [Exploring StackOverflow Data Evelina Gabasova ](https://www.youtube.com/watch?v=qlKZKN7il7c) [47:16]
 - [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM) [49:54]
-- [The Miracle of Generators Bodil Stokke ](https://www.youtube.com/watch?v=6mCkLZ0cwAI) [51:15]
+- [The Miracle of Generators Bodil Stokke](https://www.youtube.com/watch?v=6mCkLZ0cwAI) [51:15]
 - [Jamie Whitacre and Matthias Bussonnier, "Project Jupyter"](https://www.youtube.com/watch?v=kgSf62XNNxk) [52:06]
 - [David Eads | Sustainable scrapers ](https://www.youtube.com/watch?v=ECM-a8Y_OjY) [53:26]
 - [Building a Recommendation Engine with Machine Learning Techniques (Brian Sam-Bodden) - FSF 2016 ](https://www.youtube.com/watch?v=SRnM_P_ygqI) [55:04]
