@@ -21,7 +21,6 @@
 - [Michael Hartl - Learn Enough Tutorial Writing to Be Dangerous ](https://www.youtube.com/watch?v=TpmoxsYeap0) [34:57]
 - [Duretti Hirpa - Empathy-Driven Development](https://www.youtube.com/watch?v=XZJBfMmOEjg)  [35:36]
 - [James Smith - Your Software is Broken Pay Attention](https://www.youtube.com/watch?v=F6g_Fx8qqCU) [36:50]
-- [Shawn Rider - Work is Not a Dare: Tips for Building Inclusive Teams](https://www.youtube.com/watch?v=OdHH5KWGTNo) [37:27]
 - [Miki Rezentes - Quit Frustrating Your New Developers - Tips From a Teacher](https://www.youtube.com/watch?v=L0cYUD0-XNs) [37:37]
 - [Forrest Lehwalder Norvell - Empathy at Scale](https://www.youtube.com/watch?v=5d0y5J8rn4A) [37:44]
 - [Laura Eck - The Not So Rational Programmer](https://www.youtube.com/watch?v=E-5VhMUYmVY)  [38:09]
