@@ -2,7 +2,6 @@
 
 ## Agile Practices
 
-- [Csaba Patkos - Architecture Guided by Agile Practices](https://www.youtube.com/watch?v=2pSEgLgVAa0) [23:26]
 - [Anna Danes Boix - Keys to managing a successful distributed team](https://www.youtube.com/watch?v=WWr8Q5uz7r8) [37:52]
 - [Jeff Sutherland - Scrum at Scale](https://www.youtube.com/watch?v=qEqrESsNWYs) [38:30]
 - [Will Evans - Heretics, High Priests, and Hagiolatry](https://vimeo.com/143053323) [40:11]
