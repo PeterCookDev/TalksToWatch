@@ -36,7 +36,6 @@
 
 ## Tech Writing
 
-- [Eric Holscher - Introduction & State of the Docs ](https://www.youtube.com/watch?v=Fmfs-iYqx5Q) [20:22]
 - [Joao Fernandes - 7 Values of Effective Tech Writing Teams ](https://www.youtube.com/watch?v=ra8nHK5wDXM) [21:03]
 - [Tim McJones, Paris Buttfield-Addison - Interactive Document Environments](https://www.youtube.com/watch?v=kfqlRzDq4MA) [28:08]
 - [Move Fast and Document Things: Writing internal docs at fast-moving organizations](https://www.youtube.com/watch?v=INpqcITkXcI) [29:28]
