@@ -49,4 +49,3 @@
 - [Sven Peters - Coding Culture](https://vimeo.com/138873440) [01:03:29]
 - [Phil Nash - Seeking Simplicity](https://vimeo.com/157716613) [01:04:59]
 - [Jules May - Team Building ](https://www.youtube.com/watch?v=_Bnm9QWWRlA) [1:27:34]
-- [Greg Wilson - Evidence Based Teaching What We Know and How to Use It](https://www.youtube.com/watch?v=kmVKGxPlTvc) [2:43:58]
