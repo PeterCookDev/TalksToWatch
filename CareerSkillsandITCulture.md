@@ -15,19 +15,24 @@
 - [James Mickens - Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors That Are Beyond My Control....](https://vimeo.com/180568023) [32:12]
 - [Roux Buciu - Learning to code... better!](https://www.youtube.com/watch?v=jt93AfS9GYI) [32:27]
 - [Andr Arko - Including People](https://www.youtube.com/watch?v=MrPtHogES6k) [33:19]
+- [Paulette Luftig - Finding your edge through a culture of feedback](https://www.youtube.com/watch?v=EkLdO-SphxA) [33:28]
 - [Rein Henrichs - Why Good Software Goes Bad](https://www.youtube.com/watch?v=JXVHvqbfsNI) [33:48]
 - [Michael Rau - Storytelling with Code](https://www.youtube.com/watch?v=B3Bu22XaKGg) [34:07]
 - [Martin Gontovnikas - How to Create Good Documentation](https://www.youtube.com/watch?v=lw9R2qMCdqk)  [34:31]
 - [Michael Hartl - Learn Enough Tutorial Writing to Be Dangerous ](https://www.youtube.com/watch?v=TpmoxsYeap0) [34:57]
+- [Sarah Allen - Communication is a Technical Skill](https://www.youtube.com/watch?v=coye0AllVuY) [35:17]
 - [Duretti Hirpa - Empathy-Driven Development](https://www.youtube.com/watch?v=XZJBfMmOEjg)  [35:36]
 - [James Smith - Your Software is Broken Pay Attention](https://www.youtube.com/watch?v=F6g_Fx8qqCU) [36:50]
 - [Miki Rezentes - Quit Frustrating Your New Developers - Tips From a Teacher](https://www.youtube.com/watch?v=L0cYUD0-XNs) [37:37]
 - [Forrest Lehwalder Norvell - Empathy at Scale](https://www.youtube.com/watch?v=5d0y5J8rn4A) [37:44]
+- [Katlyn Parvin - Am I Senior Yet? Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [37:57]
 - [Laura Eck - The Not So Rational Programmer](https://www.youtube.com/watch?v=E-5VhMUYmVY)  [38:09]
 - [Pete Smith - The myth of the qualified developer](https://vimeo.com/190917544) [40:29]
 - [Luis Ferreira - Continuous Learning, Teaching and...](https://www.youtube.com/watch?v=5r5pBg9RMdM) [40:52]
 - [Kronda Adair - Expanding your empathy](https://www.youtube.com/watch?v=SsRlx9p3TBM) [40:59]
+- [Kimberly D. Barnes & Kinsey Ann Durham - Becoming a Mid... ](https://www.youtube.com/watch?v=i_RisLTNZEY) [40:59]
 - [Teresa Martyny - From Director to Intern: Changing Careers as a Single Mom](https://www.youtube.com/watch?v=hZLz9p58ZqU) [42:16]
+- [Katherine Wu - Continuing Education at Work](https://www.youtube.com/watch?v=9uRho69xSAI) [42:56]
 - [Birgitta Bckeler - Born for IT? - How the Image of Software Developers came about](https://www.youtube.com/watch?v=wk1r4XaWwsM) [44:08]
 - [Dougal Matthews - Effective Code Review](https://www.youtube.com/watch?v=uIwl01Nazdg) [44:18]
 - [Sean O'Connor - From Developer to Manager](https://www.youtube.com/watch?v=lzBm0r8CxhY) [46:50]
@@ -49,3 +54,7 @@
 - [Sven Peters - Coding Culture](https://vimeo.com/138873440) [01:03:29]
 - [Phil Nash - Seeking Simplicity](https://vimeo.com/157716613) [01:04:59]
 - [Jules May - Team Building ](https://www.youtube.com/watch?v=_Bnm9QWWRlA) [1:27:34]
+
+
+
+
