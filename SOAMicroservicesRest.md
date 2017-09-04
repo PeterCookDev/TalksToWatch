@@ -1,6 +1,8 @@
 # Talks To Watch - Microservices, SOA, CQRS and Web API
 
+- [Sidney Shek - Event Sourcing and CQRS from the Trenches](https://www.youtube.com/watch?v=d1zFoFlIneo) [26:26]
 - [Martin Fowler - Event Sourcing](https://www.youtube.com/watch?v=aweV9FLTZkU) [28:06]
+- [Martin Fowler - Microservices](https://www.youtube.com/watch?v=Irlw-LGIJO4) [28:45]
 - [Rachel Myers - Stop Building Services, Episode 1: The Phantom Menace](https://www.youtube.com/watch?v=qiC9OAculcc) [39:24]
 - [Sam Newman - Securing Microservices](https://vimeo.com/144796652)  [39:51]
 - [Florian Weingarten - How to stay alive even when others go down:...](https://www.youtube.com/watch?v=mTIO9fj1UIc) [41:38]
