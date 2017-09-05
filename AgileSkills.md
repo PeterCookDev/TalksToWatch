@@ -25,6 +25,7 @@
 - [Gojko Adzic - Impact Mapping](https://vimeo.com/109171006)  [59:07]
 - [Oliver Gierke - Whoops! Where did my architecture go?](https://vimeo.com/112516354)  [1:01:22]
 - [Sebastien Arbogast - Lean Startup for Developers](https://www.youtube.com/watch?v=gLHn8SXPTYg)  [1:01:26]
+- [Rebecca Wirfs-Brock - Why We Need Architects (and Architecture) on Agile Projects](https://vimeo.com/129382493) [1:01:45]
 - [Bob Marshall - Seven Ways to Improve Your Software Development Flow](https://vimeo.com/113216169)  [1:02:32]
 - [Nathan Gloyn - You keep using the word agile, I do not think it means what you think it means](https://vimeo.com/158164783) [01:02:55]
 - [Louise Elliott - Agile Lessons from the World of Roller Derby](https://vimeo.com/159506024) [01:03:26]
@@ -33,9 +34,11 @@
 - [David Simner - Whats next? How we use feedback to decide what to build](https://vimeo.com/159191936) [01:11:31]
 - [Jenny Martin & Pete Buckney - Continuous Collaboration & Example Driven Dev](https://vimeo.com/111407675)  [1:18:58]
 
+
 ## Tech Writing
 
 - [Joao Fernandes - 7 Values of Effective Tech Writing Teams ](https://www.youtube.com/watch?v=ra8nHK5wDXM) [21:03]
+- [A. Jesse Jiryu Davis - Write an Excellent Programming Blog](https://www.youtube.com/watch?v=eHXq-IzlGUE) [26:53]
 - [Move Fast and Document Things: Writing internal docs at fast-moving organizations](https://www.youtube.com/watch?v=INpqcITkXcI) [29:28]
 - [Thursday Bram - What Writing Fiction Teaches You About Writing Documentation](https://www.youtube.com/watch?v=UI9yD3_wgho) [29:53]
 - [Hannah Gilberg - Documentation with Human Connection](https://www.youtube.com/watch?v=K5eqNcjNvgU) [30:26]
