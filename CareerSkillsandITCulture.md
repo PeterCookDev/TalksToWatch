@@ -35,6 +35,7 @@
 - [Birgitta Bckeler - Born for IT? - How the Image of Software Developers came about](https://www.youtube.com/watch?v=wk1r4XaWwsM) [44:08]
 - [Dougal Matthews - Effective Code Review](https://www.youtube.com/watch?v=uIwl01Nazdg) [44:18]
 - [Sean O'Connor - From Developer to Manager](https://www.youtube.com/watch?v=lzBm0r8CxhY) [46:50]
+- [Doc Norton - Technical Debt Trap](https://www.youtube.com/watch?v=xEqRtIeD51k) [47:33]
 - [Ben Orenstein - How to Talk to Developers](https://www.youtube.com/watch?v=l9JXH7JPjR4)  [47:37]
 - [Jeff Casimir - Why Developers Quit](https://www.youtube.com/watch?v=JgEgtKKAabg)  [48:50]
 - [Dan Allen - 7 Ways to Hack Your Brain to Write Fluently](https://www.youtube.com/watch?v=r6RXRi5pBXg)  [49:15]
@@ -48,10 +49,12 @@
 - [Mahesh Krishnan - Soft Skills for the Developer](https://vimeo.com/188694272) [55:55]
 - [Matthew Renze - Clean Code: A Reader-Centered Approach](https://vimeo.com/157710445) [56:35]
 - [Geoffrey Grosenbach - Technical Explanations](https://www.youtube.com/watch?v=FpnLCkhv-1g)  [56:54]
+- [Mark Rendle - This Is My 10-Year-Plan. What's yours?](https://vimeo.com/207272498) [57:02]
 - [Austin Bingham - Making the Case for Reviews](https://vimeo.com/105879807) [01:00:16]
 - [Lauren Scott - Shall I Compare Thee to a Line of Code? - Lauren Scott](https://vimeo.com/161591675) [01:01:28]
 - [Sven Peters - Coding Culture](https://vimeo.com/138873440) [01:03:29]
 - [Phil Nash - Seeking Simplicity](https://vimeo.com/157716613) [01:04:59]
+- [Edmond Lau - The Effective Engineer: The Power of Leverage](https://www.youtube.com/watch?v=SclqaNqqAV0) [1:12:52]
 - [Jules May - Team Building ](https://www.youtube.com/watch?v=_Bnm9QWWRlA) [1:27:34]
 
 
