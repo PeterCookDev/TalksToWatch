@@ -26,6 +26,7 @@
 - [Matt Stauffer - Empathy Gives You Superpowers](https://www.youtube.com/watch?v=fMFjO2szDnk) [51:13]
 - [Jurgen Appelo - Managing for Happiness](https://vimeo.com/190990853) [51:59]
 - [Alicia Juarero - Keynote : Think Safe-fail to thrive under conditions of uncertainty](https://vimeo.com/143055623)  [52:39]
+- [Mariusz Sieraczkiewicz - Technical leadership  from an expert to a leader](https://www.youtube.com/watch?v=8VRAoGCYW3c) [52:56]
 - [Arjan van der Gaag  - Debugging facades: dealing with imposter syndrome as a developer](https://www.youtube.com/watch?v=wKz7mOZ4P-A) [53:22]
 - [Steve Clayton - The secret to telling awesome stories – from Microsoft's Chief Storyteller](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M112)  [1:02:03]
 - [Ted Neward - Psychology, Philosophy & Programming](https://www.youtube.com/watch?v=XShcmCBK93E) [1:02:30]
