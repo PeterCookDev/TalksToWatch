@@ -46,7 +46,6 @@
 - [Mahesh Krishnan - Soft Skills for the Developer](https://vimeo.com/188694272) [55:55]
 - [Matthew Renze - Clean Code: A Reader-Centered Approach](https://vimeo.com/157710445) [56:35]
 - [Geoffrey Grosenbach - Technical Explanations](https://www.youtube.com/watch?v=FpnLCkhv-1g)  [56:54]
-- [Mark Rendle - This Is My 10-Year-Plan. What's yours?](https://vimeo.com/207272498) [57:02]
 - [Austin Bingham - Making the Case for Reviews](https://vimeo.com/105879807) [01:00:16]
 - [Lauren Scott - Shall I Compare Thee to a Line of Code? - Lauren Scott](https://vimeo.com/161591675) [01:01:28]
 - [Sven Peters - Coding Culture](https://vimeo.com/138873440) [01:03:29]
