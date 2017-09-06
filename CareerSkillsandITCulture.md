@@ -14,7 +14,6 @@
 - [Paulette Luftig - Finding your edge through a culture of feedback](https://www.youtube.com/watch?v=EkLdO-SphxA) [33:28]
 - [Rein Henrichs - Why Good Software Goes Bad](https://www.youtube.com/watch?v=JXVHvqbfsNI) [33:48]
 - [Michael Rau - Storytelling with Code](https://www.youtube.com/watch?v=B3Bu22XaKGg) [34:07]
-- [Martin Gontovnikas - How to Create Good Documentation](https://www.youtube.com/watch?v=lw9R2qMCdqk)  [34:31]
 - [Michael Hartl - Learn Enough Tutorial Writing to Be Dangerous ](https://www.youtube.com/watch?v=TpmoxsYeap0) [34:57]
 - [Sarah Allen - Communication is a Technical Skill](https://www.youtube.com/watch?v=coye0AllVuY) [35:17]
 - [Andrey Grave - Growing Teams: Notes of an Amateur Team Gardener](https://www.youtube.com/watch?v=6jm_SGdbIF4) [35:33]
