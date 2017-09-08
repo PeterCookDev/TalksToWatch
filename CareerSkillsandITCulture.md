@@ -7,7 +7,6 @@
 - [Deb Nicholson -Say No, Like a Boss! ](https://www.youtube.com/watch?v=zMn70y4kLnM) [28:50]
 - [Tony Wieczorek - 5 Practical Ways to Advocate for Diversity](https://www.youtube.com/watch?v=zi335PDgL7A) [29:46]
 - [Matthew McCullough - Conference Submissions and Presentations made more effective with 10 quick tips](https://www.youtube.com/watch?v=fJz4JJIchaY) [30:08]
-- [Josh Simmons - Fail Early, Fail Often, Fail Well](https://www.youtube.com/watch?v=4Xu9zHiGOEc) [31:03]
 - [Lillie Chilen - Internships: Good for the Intern, Great for the Team](https://www.youtube.com/watch?v=75LK0MOvyjQ) [31:06]
 - [Jason Hand - Understanding Cognitive Bias Found In Judgement & Choice](https://www.youtube.com/watch?v=tnFw-0hpa5A) [31:20]
 - [James Mickens - Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors That Are Beyond My Control....](https://vimeo.com/180568023) [32:12]
