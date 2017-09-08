@@ -4,6 +4,7 @@
 - [Dave Hounslow - You Are What You Eat How Branching Affects Team Culture](https://vimeo.com/162625187) [25:26]
 - [Pieter Hintjens - How Conway's Law is eating your job?](https://www.youtube.com/watch?v=7HECD3eLoVo) [26:58]
 - [Andreas Fast - Excellence Through Diversity](https://www.youtube.com/watch?v=_mwcreHuqNA) [28:17]
+- [Deb Nicholson -Say No, Like a Boss! ](https://www.youtube.com/watch?v=zMn70y4kLnM) [28:50]
 - [Tony Wieczorek - 5 Practical Ways to Advocate for Diversity](https://www.youtube.com/watch?v=zi335PDgL7A) [29:46]
 - [Matthew McCullough - Conference Submissions and Presentations made more effective with 10 quick tips](https://www.youtube.com/watch?v=fJz4JJIchaY) [30:08]
 - [Josh Simmons - Fail Early, Fail Often, Fail Well](https://www.youtube.com/watch?v=4Xu9zHiGOEc) [31:03]
