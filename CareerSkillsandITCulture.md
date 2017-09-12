@@ -12,7 +12,6 @@
 - [Andr Arko - Including People](https://www.youtube.com/watch?v=MrPtHogES6k) [33:19]
 - [Rein Henrichs - Why Good Software Goes Bad](https://www.youtube.com/watch?v=JXVHvqbfsNI) [33:48]
 - [Michael Rau - Storytelling with Code](https://www.youtube.com/watch?v=B3Bu22XaKGg) [34:07]
-- [Michael Hartl - Learn Enough Tutorial Writing to Be Dangerous ](https://www.youtube.com/watch?v=TpmoxsYeap0) [34:57]
 - [Sarah Allen - Communication is a Technical Skill](https://www.youtube.com/watch?v=coye0AllVuY) [35:17]
 - [Andrey Grave - Growing Teams: Notes of an Amateur Team Gardener](https://www.youtube.com/watch?v=6jm_SGdbIF4) [35:33]
 - [Duretti Hirpa - Empathy-Driven Development](https://www.youtube.com/watch?v=XZJBfMmOEjg)  [35:36]
