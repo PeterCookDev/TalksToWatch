@@ -11,7 +11,6 @@
 - [James Mickens - Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors That Are Beyond My Control....](https://vimeo.com/180568023) [32:12]
 - [Andr Arko - Including People](https://www.youtube.com/watch?v=MrPtHogES6k) [33:19]
 - [Rein Henrichs - Why Good Software Goes Bad](https://www.youtube.com/watch?v=JXVHvqbfsNI) [33:48]
-- [Michael Rau - Storytelling with Code](https://www.youtube.com/watch?v=B3Bu22XaKGg) [34:07]
 - [Sarah Allen - Communication is a Technical Skill](https://www.youtube.com/watch?v=coye0AllVuY) [35:17]
 - [Andrey Grave - Growing Teams: Notes of an Amateur Team Gardener](https://www.youtube.com/watch?v=6jm_SGdbIF4) [35:33]
 - [Duretti Hirpa - Empathy-Driven Development](https://www.youtube.com/watch?v=XZJBfMmOEjg)  [35:36]
