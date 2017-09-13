@@ -16,7 +16,6 @@
 - [Doc Norton - The Technical Debt Trap](https://vimeo.com/181527148) [53:14]
 - [Orion Edwards - Great Artists Steal: Build better software by applying patterns and ideas from different languages](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M314) [56:09]
 - [Mircea Zetea - Managing technical debt](https://www.youtube.com/watch?v=58yuMI6K6BE) [59:58]
-- [Jim Holmes - "OMG! This Codebase Sucks!" Paying Down Tech Debt While Delivering Value](https://www.youtube.com/watch?v=InCmGFSA3JM) [1:00:21]
 - [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](https://vimeo.com/68390510)  [1:00:33]
 - [Simon Brown - Software architecture as code](https://www.youtube.com/watch?v=oDpdaXt0HQI)  [1:01:13]
 - [Jeremy D Miller - The Joys and Pains of a Long Lived Codebase](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller)  [1:02:30]

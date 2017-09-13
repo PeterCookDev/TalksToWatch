@@ -29,7 +29,6 @@
 - [Birgitta Bckeler - Born for IT? - How the Image of Software Developers came about](https://www.youtube.com/watch?v=wk1r4XaWwsM) [44:08]
 - [Dougal Matthews - Effective Code Review](https://www.youtube.com/watch?v=uIwl01Nazdg) [44:18]
 - [Sean O'Connor - From Developer to Manager](https://www.youtube.com/watch?v=lzBm0r8CxhY) [46:50]
-- [Doc Norton - Technical Debt Trap](https://www.youtube.com/watch?v=xEqRtIeD51k) [47:33]
 - [Ben Orenstein - How to Talk to Developers](https://www.youtube.com/watch?v=l9JXH7JPjR4)  [47:37]
 - [Jeff Casimir - Why Developers Quit](https://www.youtube.com/watch?v=JgEgtKKAabg)  [48:50]
 - [Sarah Johnson, Bob Paulin & Tim Steele - Growing Up Geek ](https://www.youtube.com/watch?v=GLU3ARt4GIY) [49:39]
