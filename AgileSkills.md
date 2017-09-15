@@ -34,11 +34,6 @@
 - [David Simner - Whats next? How we use feedback to decide what to build](https://vimeo.com/159191936) [01:11:31]
 - [Jenny Martin & Pete Buckney - Continuous Collaboration & Example Driven Dev](https://vimeo.com/111407675)  [1:18:58]
 
-
-## Tech Writing
-
-- [Joao Fernandes - 7 Values of Effective Tech Writing Teams ](https://www.youtube.com/watch?v=ra8nHK5wDXM) [21:03]
-
 ## Testing, TDD and BDD
 
 - [Christin Wiedermann - Smarter testing through smarter testers](https://vimeo.com/144830621)  [34:57]
