@@ -38,7 +38,6 @@
 ## Tech Writing
 
 - [Joao Fernandes - 7 Values of Effective Tech Writing Teams ](https://www.youtube.com/watch?v=ra8nHK5wDXM) [21:03]
-- [Thursday Bram - What Writing Fiction Teaches You About Writing Documentation](https://www.youtube.com/watch?v=UI9yD3_wgho) [29:53]
 
 ## Testing, TDD and BDD
 
