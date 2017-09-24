@@ -18,7 +18,6 @@
 - [Katlyn Parvin - Am I Senior Yet? Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [37:57]
 - [Laura Eck - The Not So Rational Programmer](https://www.youtube.com/watch?v=E-5VhMUYmVY)  [38:09]
 - [Pete Smith - The myth of the qualified developer](https://vimeo.com/190917544) [40:29]
-- [Luis Ferreira - Continuous Learning, Teaching and...](https://www.youtube.com/watch?v=5r5pBg9RMdM) [40:52]
 - [Kronda Adair - Expanding your empathy](https://www.youtube.com/watch?v=SsRlx9p3TBM) [40:59]
 - [Kimberly D. Barnes & Kinsey Ann Durham - Becoming a Mid... ](https://www.youtube.com/watch?v=i_RisLTNZEY) [40:59]
 - [Edmond Lau - How to Identify Efforts that Make a Big Impact When Building Software Products](https://www.youtube.com/watch?v=NZA6TkCP3yo) [41:16]
