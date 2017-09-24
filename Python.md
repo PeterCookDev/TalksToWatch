@@ -58,9 +58,10 @@
 
 ## Web Development
 
+- [Miguel Grinberg - Flask Workshop](https://www.youtube.com/watch?v=DIcpEg77gdE) [3:03:38]
 - [Thomas Ballinger, Rose Ames - Web programming from the beginning](https://www.youtube.com/watch?v=a77fm3qdyj8) [3:16:58]
 - [Miguel Grinberg - Microservices with Python and Flask](https://www.youtube.com/watch?v=nrzLdMWTRMM) [3:19:01]
-
+- [Miguel Grinberg - Flask By Example](https://www.youtube.com/watch?v=FGrIyBDQLPg) [3:40:28]
 ## Data
 
 - [Alex Vinyals - Ingesting 35 million hotel images with python in the cloud.](https://www.youtube.com/watch?v=Rz7DsPcc34w) [21:13]
