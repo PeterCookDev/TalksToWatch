@@ -9,8 +9,10 @@
 - [Nina Zakharenko - Memory Management in Python - The Basics](https://www.youtube.com/watch?v=F6u5rhUQ6dU) [27:01]
 - [Andrew Wolfe - Static Code Analysis with Python](https://www.youtube.com/watch?v=mfXIJ-Fu5Fw) [27:03]
 - [Andrey Petrov - See Python, See Python Go, Go Python Go](https://www.youtube.com/watch?v=CkDwb5koRTc) [27:16]
+- [Amjith Ramanujam - Awesome Command Line Tools](https://www.youtube.com/watch?v=hJhZhLg3obk) [28:41]
 - [Chelsea Voss - Oneliner-izer: An Exercise in Constrained Coding](https://www.youtube.com/watch?v=DsUxuz_Rt8g) [28:49]
 - [Building highly decoupled systems in Python (Ryan Easterbrook) ](https://www.youtube.com/watch?v=3MEsh44XZDo) [29:31]
+- [Mario Corchero - It's time for datetime](https://www.youtube.com/watch?v=2BRdKf6WYIQ) [29:37]
 - [How I built a power debugger out of the standard library and things I found on the internet ](https://www.youtube.com/watch?v=g8kF9tuYZ6s) [30:21]
 - [Python on Windows](https://www.youtube.com/watch?v=ItVmOZll4Pg) [30:45]
 - [Doing Math with Python](https://www.youtube.com/watch?v=XJOt4QQgx0A) [32:08]
@@ -20,6 +22,7 @@
 - [Pragmatic Unicode](http://nedbatchelder.com/text/unipain.html)  [36:20]
 - [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo) [37:20]
 - [Mike Graham - The Life Cycle of a Python Class](https://www.youtube.com/watch?v=kZtC_4Ecq1Y) [37:25]
+- [Raymond Hettinger - Modern Python Dictionaries - A confluence of a dozen great ideas](https://www.youtube.com/watch?v=npw4s1QTmPg) [37:37]
 - [Peter Wang - Keynote: Python for Pythonistas](https://www.youtube.com/watch?v=JvDKFcoTD0g) [38:04]
 - [Wesley Chun, "Python 103: Memory Model & Best Practices"](https://www.youtube.com/watch?v=SiXyyOA6RZg) [38:08]
 - [Elana Hashman - Teaching Python: The Hard Parts](https://www.youtube.com/watch?v=CjYEpVNbM-s) [38:29]
@@ -49,8 +52,14 @@
 - [Andrew Burrows - Testing the untestable: a beginners guide to mock objects](https://www.youtube.com/watch?v=jsjParCB7BU) [25:00]
 - [Ana Balica - To mock, or not to mock, that is the question](https://www.youtube.com/watch?v=KYG5C1CEkOk) [28:38]
 - [Micha Bultrowicz - TDD of Python microservices](https://www.youtube.com/watch?v=d-ka10jngQQ) [37:13]
+- [Testing in Python - Austin Bingham](https://vimeo.com/208800416) [59:14]
 - [Harry Percival - Outside-In TDD](https://www.youtube.com/watch?v=6zQAu23bKF8) [1:47:00]
 - [Michael Tom-Wing, Christie Wilson - Introduction to Unit Testing in Python with Pytest](https://www.youtube.com/watch?v=UPanUFVFfzY) [2:31:47]
+
+## Web Development
+
+- [Thomas Ballinger, Rose Ames - Web programming from the beginning](https://www.youtube.com/watch?v=a77fm3qdyj8) [3:16:58]
+- [Miguel Grinberg - Microservices with Python and Flask](https://www.youtube.com/watch?v=nrzLdMWTRMM) [3:19:01]
 
 ## Data
 
@@ -74,4 +83,5 @@
 - [Tracy Teal - Data Carpentry: An Introduction to Python for Data Analysis and Visualization ](https://www.youtube.com/watch?v=Ws34Ho-1aDs) [2:54:16]
 - [Making an Impact with Python Natural Language Processing Tools](https://www.youtube.com/watch?v=jSdkFSg9oW8) [2:54:35]
 - [Sarah Guido - Hands-on Data Analysis with Python](https://www.youtube.com/watch?v=L4Hbv4ugUWk) [2:54:58]
+- [Fantastic Data and Where To Find Them: An introduction to APIs, RSS, and Scraping](https://www.youtube.com/watch?v=A42voDYkFZw) [3:20:417]
 - [PyData 101: Essential data science skills for every programmer, from data to model to visualization ](https://www.youtube.com/watch?v=rudYHNAGbdk) [3:23:20]
