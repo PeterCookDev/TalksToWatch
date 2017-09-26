@@ -2,7 +2,6 @@
 
 ## General
 
-- [Liana Bakradze - Learn Python The Fun Way ](https://www.youtube.com/watch?v=_KkPcHKbE4I) [18:05]
 - [Anjana Vakil - Exploring Python Bytecode](https://www.youtube.com/watch?v=GNPKBICTF2w) [22:37]
 - [Adrian Dziubek - Python Descriptors for Better Data Structures ](https://www.youtube.com/watch?v=ZbmPBey_6kk) [24:25]
 - [Jason Fried - Rules for radicals: changing the culture of python at Facebook](https://www.youtube.com/watch?v=hFONj6r3aB8) [26:12]
@@ -62,6 +61,7 @@
 - [Thomas Ballinger, Rose Ames - Web programming from the beginning](https://www.youtube.com/watch?v=a77fm3qdyj8) [3:16:58]
 - [Miguel Grinberg - Microservices with Python and Flask](https://www.youtube.com/watch?v=nrzLdMWTRMM) [3:19:01]
 - [Miguel Grinberg - Flask By Example](https://www.youtube.com/watch?v=FGrIyBDQLPg) [3:40:28]
+
 ## Data
 
 - [Alex Vinyals - Ingesting 35 million hotel images with python in the cloud.](https://www.youtube.com/watch?v=Rz7DsPcc34w) [21:13]
