@@ -13,7 +13,6 @@
 - [Building highly decoupled systems in Python (Ryan Easterbrook) ](https://www.youtube.com/watch?v=3MEsh44XZDo) [29:31]
 - [Mario Corchero - It's time for datetime](https://www.youtube.com/watch?v=2BRdKf6WYIQ) [29:37]
 - [How I built a power debugger out of the standard library and things I found on the internet ](https://www.youtube.com/watch?v=g8kF9tuYZ6s) [30:21]
-- [Python on Windows](https://www.youtube.com/watch?v=ItVmOZll4Pg) [30:45]
 - [Doing Math with Python](https://www.youtube.com/watch?v=XJOt4QQgx0A) [32:08]
 - [Marko Samastur - Publish your code so others can use it in 5 easy steps](https://www.youtube.com/watch?v=Ksiim1Crvvc) [32:32]
 - [Teaching Python: Ten+ Years of Successes, Trials and Tribulations](https://www.youtube.com/watch?v=7oIwVjEVn0c) [32:45]
