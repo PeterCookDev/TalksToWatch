@@ -57,6 +57,7 @@
 ## Web Development
 
 - [Miguel Grinberg - Flask Workshop](https://www.youtube.com/watch?v=DIcpEg77gdE) [3:03:38]
+- [Jacob Kaplan Moss - Let's build a web framework!](https://www.youtube.com/watch?v=7kwnjoAJ2HQ) [3:14:28]
 - [Miguel Grinberg - Microservices with Python and Flask](https://www.youtube.com/watch?v=nrzLdMWTRMM) [3:19:01]
 - [Miguel Grinberg - Flask By Example](https://www.youtube.com/watch?v=FGrIyBDQLPg) [3:40:28]
 
