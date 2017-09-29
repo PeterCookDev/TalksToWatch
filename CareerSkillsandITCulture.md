@@ -13,7 +13,6 @@
 - [Rein Henrichs - Why Good Software Goes Bad](https://www.youtube.com/watch?v=JXVHvqbfsNI) [33:48]
 - [Duretti Hirpa - Empathy-Driven Development](https://www.youtube.com/watch?v=XZJBfMmOEjg)  [35:36]
 - [James Smith - Your Software is Broken Pay Attention](https://www.youtube.com/watch?v=F6g_Fx8qqCU) [36:50]
-- [Miki Rezentes - Quit Frustrating Your New Developers - Tips From a Teacher](https://www.youtube.com/watch?v=L0cYUD0-XNs) [37:37]
 - [Forrest Lehwalder Norvell - Empathy at Scale](https://www.youtube.com/watch?v=5d0y5J8rn4A) [37:44]
 - [Katlyn Parvin - Am I Senior Yet? Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [37:57]
 - [Laura Eck - The Not So Rational Programmer](https://www.youtube.com/watch?v=E-5VhMUYmVY)  [38:09]
