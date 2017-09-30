@@ -5,7 +5,6 @@
 - [Anjana Vakil - Exploring Python Bytecode](https://www.youtube.com/watch?v=GNPKBICTF2w) [22:37]
 - [Adrian Dziubek - Python Descriptors for Better Data Structures ](https://www.youtube.com/watch?v=ZbmPBey_6kk) [24:25]
 - [Jason Fried - Rules for radicals: changing the culture of python at Facebook](https://www.youtube.com/watch?v=hFONj6r3aB8) [26:12]
-- [Nina Zakharenko - Memory Management in Python - The Basics](https://www.youtube.com/watch?v=F6u5rhUQ6dU) [27:01]
 - [Andrew Wolfe - Static Code Analysis with Python](https://www.youtube.com/watch?v=mfXIJ-Fu5Fw) [27:03]
 - [Amjith Ramanujam - Awesome Command Line Tools](https://www.youtube.com/watch?v=hJhZhLg3obk) [28:41]
 - [Chelsea Voss - Oneliner-izer: An Exercise in Constrained Coding](https://www.youtube.com/watch?v=DsUxuz_Rt8g) [28:49]
