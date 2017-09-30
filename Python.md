@@ -7,7 +7,6 @@
 - [Jason Fried - Rules for radicals: changing the culture of python at Facebook](https://www.youtube.com/watch?v=hFONj6r3aB8) [26:12]
 - [Nina Zakharenko - Memory Management in Python - The Basics](https://www.youtube.com/watch?v=F6u5rhUQ6dU) [27:01]
 - [Andrew Wolfe - Static Code Analysis with Python](https://www.youtube.com/watch?v=mfXIJ-Fu5Fw) [27:03]
-- [Andrey Petrov - See Python, See Python Go, Go Python Go](https://www.youtube.com/watch?v=CkDwb5koRTc) [27:16]
 - [Amjith Ramanujam - Awesome Command Line Tools](https://www.youtube.com/watch?v=hJhZhLg3obk) [28:41]
 - [Chelsea Voss - Oneliner-izer: An Exercise in Constrained Coding](https://www.youtube.com/watch?v=DsUxuz_Rt8g) [28:49]
 - [Building highly decoupled systems in Python (Ryan Easterbrook) ](https://www.youtube.com/watch?v=3MEsh44XZDo) [29:31]
