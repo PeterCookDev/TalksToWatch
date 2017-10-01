@@ -6,7 +6,6 @@
 - [Adrian Dziubek - Python Descriptors for Better Data Structures ](https://www.youtube.com/watch?v=ZbmPBey_6kk) [24:25]
 - [Jason Fried - Rules for radicals: changing the culture of python at Facebook](https://www.youtube.com/watch?v=hFONj6r3aB8) [26:12]
 - [Andrew Wolfe - Static Code Analysis with Python](https://www.youtube.com/watch?v=mfXIJ-Fu5Fw) [27:03]
-- [Amjith Ramanujam - Awesome Command Line Tools](https://www.youtube.com/watch?v=hJhZhLg3obk) [28:41]
 - [Chelsea Voss - Oneliner-izer: An Exercise in Constrained Coding](https://www.youtube.com/watch?v=DsUxuz_Rt8g) [28:49]
 - [Building highly decoupled systems in Python (Ryan Easterbrook) ](https://www.youtube.com/watch?v=3MEsh44XZDo) [29:31]
 - [Mario Corchero - It's time for datetime](https://www.youtube.com/watch?v=2BRdKf6WYIQ) [29:37]
