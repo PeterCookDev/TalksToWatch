@@ -37,13 +37,16 @@
 ## Domain Driven Design
 
 - [Tomas Karlsson - Domain-Driven Design and Agile](https://vimeo.com/37602490)  [45:36]
-- [Dan Bergh Johnsson - The Power of Value - Power Use of Value Objects in Domain Driven Design](The Power of Value - Power Use of Value Objects in Domain Driven Design - Dan Bergh Johnsson)  [51:44]
+- [Eric Evans - DDD & Microservices: At Last, Some Boundaries! ](https://www.youtube.com/watch?v=yPvef9R3k-M) [49:17]
+- [Dan Bergh Johnsson - The Power of Value - Power Use of Value Objects in Domain Driven Design](https://vimeo.com/13549100)  [51:44]
 - [Einar Landre - Use of Domain Driven Design in Enterprise Application Development](https://vimeo.com/12971233)  [52:42]
 - [Eric Evans - Strategic Design](https://vimeo.com/12674642)  [58:12]
 - [Jimmy Bogard - Domain-Driven Design: The Good Parts](https://vimeo.com/200271482) [58:46]
 - [Eric Evans - Domain Driven Design](https://www.youtube.com/watch?v=7MaYeudL9yo)  [1:14:37]
 - [Per Rovegard Ph.D - Real Experiences and Architectural Domain-Driven Design Patterns Applied on Microsoft .NET Developme](https://www.youtube.com/watch?v=QQdRRltJk2g)  [1:16:26]
 - [Vaugh Vernon - Effective Aggregate Design Part II](https://vimeo.com/33708293)  [1:22:59]
+- [Rob Smallshire - Deliver domain driven designs dynamically](https://www.youtube.com/watch?v=p7PHOFRtI04) [1:26:24]
+- [Dino Esposito - DDD misconceptions](https://www.youtube.com/watch?v=tbv1uJ7BW4c) [1:37:24]
 
 ## Functional Programming and `F#`
 
