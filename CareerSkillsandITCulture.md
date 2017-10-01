@@ -14,7 +14,6 @@
 - [Duretti Hirpa - Empathy-Driven Development](https://www.youtube.com/watch?v=XZJBfMmOEjg)  [35:36]
 - [Forrest Lehwalder Norvell - Empathy at Scale](https://www.youtube.com/watch?v=5d0y5J8rn4A) [37:44]
 - [Katlyn Parvin - Am I Senior Yet? Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [37:57]
-- [Laura Eck - The Not So Rational Programmer](https://www.youtube.com/watch?v=E-5VhMUYmVY)  [38:09]
 - [Pete Smith - The myth of the qualified developer](https://vimeo.com/190917544) [40:29]
 - [Kronda Adair - Expanding your empathy](https://www.youtube.com/watch?v=SsRlx9p3TBM) [40:59]
 - [Kimberly D. Barnes & Kinsey Ann Durham - Becoming a Mid... ](https://www.youtube.com/watch?v=i_RisLTNZEY) [40:59]
