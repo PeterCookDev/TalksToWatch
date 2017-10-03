@@ -1,13 +1,11 @@
 # Talks To Watch - Career Skills and IT Culture
 
-- [Ralph Heinkel - The value of mindfulness and how it has arrived at Google](https://www.youtube.com/watch?v=8TAJ9ytl9qE) [24:28]
+- [Dominika Rogala - Things You Wish You Shared With Your Team Before They Agreed on That Deadline](https://www.youtube.com/watch?v=h-HKy619BM8) [9:14]
 - [Dave Hounslow - You Are What You Eat How Branching Affects Team Culture](https://vimeo.com/162625187) [25:26]
 - [Pieter Hintjens - How Conway's Law is eating your job?](https://www.youtube.com/watch?v=7HECD3eLoVo) [26:58]
 - [Andreas Fast - Excellence Through Diversity](https://www.youtube.com/watch?v=_mwcreHuqNA) [28:17]
 - [Tony Wieczorek - 5 Practical Ways to Advocate for Diversity](https://www.youtube.com/watch?v=zi335PDgL7A) [29:46]
-- [Matthew McCullough - Conference Submissions and Presentations made more effective with 10 quick tips](https://www.youtube.com/watch?v=fJz4JJIchaY) [30:08]
 - [Lillie Chilen - Internships: Good for the Intern, Great for the Team](https://www.youtube.com/watch?v=75LK0MOvyjQ) [31:06]
-- [Jason Hand - Understanding Cognitive Bias Found In Judgement & Choice](https://www.youtube.com/watch?v=tnFw-0hpa5A) [31:20]
 - [James Mickens - Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors That Are Beyond My Control....](https://vimeo.com/180568023) [32:12]
 - [Andr Arko - Including People](https://www.youtube.com/watch?v=MrPtHogES6k) [33:19]
 - [Rein Henrichs - Why Good Software Goes Bad](https://www.youtube.com/watch?v=JXVHvqbfsNI) [33:48]
@@ -19,28 +17,29 @@
 - [Kimberly D. Barnes & Kinsey Ann Durham - Becoming a Mid... ](https://www.youtube.com/watch?v=i_RisLTNZEY) [40:59]
 - [Edmond Lau - How to Identify Efforts that Make a Big Impact When Building Software Products](https://www.youtube.com/watch?v=NZA6TkCP3yo) [41:16]
 - [Teresa Martyny - From Director to Intern: Changing Careers as a Single Mom](https://www.youtube.com/watch?v=hZLz9p58ZqU) [42:16]
-- [Katherine Wu - Continuing Education at Work](https://www.youtube.com/watch?v=9uRho69xSAI) [42:56]
 - [Birgitta Bckeler - Born for IT? - How the Image of Software Developers came about](https://www.youtube.com/watch?v=wk1r4XaWwsM) [44:08]
-- [Dougal Matthews - Effective Code Review](https://www.youtube.com/watch?v=uIwl01Nazdg) [44:18]
 - [Sean O'Connor - From Developer to Manager](https://www.youtube.com/watch?v=lzBm0r8CxhY) [46:50]
-- [Ben Orenstein - How to Talk to Developers](https://www.youtube.com/watch?v=l9JXH7JPjR4)  [47:37]
 - [Jeff Casimir - Why Developers Quit](https://www.youtube.com/watch?v=JgEgtKKAabg)  [48:50]
 - [Sarah Johnson, Bob Paulin & Tim Steele - Growing Up Geek ](https://www.youtube.com/watch?v=GLU3ARt4GIY) [49:39]
 - [Alex Osterwalder - How to Intentionally Design a (Lean Startup) Culture](https://www.youtube.com/watch?v=Yw7Me3jOUVg) [50:35]
-- [Michelle Dickinson - Public Speaking Skills for Quiet People](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M316)  [51:43]
 - [Gabriela D'Ávila - Coding Like a Girl](https://www.youtube.com/watch?v=cPCm8zpchQ4) [52:30]
 - [Trisha Gee - Career Advice for Programmers](https://www.youtube.com/watch?v=LlAn452X4Lc)  [54:18]
 - [Sandro Mancuso - Crafted Design](https://vimeo.com/101106002) [54:32]
-- [Mahesh Krishnan - Soft Skills for the Developer](https://vimeo.com/188694272) [55:55]
 - [Matthew Renze - Clean Code: A Reader-Centered Approach](https://vimeo.com/157710445) [56:35]
-- [Geoffrey Grosenbach - Technical Explanations](https://www.youtube.com/watch?v=FpnLCkhv-1g)  [56:54]
-- [Austin Bingham - Making the Case for Reviews](https://vimeo.com/105879807) [01:00:16]
 - [Lauren Scott - Shall I Compare Thee to a Line of Code? - Lauren Scott](https://vimeo.com/161591675) [01:01:28]
 - [Sven Peters - Coding Culture](https://vimeo.com/138873440) [01:03:29]
 - [Phil Nash - Seeking Simplicity](https://vimeo.com/157716613) [01:04:59]
 - [Edmond Lau - The Effective Engineer: The Power of Leverage](https://www.youtube.com/watch?v=SclqaNqqAV0) [1:12:52]
-- [Jules May - Team Building ](https://www.youtube.com/watch?v=_Bnm9QWWRlA) [1:27:34]
 
 
+## Hiring and Recruitment
+
+- [Johanna Rothmann - Agile Hiring: It's A Team Sport](https://vimeo.com/166252359) [54:26]
+- [Leigh Ann Shaffner - Agile HR](https://vimeo.com/167960239) [1:07:23]
 
 
+## Code Review
+
+- [Dougal Matthews - Effective Code Review](https://www.youtube.com/watch?v=uIwl01Nazdg) [44:18]
+- [Brendan Humphreys - Code Review for Teams Too Busy to Review Code](https://www.youtube.com/watch?v=1m3eRFeCInY) [56:48]
+- [Austin Bingham - Making the Case for Reviews](https://vimeo.com/105879807) [01:00:16]
