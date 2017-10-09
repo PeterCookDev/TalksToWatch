@@ -6,7 +6,7 @@
 - [Andreas Fast - Excellence Through Diversity](https://www.youtube.com/watch?v=_mwcreHuqNA) [28:17]
 - [Tony Wieczorek - 5 Practical Ways to Advocate for Diversity](https://www.youtube.com/watch?v=zi335PDgL7A) [29:46]
 - [Lillie Chilen - Internships: Good for the Intern, Great for the Team](https://www.youtube.com/watch?v=75LK0MOvyjQ) [31:06]
-- [James Mickens - Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors That Are Beyond My Control....](https://vimeo.com/180568023) [32:12]
+- [James Mickens - Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors That Are Beyond My Control....](https://www.youtube.com/watch?v=7Nj9ZjwOdFQ) [32:12]
 - [Andr Arko - Including People](https://www.youtube.com/watch?v=MrPtHogES6k) [33:19]
 - [Rein Henrichs - Why Good Software Goes Bad](https://www.youtube.com/watch?v=JXVHvqbfsNI) [33:48]
 - [Duretti Hirpa - Empathy-Driven Development](https://www.youtube.com/watch?v=XZJBfMmOEjg)  [35:36]
