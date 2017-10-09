@@ -13,7 +13,7 @@
 - [Tushar Sharma - Does your design smell?](https://www.youtube.com/watch?v=eCw0vRpsz4s) [48:51]
 - [Brian Goetz - Keynote Move Deliberately and Don't Break Anything](https://www.youtube.com/watch?v=ibYrHlwCKB4) [50:16]
 - [Jonas Bonér - Without Resilience, Nothing Else Matters](https://www.youtube.com/watch?v=beC49rexj7I)  [51:01]
-- [Doc Norton - The Technical Debt Trap](https://vimeo.com/181527148) [53:14]
+- [Doc Norton - The Technical Debt Trap](https://www.youtube.com/watch?v=SfWCRl75Kas) [53:14]
 - [Orion Edwards - Great Artists Steal: Build better software by applying patterns and ideas from different languages](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M314) [56:09]
 - [Miguel Castro: Understanding Dependency Injection and Those Pesky Containers](https://vimeo.com/68390510)  [1:00:33]
 - [Simon Brown - Software architecture as code](https://www.youtube.com/watch?v=oDpdaXt0HQI)  [1:01:13]

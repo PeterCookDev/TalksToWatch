@@ -18,7 +18,7 @@
 - [Fred George - Challenges in Implementing MicroServices](https://www.youtube.com/watch?v=2Fy_xidc11w)  [50:12]
 - [Darrel Miller - Consuming REST APIs, for all interpretations of REST](https://www.youtube.com/watch?v=1KWgwc-MFhE)  [51:01]
 - [Ali Kheyrollahi - 5 Anti-Patterns in designing APIs](https://vimeo.com/156250743) [51:06]
-- [Alex Mackey - Performance & Stability Anti-patterns -](https://vimeo.com/200257761) [51:37]
+- [Alex Mackey - Performance & Stability Anti-patterns -](https://www.youtube.com/watch?v=-S1gogAJioM) [51:37]
 - [Fabian Stäber - unRESTful Web Services with HTTP2](https://www.youtube.com/watch?v=wR3o6HA47Ao)  [52:13]
 - [Dominick Baier - Securing Web APIs – Patterns & Anti-Patterns ](https://vimeo.com/131635255)  [52:53]
 - [Christopher Batey - The dangers of building microservices](https://vimeo.com/138956044) [54:52]

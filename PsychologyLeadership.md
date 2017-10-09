@@ -55,7 +55,7 @@
 - [Matthew McCullough - 10 Quick Tips for More Effective Conference Submissions and Presentations](https://www.youtube.com/watch?v=fJz4JJIchaY)  [30:07]
 - [Ben Orenstein - How to Talk to Developers](https://www.youtube.com/watch?v=l9JXH7JPjR4)  [47:37]
 - [Michelle Dickinson - Public Speaking Skills for Quiet People](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M316)  [51:43]
-- [Mahesh Krishnan - Soft Skills for the Developer](https://vimeo.com/188694272) [55:55]
+- [Mahesh Krishnan - Soft Skills for the Developer](https://www.youtube.com/watch?v=qiK3vQkXn6U) [55:55]
 - [Geoffrey Grosenbach - Technical Explanations](https://www.youtube.com/watch?v=FpnLCkhv-1g)  [56:54]
 - [Steve Clayton - The secret to telling awesome stories – from Microsoft's Chief Storyteller](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M112)  [1:02:03]
 
