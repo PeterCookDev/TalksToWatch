@@ -41,7 +41,7 @@
 - [Dan Bergh Johnsson - The Power of Value - Power Use of Value Objects in Domain Driven Design](https://vimeo.com/13549100)  [51:44]
 - [Einar Landre - Use of Domain Driven Design in Enterprise Application Development](https://vimeo.com/12971233)  [52:42]
 - [Eric Evans - Strategic Design](https://vimeo.com/12674642)  [58:12]
-- [Jimmy Bogard - Domain-Driven Design: The Good Parts](https://vimeo.com/200271482) [58:46]
+- [Jimmy Bogard - Domain-Driven Design: The Good Parts](https://www.youtube.com/watch?v=U6CeaA-Phqo) [58:39]
 - [Eric Evans - Domain Driven Design](https://www.youtube.com/watch?v=7MaYeudL9yo)  [1:14:37]
 - [Per Rovegard Ph.D - Real Experiences and Architectural Domain-Driven Design Patterns Applied on Microsoft .NET Developme](https://www.youtube.com/watch?v=QQdRRltJk2g)  [1:16:26]
 - [Vaugh Vernon - Effective Aggregate Design Part II](https://vimeo.com/33708293)  [1:22:59]
@@ -50,14 +50,12 @@
 
 ## Functional Programming and `F#`
 
-- [Evelina Gabasova - Putting fun into data analysis with F#](https://vimeo.com/144816160) [38:44]
 - [Pat Helland - Immutability Changes Everything](https://vimeo.com/52831373)  [45:19]
 - [Greg Young - Functional Data](https://vimeo.com/131636650)  [49:52]
-- [Tomas Jansson - F# as our day job by 2016](https://vimeo.com/132194547)  [55:24]
 - [Scott Wlaschin - Domain modelling with the F# type system](https://vimeo.com/97507575)  [1:03:40]
 - [Kelsey Innis - Learning Functional Programming without Growing a Neckbeard](https://www.youtube.com/watch?v=OOvL6QAxRK4)  [1:04:42]
 - [Scott Wlaschin - Functional programming design patterns](https://vimeo.com/113588389)  [1:05:44]
-- [Einar Hst - F# with Einar Hst](https://vimeo.com/145626941) [01:18:55]
+
 
 ## Devops
 
