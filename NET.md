@@ -17,7 +17,7 @@
 - [Damian Edwards & David Fowler - Patterns for application development with ASP.NET Core](https://vimeo.com/204080268) [1:02:12]
 - [Damian Edwards & David Fowler - ASP.NET Core Kestrel: Adventures in building a fast web server](https://vimeo.com/172009499) [01:03:00]
 - [Eric Potter - C# Inception: Using Roslyn and C# Code to Analyze C# Code](https://www.youtube.com/watch?v=30sfiBL3qMo) [1:03:07]
-- [Russ Cam - Diving into Elasticsearch with .NET - ](https://vimeo.com/200261551) [1:04:05]
+- [Russ Cam - Diving into Elasticsearch with .NET - ](https://www.youtube.com/watch?v=lwMzO8kxQ18) [1:04:06]
 - [Bill Wagner - Into the Matrix: Using the Roslyn APIs to analyze and fix code By Writing more code](https://vimeo.com/157297154) [01:05:03]
 - [Bill Wagner - Something C# 7 This Way Comes](https://vimeo.com/154708153) [1:05:52]
 - [Sasha Goldshtein - Practical C#6 and beyond](https://www.youtube.com/watch?v=trvHicdm_sY) [1:06:41]

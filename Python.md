@@ -47,7 +47,7 @@
 - [Andrew Burrows - Testing the untestable: a beginners guide to mock objects](https://www.youtube.com/watch?v=jsjParCB7BU) [25:00]
 - [Ana Balica - To mock, or not to mock, that is the question](https://www.youtube.com/watch?v=KYG5C1CEkOk) [28:38]
 - [Micha Bultrowicz - TDD of Python microservices](https://www.youtube.com/watch?v=d-ka10jngQQ) [37:13]
-- [Testing in Python - Austin Bingham](https://vimeo.com/208800416) [59:14]
+- [Testing in Python - Austin Bingham](https://www.youtube.com/watch?v=N0MtHdIhJlU) [59:15]
 - [Harry Percival - Outside-In TDD](https://www.youtube.com/watch?v=6zQAu23bKF8) [1:47:00]
 - [Michael Tom-Wing, Christie Wilson - Introduction to Unit Testing in Python with Pytest](https://www.youtube.com/watch?v=UPanUFVFfzY) [2:31:47]
 
