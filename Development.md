@@ -76,9 +76,8 @@
 
 ## Security
 
-- [Dominick Baier - What’s new in Security in ASP.NET 5 and MVC 6](https://vimeo.com/154041158)  [1:00:02]
-- [Erlend Oftedal - Broken Crypto is Broken](https://vimeo.com/154958368) [1:01:39]
-- [Troy Hunt - Making Hacking Child’s Play](https://vimeo.com/153908385)  [1:02:25]
+- [Erlend Oftedal - Broken Crypto is Broken](https://www.youtube.com/watch?v=HZ3sYta9yrg) [1:01:39]
+
 
 ## Tools
 
