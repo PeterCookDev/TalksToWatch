@@ -4,6 +4,7 @@
 - [Seth Godin: Tribes](https://vimeo.com/2090774)  []
 - [Larry Smith - Why you will fail to have a great career](https://www.youtube.com/watch?v=iKHTawgyKWQ)  [14:59]
 - [Ralph Heinkel - The value of mindfulness and how it has arrived at Google](https://www.youtube.com/watch?v=8TAJ9ytl9qE) [24:28]
+- [Scott Lesser - Leading When You're Not in Charge](https://www.youtube.com/watch?v=m-WDmNoQmkg) [24:52]
 - [Martin Seligman - Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
 - [Ernie Miller - Choices](https://www.youtube.com/watch?v=_5D0rBIEsZc)  [29:16]
 - [Aimee Knight - Getting Comfortable Being Uncomfortable ](https://www.youtube.com/watch?v=9qkef7IXn6s) [29:30]

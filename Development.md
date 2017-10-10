@@ -25,6 +25,7 @@
 
 ## Design Principles
 
+- [Patrick Joyce - Managing Unmanageable Complexity](https://www.youtube.com/watch?v=yVgrNtz7KpA) [30:48]
 - [Uwe Friedrichsen - Patterns of resilience - the untold stories of robust software design ](https://www.youtube.com/watch?v=T9MPDmw6MNI) [59:35]
 - [Josh Bloch - How to Design a Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)  [1:00:14]
 - [Rich Hickey - Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)  [1:01:26]
@@ -33,6 +34,7 @@
 - [Venkat Subramaniam: Core principles and creating lightweight design](https://www.youtube.com/watch?v=IigBP0FCM3Y)  [1:11:48]
 - [Barbara Liskov - The Power Of Abstraction](http://www.infoq.com/presentations/liskov-power-of-abstraction)  [1:18:34]
 - [Venkat Subramaniam - Core Design Principles for Software Developers](https://www.youtube.com/watch?v=llGgO74uXMI) [2:36:09]
+
 
 ## Domain Driven Design
 
