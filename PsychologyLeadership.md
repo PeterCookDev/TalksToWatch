@@ -62,6 +62,7 @@
 
 ## Learning
 
+- [Dave Ott and Dennis Eusebio - Cultivating a Culture of Continuous Learning](https://www.youtube.com/watch?v=awTIU0K6nb4) [35:33]
 - [Diana Larsen - Quickstart guide to the five rules of accelerated learning](https://vimeo.com/144795023)  [41:15]
 - [Katherine Wu - Continuing Education at Work](https://www.youtube.com/watch?v=9uRho69xSAI) [42:56]
 - [Greg Wilson - Evidence Based Teaching What We Know and How to Use It](https://www.youtube.com/watch?v=kmVKGxPlTvc) [2:43:57]
