@@ -14,7 +14,6 @@
 - [Zach Holman - The Talk on Talks](http://devslovebacon.com/conferences/bacon-2014/talks/the-talk-on-talks)[36:26]
 - [Mike Burrows - Servant Leadership un-neutered](https://vimeo.com/191064322) [36:45]
 - [Pawel Brodzinksi - The Leadership gap](https://vimeo.com/115962902)  [37:00]
-- [Phil Askew & Cornelia Burfvestam - Inner critics and outer innovators](https://vimeo.com/190924545) [39:07]
 - [José Lorenzo Rodríguez - Fixing mind anti-patterns with mindfulness](https://vimeo.com/191078784) [42:14]
 - [Rich Kuzsma - Hacking the Brain](https://www.youtube.com/watch?v=YEpWr1PknIU) [42:58]
 - [J. Leighton Read, MD - Total Engagement and the Reinvention of Work using Games](https://vimeo.com/43250464)  [43:54]
