@@ -6,7 +6,6 @@
 - [Ralph Heinkel - The value of mindfulness and how it has arrived at Google](https://www.youtube.com/watch?v=8TAJ9ytl9qE) [24:28]
 - [Scott Lesser - Leading When You're Not in Charge](https://www.youtube.com/watch?v=m-WDmNoQmkg) [24:52]
 - [Martin Seligman - Flourish](https://vimeo.com/channels/thersa/26720639)  [24:48]
-- [Ernie Miller - Choices](https://www.youtube.com/watch?v=_5D0rBIEsZc)  [29:16]
 - [Aimee Knight - Getting Comfortable Being Uncomfortable ](https://www.youtube.com/watch?v=9qkef7IXn6s) [29:30]
 - [Jason Hand - Understanding Cognitive Bias Found In Judgement & Choice](https://www.youtube.com/watch?v=tnFw-0hpa5A) [31:20]
 - [Joe Mastey - Manage Your Energy, Not Your Time](https://www.youtube.com/watch?v=40tblq40AkQ) [32:14]
