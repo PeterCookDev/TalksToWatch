@@ -11,7 +11,6 @@
 - [Joe Mastey - Manage Your Energy, Not Your Time](https://www.youtube.com/watch?v=40tblq40AkQ) [32:14]
 - [Johan Öbrink - Everyone wants change. No-one wants to change.](https://vimeo.com/190929281) [32:29]
 - [Zach Holman - The Talk on Talks](http://devslovebacon.com/conferences/bacon-2014/talks/the-talk-on-talks)[36:26]
-- [Mike Burrows - Servant Leadership un-neutered](https://vimeo.com/191064322) [36:45]
 - [Pawel Brodzinksi - The Leadership gap](https://vimeo.com/115962902)  [37:00]
 - [José Lorenzo Rodríguez - Fixing mind anti-patterns with mindfulness](https://vimeo.com/191078784) [42:14]
 - [Rich Kuzsma - Hacking the Brain](https://www.youtube.com/watch?v=YEpWr1PknIU) [42:58]
