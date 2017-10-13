@@ -24,7 +24,6 @@
 
 ## Design Principles
 
-- [Patrick Joyce - Managing Unmanageable Complexity](https://www.youtube.com/watch?v=yVgrNtz7KpA) [30:48]
 - [Uwe Friedrichsen - Patterns of resilience - the untold stories of robust software design ](https://www.youtube.com/watch?v=T9MPDmw6MNI) [59:35]
 - [Josh Bloch - How to Design a Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)  [1:00:14]
 - [Rich Hickey - Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)  [1:01:26]
