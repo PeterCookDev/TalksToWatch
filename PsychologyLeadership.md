@@ -9,7 +9,6 @@
 - [Aimee Knight - Getting Comfortable Being Uncomfortable ](https://www.youtube.com/watch?v=9qkef7IXn6s) [29:30]
 - [Jason Hand - Understanding Cognitive Bias Found In Judgement & Choice](https://www.youtube.com/watch?v=tnFw-0hpa5A) [31:20]
 - [Joe Mastey - Manage Your Energy, Not Your Time](https://www.youtube.com/watch?v=40tblq40AkQ) [32:14]
-- [Johan Öbrink - Everyone wants change. No-one wants to change.](https://vimeo.com/190929281) [32:29]
 - [Zach Holman - The Talk on Talks](http://devslovebacon.com/conferences/bacon-2014/talks/the-talk-on-talks)[36:26]
 - [Pawel Brodzinksi - The Leadership gap](https://vimeo.com/115962902)  [37:00]
 - [José Lorenzo Rodríguez - Fixing mind anti-patterns with mindfulness](https://vimeo.com/191078784) [42:14]
