@@ -5,7 +5,6 @@
 - [Gary Bernhardt - Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
 - [Zach Tellman - States and Nomads: Handling Software Complexity](https://www.youtube.com/watch?v=KGaFcI2UNrI)  [29:55]
 - [Reginald Braithwaite - First-Class Commands: An unexpectedly fertile design pattern](https://vimeo.com/157132267) [33:05]
-- [Glenn Vanderburg - Why software development is an engineering discipline](https://www.youtube.com/watch?v=zDEpeWQHtFU)  [41:46]
 - [Ben Maurer - Systems at Facebook Scale](https://www.youtube.com/watch?v=dlixGkelP9U)  [43:36]
 - [Hadi Hariri - Removing barriers](https://vimeo.com/131644347)  [43:53]
 - [Patrik Fredriksson - It's About Time!](https://vimeo.com/144819382)  [44:47]
