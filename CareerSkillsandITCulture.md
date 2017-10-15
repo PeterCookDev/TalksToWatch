@@ -5,7 +5,6 @@
 - [Pieter Hintjens - How Conway's Law is eating your job?](https://www.youtube.com/watch?v=7HECD3eLoVo) [26:58]
 - [Andreas Fast - Excellence Through Diversity](https://www.youtube.com/watch?v=_mwcreHuqNA) [28:17]
 - [Tony Wieczorek - 5 Practical Ways to Advocate for Diversity](https://www.youtube.com/watch?v=zi335PDgL7A) [29:46]
-- [Joe Mastey - An Optimistic Proposal for Making Horrible Code... Bearable](https://www.youtube.com/watch?v=hFuzIWz6Ynk) [30:38]
 - [Lillie Chilen - Internships: Good for the Intern, Great for the Team](https://www.youtube.com/watch?v=75LK0MOvyjQ) [31:06]
 - [James Mickens - Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors That Are Beyond My Control....](https://www.youtube.com/watch?v=7Nj9ZjwOdFQ) [32:12]
 - [Andr Arko - Including People](https://www.youtube.com/watch?v=MrPtHogES6k) [33:19]
