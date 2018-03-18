@@ -23,7 +23,6 @@
 - [Dominick Baier - Securing Web APIs – Patterns & Anti-Patterns ](https://vimeo.com/131635255)  [52:53]
 - [Christopher Batey - The dangers of building microservices](https://vimeo.com/138956044) [54:52]
 - [Paulmichael Blasucci - The Beating Heart of CQRS](https://vimeo.com/144747595)  [55:08]
-- [Brock Allen - OWIN and Katana: What the Func?](https://vimeo.com/97329189)  [55:46]
 - [Matt Heath - Handling Failure in Microservice Architectures](https://vimeo.com/155669120) [56:19]
 - [Dominick Baier - Web API Authorization & Access Control – done right!](https://vimeo.com/97337305)  [57:26]
 - [Milen Dyankov - Microservices and Modularity or the difference between treatment and cure!](https://www.youtube.com/watch?v=O77777Zy_HE)  [58:23]

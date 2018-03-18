@@ -40,8 +40,6 @@
 ## Testing, TDD and BDD
 
 - [Christin Wiedermann - Smarter testing through smarter testers](https://vimeo.com/144830621)  [34:57]
-- [Konstantin Kudryashov - Moving away from Legacy code with BDD](https://vimeo.com/120574455)  [36:20]
-- [Alan Richard - Automation abstractions - Page objects and beyond](https://vimeo.com/111214646)  [38:58]
 - [Melvin Laguren - Testing Strategies for Continuous Delivery](https://www.youtube.com/watch?v=DgQWSaCQ82U)  [40:47]
 - [Gareth Bowles - I Don't Test Often ... But When I Do, I Test in Production](https://www.youtube.com/watch?v=xkP70Zhhix4&list=PLSIUOFhnxEiDFckNDSjKWqOCtd8ksJrh4&index=8)  [41:16]
 - [Liz Keogh - Real conversations in BDD](https://vimeo.com/144723689)  [42:04]
